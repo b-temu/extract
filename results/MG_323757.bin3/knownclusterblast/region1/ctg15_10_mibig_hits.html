@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>AAC38144.1</td>
+              <td>mutacin_II</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000532/1">BGC0000532</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>85.0</td>
+              <td>100.0</td>
+              <td>101.0</td>
+              <td>1.01e-30</td>
+          </tr>
+    
+          <tr>
+              <td>CAA63706.1</td>
+              <td>bacteriocin</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000562/1">BGC0000562</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>64.0</td>
+              <td>88.7</td>
+              <td>66.0</td>
+              <td>9.79e-17</td>
+          </tr>
+    
+          <tr>
+              <td>AAC72257.1</td>
+              <td>preprolacticin_481</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000521/1">BGC0000521</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>55.0</td>
+              <td>88.7</td>
+              <td>56.0</td>
+              <td>1.41e-12</td>
+          </tr>
+    
+          <tr>
+              <td>BAC98759.1</td>
+              <td>NukA</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000539/1">BGC0000539</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>57.0</td>
+              <td>79.2</td>
+              <td>55.0</td>
+              <td>3.26e-12</td>
+          </tr>
+    
+          <tr>
+              <td>AOT85888.1</td>
+              <td>suicin_65_precursor</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001788/1">BGC0001788</a></td>
+              <td>RiPP</td>
+              <td>49.0</td>
+              <td>96.2</td>
+              <td>54.0</td>
+              <td>1.16e-11</td>
+          </tr>
+    
+          <tr>
+              <td>CAB93671.1</td>
+              <td>pre-RumA</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000545/1">BGC0000545</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>46.0</td>
+              <td>94.3</td>
+              <td>52.0</td>
+              <td>4.34e-11</td>
+          </tr>
+    
+          <tr>
+              <td>CAB93672.1</td>
+              <td>pre-RumA</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000545/1">BGC0000545</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>46.0</td>
+              <td>94.3</td>
+              <td>52.0</td>
+              <td>4.34e-11</td>
+          </tr>
+    
+          <tr>
+              <td>CAB93673.1</td>
+              <td>pre-RumA</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000545/1">BGC0000545</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>46.0</td>
+              <td>94.3</td>
+              <td>52.0</td>
+              <td>4.34e-11</td>
+          </tr>
+    
+          <tr>
+              <td>AAC19355.1</td>
+              <td>butyrivibriocin_OR79</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000499/1">BGC0000499</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>53.0</td>
+              <td>88.7</td>
+              <td>52.0</td>
+              <td>6.29e-11</td>
+          </tr>
+    
+          <tr>
+              <td>AOT85889.1</td>
+              <td>suicin_65_precursor</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001788/1">BGC0001788</a></td>
+              <td>RiPP</td>
+              <td>51.0</td>
+              <td>84.9</td>
+              <td>52.0</td>
+              <td>6.72e-11</td>
+          </tr>
+    
+          <tr>
+              <td>AAB92600.1</td>
+              <td>streptococcin_A-FF22_precursor</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000557/1">BGC0000557</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>45.0</td>
+              <td>100.0</td>
+              <td>48.0</td>
+              <td>1.58e-09</td>
+          </tr>
+    
+          <tr>
+              <td>ABI30226.1</td>
+              <td>McdA</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000526/1">BGC0000526</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>44.0</td>
+              <td>84.9</td>
+              <td>45.0</td>
+              <td>2.62e-08</td>
+          </tr>
+    
+          <tr>
+              <td>ABI30227.1</td>
+              <td>McdA&#39;</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000526/1">BGC0000526</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>44.0</td>
+              <td>84.9</td>
+              <td>45.0</td>
+              <td>2.62e-08</td>
+          </tr>
+    
+          <tr>
+              <td>AFB74479.1</td>
+              <td>salivaricin_G32</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000550/1">BGC0000550</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>44.0</td>
+              <td>84.9</td>
+              <td>44.0</td>
+              <td>7.21e-08</td>
+          </tr>
+    
+          <tr>
+              <td>AFB74480.1</td>
+              <td>salivaricin_G32</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000550/1">BGC0000550</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>44.0</td>
+              <td>84.9</td>
+              <td>44.0</td>
+              <td>7.21e-08</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

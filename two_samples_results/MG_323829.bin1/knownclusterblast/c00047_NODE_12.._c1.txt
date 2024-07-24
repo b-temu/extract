@@ -1,0 +1,25 @@
+ClusterBlast scores for c00047_NODE_12..
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg47_1	2	221	-		
+ctg47_2	225	1602	-		
+ctg47_3	1731	2382	-		
+ctg47_4	2539	2863	-		
+ctg47_5	2914	3043	-		
+ctg47_6	3134	3683	+		
+ctg47_7	3744	4341	-		
+ctg47_8	4351	5578	-		
+ctg47_9	5607	5778	-		
+ctg47_10	5795	6290	-		
+ctg47_11	6369	7209	-		
+ctg47_12	7311	8535	+		
+ctg47_13	8536	9820	+		
+ctg47_14	9911	10361	+		
+ctg47_15	10353	11010	+		
+ctg47_16	11096	11687	+		
+
+
+Significant hits: 
+
+
+Details:

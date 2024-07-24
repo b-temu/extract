@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="263,40 268,40 273,35 268,30 263,30 263,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg59_1&lt;/b&gt;&lt;br&gt;ctg59 1&lt;br&gt;Location: 603 - 801" locus_tag="ctg59_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="274,40 279,40 284,35 279,30 274,30 274,40 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg59_2&lt;/b&gt;&lt;br&gt;ctg59 2&lt;br&gt;Location: 813 - 996" locus_tag="ctg59_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="323,40 326,40 331,35 326,30 323,30 323,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg59_3&lt;/b&gt;&lt;br&gt;ctg59 3&lt;br&gt;Location: 1736 - 1877" locus_tag="ctg59_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="380,40 416,40 421,35 416,30 380,30 380,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg59_4&lt;/b&gt;&lt;br&gt;ctg59 4&lt;br&gt;Location: 2811 - 3564" locus_tag="ctg59_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="424,40 455,40 460,35 455,30 424,30 424,40 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg59_5&lt;/b&gt;&lt;br&gt;ctg59 5&lt;br&gt;Location: 3628 - 4309" locus_tag="ctg59_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="461,40 503,40 508,35 503,30 461,30 461,40 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg59_6&lt;/b&gt;&lt;br&gt;ctg59 6&lt;br&gt;Location: 4317 - 5208" locus_tag="ctg59_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="508,40 512,40 517,35 512,30 508,30 508,40 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg59_7&lt;/b&gt;&lt;br&gt;ctg59 7&lt;br&gt;Location: 5209 - 5377" locus_tag="ctg59_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+</g>
+<g label="NZ_CP078505" description="NZ_CP078505 (3139533-3154876): Enterococcus gallinarum strain fecal iso1 chro... (13% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP078505&amp;start=3139533&amp;end=3154876" target="_blank">NZ_CP078505 (3139533-3154876)</a>: Enterococcus gallinarum strain fecal iso1 chro... (13% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 58,90 63,85 58,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14685&lt;/b&gt;&lt;br&gt;SIR2 family protein&lt;br&gt;Location: 3154264 - 3153068" locus_tag="KW861_RS14685" class="clusterblast-orf" id="dummy-1_h1_2_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="63,90 161,90 166,85 161,80 63,80 63,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14680&lt;/b&gt;&lt;br&gt;DUF87 domain-containing protein&lt;br&gt;Location: 3153067 - 3151145" locus_tag="KW861_RS14680" class="clusterblast-orf" id="dummy-1_h1_2_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="184,85 189,80 189,80 189,90 189,90 184,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14675&lt;/b&gt;&lt;br&gt;type I toxin-antitoxin system Fst family toxin&lt;br&gt;Location: 3150802 - 3150710" locus_tag="KW861_RS14675" class="clusterblast-orf" id="dummy-1_h1_2_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="234,90 345,90 350,85 345,80 234,80 234,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14670&lt;/b&gt;&lt;br&gt;peptide cleavage/export ABC transporter&lt;br&gt;Location: 3149876 - 3147705" locus_tag="KW861_RS14670" class="clusterblast-orf" id="dummy-1_h1_2_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="354,90 420,90 425,85 420,80 354,80 354,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14665&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 3147613 - 3146297" locus_tag="KW861_RS14665" class="clusterblast-orf" id="dummy-1_h1_2_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="425,90 459,90 464,85 459,80 425,80 425,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14660&lt;/b&gt;&lt;br&gt;LytTR family DNA-binding domain-containing protein&lt;br&gt;Location: 3146291 - 3145554" locus_tag="KW861_RS14660" class="clusterblast-orf" id="dummy-1_h1_2_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="475,90 478,90 483,85 478,80 475,80 475,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14655&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 3145346 - 3145209" locus_tag="KW861_RS14655" class="clusterblast-orf" id="dummy-1_h1_2_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="496,90 503,90 508,85 503,80 496,80 496,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14650&lt;/b&gt;&lt;br&gt;Blp family class II bacteriocin&lt;br&gt;Location: 3144962 - 3144729&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg59_1&lt;/b&gt;&lt;br&gt;Percentage identity: 92&lt;br&gt;Percentage coverage: 95&lt;br&gt;BLAST bit score: 49&lt;br&gt;E-value: 1.64e-07" locus_tag="KW861_RS14650" class="clusterblast-orf" id="dummy-1_h1_2_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="509,90 514,90 519,85 514,80 509,80 509,90 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14645&lt;/b&gt;&lt;br&gt;Blp family class II bacteriocin&lt;br&gt;Location: 3144716 - 3144534&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg59_2&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 80&lt;br&gt;E-value: 5.87e-20" locus_tag="KW861_RS14645" class="clusterblast-orf" id="dummy-1_h1_2_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="537,90 559,90 564,85 559,80 537,80 537,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14640&lt;/b&gt;&lt;br&gt;PedC/BrcD family bacteriocin maturation disulfide isomerase&lt;br&gt;Location: 3144189 - 3143680" locus_tag="KW861_RS14640" class="clusterblast-orf" id="dummy-1_h1_2_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="577,85 582,80 600,80 600,90 582,90 577,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14635&lt;/b&gt;&lt;br&gt;helix-turn-helix domain-containing protein&lt;br&gt;Location: 3143439 - 3143005" locus_tag="KW861_RS14635" class="clusterblast-orf" id="dummy-1_h1_2_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="608,90 628,90 633,85 628,80 608,80 608,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14630&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 3142861 - 3142391" locus_tag="KW861_RS14630" class="clusterblast-orf" id="dummy-1_h1_2_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="644,90 697,90 702,85 697,80 644,80 644,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14625&lt;/b&gt;&lt;br&gt;replication initiation factor domain-containing protein&lt;br&gt;Location: 3142192 - 3141098" locus_tag="KW861_RS14625" class="clusterblast-orf" id="dummy-1_h1_2_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="706,90 712,90 717,85 712,80 706,80 706,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14620&lt;/b&gt;&lt;br&gt;DUF3173 domain-containing protein&lt;br&gt;Location: 3141033 - 3140815" locus_tag="KW861_RS14620" class="clusterblast-orf" id="dummy-1_h1_2_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="716,90 775,90 780,85 775,80 716,80 716,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14615&lt;/b&gt;&lt;br&gt;site-specific integrase&lt;br&gt;Location: 3140831 - 3139647" locus_tag="KW861_RS14615" class="clusterblast-orf" id="dummy-1_h1_2_14"  />
+</g>
+</svg>

@@ -1,0 +1,137 @@
+ClusterBlast scores for NODE_63_length_11229_cov_186.926347
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg15_1	294	414	-		
+ctg15_2	473	734	-		
+ctg15_3	801	1068	-		
+ctg15_4	2192	3056	-		
+ctg15_5	3369	4116	-		
+ctg15_6	4108	4849	-		
+ctg15_7	4855	5761	-		
+ctg15_8	5753	7850	-		
+ctg15_9	7905	10614	-		
+ctg15_10	10667	10829	-		
+
+
+Significant hits: 
+1. BGC0000532	mutacin II
+2. BGC0000545	ruminococcin A
+3. BGC0000521	lacticin 481
+4. BGC0000539	nukacin ISK-1
+5. BGC0000562	variacin
+
+
+Details:
+
+>>
+1. BGC0000532
+Source: mutacin II
+Type: RiPP:Lanthipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1461.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AAC38144.1	AAC38144.1	496	657	+	mutacin_II
+AAC38145.1	AAC38145.1	726	3422	+	
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_9	AAC38145.1	75	1360	100.55432372505544	0.0
+ctg15_10	AAC38144.1	85	101	100.0	1.01e-30
+
+
+
+>>
+2. BGC0000545
+Source: ruminococcin A
+Type: RiPP:Lanthipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 371.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+CAC60272.1	CAC60272.1	1	297	+	hypothetical_protein
+CAC60273.1	CAC60273.1	561	911	-	RumR2_protein
+CAC60274.1	CAC60274.1	958	1254	-	RumH_protein
+CAC60275.1	CAC60275.1	1261	2025	-	RumG_protein
+CAC60276.1	CAC60276.1	2096	2764	-	RumE_protein
+CAB93668.2	CAB93668.2	2761	3525	-	RumF_protein
+CAB93669.1	CAB93669.1	3674	4375	+	RumR_protein
+CAB93670.1	CAB93670.1	4380	5759	+	RumK_protein
+CAB93671.1	CAB93671.1	5926	6069	+	pre-RumA
+CAB93672.1	CAB93672.1	6087	6230	+	pre-RumA
+CAB93673.1	CAB93673.1	6249	6392	+	pre-RumA
+CAB93674.2	CAB93674.2	6551	9295	+	RumM_protein
+CAC60277.1	CAC60277.1	9314	11380	+	RumT_protein
+CAC60278.1	CAC60278.1	11898	12578	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	CAB93668.2	50	215	71.76079734219269	7.22e-69
+ctg15_10	CAB93671.1	46	52	94.33962264150944	4.34e-11
+ctg15_10	CAB93672.1	46	52	94.33962264150944	4.34e-11
+ctg15_10	CAB93673.1	46	52	94.33962264150944	4.34e-11
+
+
+
+>>
+3. BGC0000521
+Source: lacticin 481
+Type: RiPP:Lanthipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 339.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AAC72260.1	AAC72260.1	1	498	-	unknown
+AAC72261.1	AAC72261.1	737	2056	+	putative_transposase
+AAC72257.1	AAC72257.1	2471	2626	+	preprolacticin_481
+AAC72258.1	AAC72258.1	2764	5532	+	LctM
+AAC72259.1	AAC72259.1	5551	7626	+	LctT
+AAC72253.1	AAC72253.1	7684	8604	+	LctF
+AAC72254.1	AAC72254.1	8604	9356	+	LctE
+AAC72255.1	AAC72255.1	9350	10087	+	LctG
+AAC72256.1	AAC72256.1	10388	11707	+	putative_transposase
+AAC72262.1	AAC72262.1	12029	12132	+	unknown
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	AAC72253.1	49	283	99.66777408637874	9.8e-95
+ctg15_10	AAC72257.1	55	56	88.67924528301887	1.41e-12
+
+
+
+>>
+4. BGC0000539
+Source: nukacin ISK-1
+Type: RiPP:Lanthipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 336.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BAC98758.1	BAC98758.1	156	899	-	putative_response_regulator
+BAC98759.1	BAC98759.1	1326	1499	-	NukA
+BAC98760.2	BAC98760.2	1901	4654	+	NukM
+BAC98761.2	BAC98761.2	4676	6760	+	NukT
+BAC98762.1	BAC98762.1	6773	7648	+	NukF
+BAC98763.1	BAC98763.1	7681	8433	+	NukE
+BAC98764.1	BAC98764.1	8430	9167	+	NukG
+BAC98765.2	BAC98765.2	9174	9452	+	NukH
+BAC98766.1	BAC98766.1	9561	9761	-	putative_plasmid_replication-associated_protein
+BAC98767.1	BAC98767.1	9767	10417	-	putative_plasmid_replication-associated_protein
+BAC98768.1	BAC98768.1	11192	11740	+	replication_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	BAC98762.1	49	281	97.00996677740864	1.71e-94
+ctg15_10	BAC98759.1	57	55	79.24528301886792	3.26e-12
+
+
+
+>>
+5. BGC0000562
+Source: variacin
+Type: RiPP:Lanthipeptide
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 66.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+CAA63706.1	CAA63706.1	88	231	+	bacteriocin
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_10	CAA63706.1	64	66	88.67924528301887	9.79e-17
+

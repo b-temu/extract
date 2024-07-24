@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="166,35 171,30 219,30 219,40 171,40 166,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_1&lt;/b&gt;&lt;br&gt;ctg82 1&lt;br&gt;Location: 520 - 1279" locus_tag="ctg82_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="219,35 224,30 312,30 312,40 224,40 219,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_2&lt;/b&gt;&lt;br&gt;ctg82 2&lt;br&gt;Location: 1280 - 2594" locus_tag="ctg82_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="318,35 323,30 472,30 472,40 323,40 318,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_3&lt;/b&gt;&lt;br&gt;ctg82 3&lt;br&gt;Location: 2682 - 4854" locus_tag="ctg82_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="531,40 566,40 571,35 566,30 531,30 531,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_4&lt;/b&gt;&lt;br&gt;ctg82 4&lt;br&gt;Location: 5685 - 6258" locus_tag="ctg82_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="577,40 610,40 615,35 610,30 577,30 577,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_5&lt;/b&gt;&lt;br&gt;ctg82 5&lt;br&gt;Location: 6338 - 6875" locus_tag="ctg82_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+</g>
+<g label="NZ_SPHN01000003" description="NZ_SPHN01000003 (68221-80384): Enterococcus sp. BSD2780061688st2 D3 strain BS... (33% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_SPHN01000003&amp;start=68221&amp;end=80384" target="_blank">NZ_SPHN01000003 (68221-80384)</a>: Enterococcus sp. BSD2780061688st2 D3 strain BS... (33% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 136,90 141,85 136,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;FGQ66_RS03790&lt;/b&gt;&lt;br&gt;methionine--tRNA ligase&lt;br&gt;Location: 80099 - 78090" locus_tag="FGQ66_RS03790" class="clusterblast-orf" id="dummy-1_h1_7_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="156,85 161,80 167,80 167,90 161,90 156,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;FGQ66_RS15095&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 77878 - 77723" locus_tag="FGQ66_RS15095" class="clusterblast-orf" id="dummy-1_h1_7_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="181,85 186,80 234,80 234,90 186,90 181,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;FGQ66_RS03785&lt;/b&gt;&lt;br&gt;LytTR family DNA-binding domain-containing protein&lt;br&gt;Location: 77523 - 76786&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_1&lt;/b&gt;&lt;br&gt;Percentage identity: 68&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 345&lt;br&gt;E-value: 5.22e-119" locus_tag="FGQ66_RS03785" class="clusterblast-orf" id="dummy-1_h1_7_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="232,85 237,80 327,80 327,90 237,90 232,85 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;FGQ66_RS03780&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 76811 - 75456&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_2&lt;/b&gt;&lt;br&gt;Percentage identity: 52&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 403&lt;br&gt;E-value: 4.81e-136" locus_tag="FGQ66_RS03780" class="clusterblast-orf" id="dummy-1_h1_7_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="333,85 338,80 485,80 485,90 338,90 333,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;FGQ66_RS03775&lt;/b&gt;&lt;br&gt;peptide cleavage/export ABC transporter&lt;br&gt;Location: 75384 - 73222&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_3&lt;/b&gt;&lt;br&gt;Percentage identity: 67&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 922&lt;br&gt;E-value: 0.0" locus_tag="FGQ66_RS03775" class="clusterblast-orf" id="dummy-1_h1_7_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="514,85 519,80 555,80 555,90 519,90 514,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;FGQ66_RS03770&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 72821 - 72237" locus_tag="FGQ66_RS03770" class="clusterblast-orf" id="dummy-1_h1_7_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="567,90 655,90 660,85 655,80 567,80 567,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;FGQ66_RS03765&lt;/b&gt;&lt;br&gt;amino acid permease&lt;br&gt;Location: 72065 - 70752" locus_tag="FGQ66_RS03765" class="clusterblast-orf" id="dummy-1_h1_7_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="685,90 735,90 740,85 735,80 685,80 685,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;FGQ66_RS03760&lt;/b&gt;&lt;br&gt;TatD family hydrolase&lt;br&gt;Location: 70392 - 69616" locus_tag="FGQ66_RS03760" class="clusterblast-orf" id="dummy-1_h1_7_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="740,90 774,90 779,85 774,80 740,80 740,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;FGQ66_RS03755&lt;/b&gt;&lt;br&gt;ribonuclease M5&lt;br&gt;Location: 69623 - 69057" locus_tag="FGQ66_RS03755" class="clusterblast-orf" id="dummy-1_h1_7_8"  />
+</g>
+</svg>

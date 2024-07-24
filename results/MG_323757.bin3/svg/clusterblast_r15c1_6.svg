@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="206,35 211,30 211,30 211,40 211,40 206,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_1&lt;/b&gt;&lt;br&gt;ctg15 1&lt;br&gt;Location: 294 - 414" locus_tag="ctg15_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="213,35 218,30 222,30 222,40 218,40 213,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_2&lt;/b&gt;&lt;br&gt;ctg15 2&lt;br&gt;Location: 473 - 734" locus_tag="ctg15_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="224,35 229,30 233,30 233,40 229,40 224,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_3&lt;/b&gt;&lt;br&gt;ctg15 3&lt;br&gt;Location: 801 - 1068" locus_tag="ctg15_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="273,35 278,30 303,30 303,40 278,40 273,35 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_4&lt;/b&gt;&lt;br&gt;ctg15 4&lt;br&gt;Location: 2192 - 3056" locus_tag="ctg15_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="314,35 319,30 340,30 340,40 319,40 314,35 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_5&lt;/b&gt;&lt;br&gt;ctg15 5&lt;br&gt;Location: 3369 - 4116" locus_tag="ctg15_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="339,35 344,30 365,30 365,40 344,40 339,35 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_6&lt;/b&gt;&lt;br&gt;ctg15 6&lt;br&gt;Location: 4108 - 4849" locus_tag="ctg15_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="365,35 370,30 397,30 397,40 370,40 365,35 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_7&lt;/b&gt;&lt;br&gt;ctg15 7&lt;br&gt;Location: 4855 - 5761" locus_tag="ctg15_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="397,35 402,30 470,30 470,40 402,40 397,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_8&lt;/b&gt;&lt;br&gt;ctg15 8&lt;br&gt;Location: 5753 - 7850" locus_tag="ctg15_8" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="471,35 476,30 566,30 566,40 476,40 471,35 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_9&lt;/b&gt;&lt;br&gt;ctg15 9&lt;br&gt;Location: 7905 - 10614" locus_tag="ctg15_9" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="568,35 573,30 573,30 573,40 573,40 568,35 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_10&lt;/b&gt;&lt;br&gt;ctg15 10&lt;br&gt;Location: 10667 - 10829" locus_tag="ctg15_10" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+</g>
+<g label="NZ_CP066294" description="NZ_CP066294 (1640828-1663534): Streptococcus mutans strain 27-3 chromosome, c... (31% of genes show similarity), lanthipeptide-class-ii" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP066294&amp;start=1640828&amp;end=1663534" target="_blank">NZ_CP066294 (1640828-1663534)</a>: Streptococcus mutans strain 27-3 chromosome, c... (31% of genes show similarity), lanthipeptide-class-ii</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 48,80 48,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08235&lt;/b&gt;&lt;br&gt;fructose-specific PTS transporter subunit EIIC&lt;br&gt;Location: 1663284 - 1661884" locus_tag="IGS65_RS08235" class="clusterblast-orf" id="dummy-1_h1_6_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="48,85 53,80 81,80 81,90 53,90 48,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08230&lt;/b&gt;&lt;br&gt;1-phosphofructokinase&lt;br&gt;Location: 1661879 - 1660947" locus_tag="IGS65_RS08230" class="clusterblast-orf" id="dummy-1_h1_6_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="85,90 106,90 111,85 106,80 85,80 85,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08225&lt;/b&gt;&lt;br&gt;MurR/RpiR family transcriptional regulator&lt;br&gt;Location: 1660818 - 1660069" locus_tag="IGS65_RS08225" class="clusterblast-orf" id="dummy-1_h1_6_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="123,85 128,80 153,80 153,90 128,90 123,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08215&lt;/b&gt;&lt;br&gt;fructose-bisphosphate aldolase&lt;br&gt;Location: 1659750 - 1658869" locus_tag="IGS65_RS08215" class="clusterblast-orf" id="dummy-1_h1_6_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="161,85 166,80 166,80 166,90 166,90 161,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS09730&lt;/b&gt;&lt;br&gt;lipase&lt;br&gt;Location: 1658638 - 1658489" locus_tag="IGS65_RS09730" class="clusterblast-orf" id="dummy-1_h1_6_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="167,90 169,90 174,85 169,80 167,80 167,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS09725&lt;/b&gt;&lt;br&gt;IS982 family transposase&lt;br&gt;Location: 1658480 - 1658274" locus_tag="IGS65_RS09725" class="clusterblast-orf" id="dummy-1_h1_6_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="181,85 186,80 207,80 207,90 186,90 181,85 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08210&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 1658075 - 1657329&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_5&lt;/b&gt;&lt;br&gt;Percentage identity: 78&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 384&lt;br&gt;E-value: 2.1e-134" locus_tag="IGS65_RS08210" class="clusterblast-orf" id="dummy-1_h1_6_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="207,85 212,80 232,80 232,90 212,90 207,85 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08205&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 1657336 - 1656596&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_6&lt;/b&gt;&lt;br&gt;Percentage identity: 81&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 380&lt;br&gt;E-value: 6.01e-133" locus_tag="IGS65_RS08205" class="clusterblast-orf" id="dummy-1_h1_6_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="233,85 238,80 264,80 264,90 238,90 233,85 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08200&lt;/b&gt;&lt;br&gt;ATP-binding cassette domain-containing protein&lt;br&gt;Location: 1656589 - 1655681&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_7&lt;/b&gt;&lt;br&gt;Percentage identity: 86&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 506&lt;br&gt;E-value: 3.11e-181" locus_tag="IGS65_RS08200" class="clusterblast-orf" id="dummy-1_h1_6_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="263,85 268,80 337,80 337,90 268,90 263,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08195&lt;/b&gt;&lt;br&gt;cysteine peptidase family C39 domain-containing protein&lt;br&gt;Location: 1655706 - 1653589&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_8&lt;/b&gt;&lt;br&gt;Percentage identity: 76&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1026&lt;br&gt;E-value: 0.0" locus_tag="IGS65_RS08195" class="clusterblast-orf" id="dummy-1_h1_6_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="339,85 344,80 433,80 433,90 344,90 339,85 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08190&lt;/b&gt;&lt;br&gt;type 2 lanthipeptide synthetase LanM family protein&lt;br&gt;Location: 1653534 - 1650829&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_9&lt;/b&gt;&lt;br&gt;Percentage identity: 78&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1419&lt;br&gt;E-value: 0.0" locus_tag="IGS65_RS08190" class="clusterblast-orf" id="dummy-1_h1_6_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="436,85 441,80 441,80 441,90 441,90 436,85 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08185&lt;/b&gt;&lt;br&gt;lacticin 481 family lantibiotic&lt;br&gt;Location: 1650760 - 1650599&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_10&lt;/b&gt;&lt;br&gt;Percentage identity: 85&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 101&lt;br&gt;E-value: 7.32e-29" locus_tag="IGS65_RS08185" class="clusterblast-orf" id="dummy-1_h1_6_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="453,85 458,80 483,80 483,90 458,90 453,85 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08180&lt;/b&gt;&lt;br&gt;XRE/MutR family transcriptional regulator&lt;br&gt;Location: 1650250 - 1649387&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_4&lt;/b&gt;&lt;br&gt;Percentage identity: 77&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 437&lt;br&gt;E-value: 3.81e-154" locus_tag="IGS65_RS08180" class="clusterblast-orf" id="dummy-1_h1_6_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="488,85 493,80 516,80 516,90 493,90 488,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08175&lt;/b&gt;&lt;br&gt;IS982 family transposase&lt;br&gt;Location: 1649267 - 1648451" locus_tag="IGS65_RS08175" class="clusterblast-orf" id="dummy-1_h1_6_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="523,90 523,90 528,85 523,80 523,80 523,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08170&lt;/b&gt;&lt;br&gt;helix-turn-helix domain-containing protein&lt;br&gt;Location: 1648246 - 1648096" locus_tag="IGS65_RS08170" class="clusterblast-orf" id="dummy-1_h1_6_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="570,85 575,80 627,80 627,90 575,90 570,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08160&lt;/b&gt;&lt;br&gt;CTP synthase&lt;br&gt;Location: 1646885 - 1645275" locus_tag="IGS65_RS08160" class="clusterblast-orf" id="dummy-1_h1_6_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="631,85 636,80 652,80 652,90 636,90 631,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08155&lt;/b&gt;&lt;br&gt;DNA-directed RNA polymerase subunit delta&lt;br&gt;Location: 1645141 - 1644557" locus_tag="IGS65_RS08155" class="clusterblast-orf" id="dummy-1_h1_6_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="668,85 673,80 712,80 712,90 673,90 668,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08150&lt;/b&gt;&lt;br&gt;site-specific integrase&lt;br&gt;Location: 1644080 - 1642825" locus_tag="IGS65_RS08150" class="clusterblast-orf" id="dummy-1_h1_6_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="715,85 720,80 723,80 723,90 720,90 715,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08145&lt;/b&gt;&lt;br&gt;MerR family transcriptional regulator&lt;br&gt;Location: 1642737 - 1642491" locus_tag="IGS65_RS08145" class="clusterblast-orf" id="dummy-1_h1_6_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="723,85 728,80 744,80 744,90 728,90 723,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08140&lt;/b&gt;&lt;br&gt;replication protein&lt;br&gt;Location: 1642504 - 1641905" locus_tag="IGS65_RS08140" class="clusterblast-orf" id="dummy-1_h1_6_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="749,85 754,80 768,80 768,90 754,90 749,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08135&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1641745 - 1641197" locus_tag="IGS65_RS08135" class="clusterblast-orf" id="dummy-1_h1_6_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="771,85 776,80 780,80 780,90 776,90 771,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IGS65_RS08130&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1641129 - 1640881" locus_tag="IGS65_RS08130" class="clusterblast-orf" id="dummy-1_h1_6_21"  />
+</g>
+</svg>

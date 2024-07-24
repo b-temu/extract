@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>CAA60452.1</td>
+              <td>ABC-transporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001040/1">BGC0001040</a></td>
+              <td>NRP+Polyketide</td>
+              <td>46.0</td>
+              <td>99.1</td>
+              <td>186.0</td>
+              <td>8.21e-59</td>
+          </tr>
+    
+          <tr>
+              <td>AIG26885.1</td>
+              <td>putative_multidrug_export_ATP-binding/permease_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002432/1">BGC0002432</a></td>
+              <td>NRP</td>
+              <td>36.0</td>
+              <td>87.0</td>
+              <td>96.0</td>
+              <td>2.16e-22</td>
+          </tr>
+    
+          <tr>
+              <td>AAR12534.1</td>
+              <td>putative_ABC_transporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002468/1">BGC0002468</a></td>
+              <td>NRP</td>
+              <td>37.0</td>
+              <td>85.7</td>
+              <td>93.0</td>
+              <td>1.26e-21</td>
+          </tr>
+    
+          <tr>
+              <td>KIH99790.1</td>
+              <td>hypothetical_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001176/1">BGC0001176</a></td>
+              <td>RiPP:Lassopeptide</td>
+              <td>28.0</td>
+              <td>88.8</td>
+              <td>76.0</td>
+              <td>1.24e-15</td>
+          </tr>
+    
+          <tr>
+              <td>QLG04851.1</td>
+              <td>PulU</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002374/1">BGC0002374</a></td>
+              <td>Polyketide</td>
+              <td>28.0</td>
+              <td>89.2</td>
+              <td>54.0</td>
+              <td>4.6e-08</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

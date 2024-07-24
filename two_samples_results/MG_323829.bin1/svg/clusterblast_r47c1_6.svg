@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="274,35 278,30 278,40 274,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg47_1&lt;/b&gt;&lt;br&gt;ctg47 1&lt;br&gt;Location: 2 - 221" locus_tag="ctg47_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="278,35 283,30 306,30 306,40 283,40 278,35 " style="fill:#4dd815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg47_2&lt;/b&gt;&lt;br&gt;ctg47 2&lt;br&gt;Location: 225 - 1602" locus_tag="ctg47_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="308,35 313,30 321,30 321,40 313,40 308,35 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg47_3&lt;/b&gt;&lt;br&gt;ctg47 3&lt;br&gt;Location: 1731 - 2382" locus_tag="ctg47_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="324,35 329,30 331,30 331,40 329,40 324,35 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg47_4&lt;/b&gt;&lt;br&gt;ctg47 4&lt;br&gt;Location: 2539 - 2863" locus_tag="ctg47_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="332,35 334,30 334,40 332,35 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg47_5&lt;/b&gt;&lt;br&gt;ctg47 5&lt;br&gt;Location: 2914 - 3043" locus_tag="ctg47_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="336,40 342,40 347,35 342,30 336,30 336,40 " style="fill:#a115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg47_6&lt;/b&gt;&lt;br&gt;ctg47 6&lt;br&gt;Location: 3134 - 3683" locus_tag="ctg47_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="348,35 353,30 360,30 360,40 353,40 348,35 " style="fill:#d86915; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg47_7&lt;/b&gt;&lt;br&gt;ctg47 7&lt;br&gt;Location: 3744 - 4341" locus_tag="ctg47_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="360,35 365,30 384,30 384,40 365,40 360,35 " style="fill:#15d831; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg47_8&lt;/b&gt;&lt;br&gt;ctg47 8&lt;br&gt;Location: 4351 - 5578" locus_tag="ctg47_8" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="385,35 388,30 388,40 385,35 " style="fill:#1531d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg47_9&lt;/b&gt;&lt;br&gt;ctg47 9&lt;br&gt;Location: 5607 - 5778" locus_tag="ctg47_9" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="389,35 394,30 399,30 399,40 394,40 389,35 " style="fill:#d815bc; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg47_10&lt;/b&gt;&lt;br&gt;ctg47 10&lt;br&gt;Location: 5795 - 6290" locus_tag="ctg47_10" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+<polygon points="400,35 405,30 417,30 417,40 405,40 400,35 " style="fill:#d8bc15; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg47_11&lt;/b&gt;&lt;br&gt;ctg47 11&lt;br&gt;Location: 6369 - 7209" locus_tag="ctg47_11" class="clusterblast-orf" id="dummy-1_q10_0_all"  />
+<polygon points="419,40 438,40 443,35 438,30 419,30 419,40 " style="fill:#15d885; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg47_12&lt;/b&gt;&lt;br&gt;ctg47 12&lt;br&gt;Location: 7311 - 8535" locus_tag="ctg47_12" class="clusterblast-orf" id="dummy-1_q11_0_all"  />
+<polygon points="443,40 464,40 469,35 464,30 443,30 443,40 " style="fill:#4d15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg47_13&lt;/b&gt;&lt;br&gt;ctg47 13&lt;br&gt;Location: 8536 - 9820" locus_tag="ctg47_13" class="clusterblast-orf" id="dummy-1_q12_0_all"  />
+<polygon points="470,40 474,40 479,35 474,30 470,30 470,40 " style="fill:#d81569; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg47_14&lt;/b&gt;&lt;br&gt;ctg47 14&lt;br&gt;Location: 9911 - 10361" locus_tag="ctg47_14" class="clusterblast-orf" id="dummy-1_q13_0_all"  />
+<polygon points="479,40 487,40 492,35 487,30 479,30 479,40 " style="fill:#a1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg47_15&lt;/b&gt;&lt;br&gt;ctg47 15&lt;br&gt;Location: 10353 - 11010" locus_tag="ctg47_15" class="clusterblast-orf" id="dummy-1_q14_0_all"  />
+<polygon points="494,40 501,40 506,35 501,30 494,30 494,40 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg47_16&lt;/b&gt;&lt;br&gt;ctg47 16&lt;br&gt;Location: 11096 - 11687" locus_tag="ctg47_16" class="clusterblast-orf" id="dummy-1_q15_0_all"  />
+</g>
+<g label="NC_019048" description="NC_019048 (1100543-1141821): Streptococcus agalactiae, complete genome (35% of genes show similarity), T3PKS" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area.html?record=NC_019048&amp;start=1100543&amp;end=1141821" target="_blank">NC_019048 (1100543-1141821)</a>: Streptococcus agalactiae, complete genome (35% of genes show similarity), T3PKS</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 35,80 35,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05830&lt;/b&gt;&lt;br&gt;excinuclease ABC subunit UvrC&lt;br&gt;Location: 1101687 - 1103468" locus_tag="SASA20_RS05830" class="clusterblast-orf" id="dummy-1_h1_6_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="38,90 48,90 53,85 48,80 38,80 38,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05835&lt;/b&gt;&lt;br&gt;epoxyqueuosine reductase QueH&lt;br&gt;Location: 1103627 - 1104394" locus_tag="SASA20_RS05835" class="clusterblast-orf" id="dummy-1_h1_6_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="54,85 59,80 81,80 81,90 59,90 54,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05840&lt;/b&gt;&lt;br&gt;MATE family efflux transporter&lt;br&gt;Location: 1104453 - 1105793" locus_tag="SASA20_RS05840" class="clusterblast-orf" id="dummy-1_h1_6_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="83,85 88,80 91,80 91,90 88,90 83,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05845&lt;/b&gt;&lt;br&gt;VOC family protein&lt;br&gt;Location: 1105893 - 1106308" locus_tag="SASA20_RS05845" class="clusterblast-orf" id="dummy-1_h1_6_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="91,85 96,80 101,80 101,90 96,90 91,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05850&lt;/b&gt;&lt;br&gt;phage tail protein&lt;br&gt;Location: 1106312 - 1106809" locus_tag="SASA20_RS05850" class="clusterblast-orf" id="dummy-1_h1_6_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="106,90 112,90 117,85 112,80 106,80 106,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05855&lt;/b&gt;&lt;br&gt;Ltp family lipoprotein&lt;br&gt;Location: 1107031 - 1107627" locus_tag="SASA20_RS05855" class="clusterblast-orf" id="dummy-1_h1_6_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="139,85 142,80 142,90 139,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS09785&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1108704 - 1108883" locus_tag="SASA20_RS09785" class="clusterblast-orf" id="dummy-1_h1_6_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="147,85 152,80 154,80 154,90 152,90 147,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05870&lt;/b&gt;&lt;br&gt;50S ribosomal protein L7/L12&lt;br&gt;Location: 1109109 - 1109474" locus_tag="SASA20_RS05870" class="clusterblast-orf" id="dummy-1_h1_6_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="155,85 160,80 165,80 165,90 160,90 155,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05875&lt;/b&gt;&lt;br&gt;50S ribosomal protein L10&lt;br&gt;Location: 1109538 - 1110038" locus_tag="SASA20_RS05875" class="clusterblast-orf" id="dummy-1_h1_6_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="174,90 211,90 216,85 211,80 174,80 174,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05880&lt;/b&gt;&lt;br&gt;ATP-dependent Clp protease ATP-binding subunit&lt;br&gt;Location: 1110471 - 1112579" locus_tag="SASA20_RS05880" class="clusterblast-orf" id="dummy-1_h1_6_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="217,85 222,80 234,80 234,90 222,90 217,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05890&lt;/b&gt;&lt;br&gt;homocysteine S-methyltransferase&lt;br&gt;Location: 1112673 - 1113507&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg47_1&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 148&lt;br&gt;E-value: 3.7e-34" locus_tag="SASA20_RS05890" class="clusterblast-orf" id="dummy-1_h1_6_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="234,85 239,80 261,80 261,90 239,90 234,85 " style="fill:#4dd815; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05895&lt;/b&gt;&lt;br&gt;amino acid permease&lt;br&gt;Location: 1113512 - 1114888&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg47_2&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 851&lt;br&gt;E-value: 5.6e-245" locus_tag="SASA20_RS05895" class="clusterblast-orf" id="dummy-1_h1_6_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="264,85 269,80 277,80 277,90 269,90 264,85 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05900&lt;/b&gt;&lt;br&gt;HXXEE domain-containing protein&lt;br&gt;Location: 1115018 - 1115668&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg47_3&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 432&lt;br&gt;E-value: 2.9e-119" locus_tag="SASA20_RS05900" class="clusterblast-orf" id="dummy-1_h1_6_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="277,85 282,80 290,80 290,90 282,90 277,85 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05905&lt;/b&gt;&lt;br&gt;HXXEE domain-containing protein&lt;br&gt;Location: 1115680 - 1116330&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg47_4&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 213&lt;br&gt;E-value: 1.1e-53&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg47_5&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 86&lt;br&gt;E-value: 1e-15" locus_tag="SASA20_RS05905" class="clusterblast-orf" id="dummy-1_h1_6_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="292,90 298,90 303,85 298,80 292,80 292,90 " style="fill:#a115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05915&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 1116422 - 1116970&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg47_6&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 355&lt;br&gt;E-value: 2.9e-96" locus_tag="SASA20_RS05915" class="clusterblast-orf" id="dummy-1_h1_6_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="304,85 309,80 316,80 316,90 309,90 304,85 " style="fill:#d86915; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05920&lt;/b&gt;&lt;br&gt;YihA family ribosome biogenesis GTP-binding protein&lt;br&gt;Location: 1117032 - 1117628&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg47_7&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 396&lt;br&gt;E-value: 1.6e-108" locus_tag="SASA20_RS05920" class="clusterblast-orf" id="dummy-1_h1_6_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="316,85 321,80 340,80 340,90 321,90 316,85 " style="fill:#15d831; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05925&lt;/b&gt;&lt;br&gt;ATP-dependent Clp protease ATP-binding subunit ClpX&lt;br&gt;Location: 1117639 - 1118865&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg47_8&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 785&lt;br&gt;E-value: 3.4e-225" locus_tag="SASA20_RS05925" class="clusterblast-orf" id="dummy-1_h1_6_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="345,85 350,80 354,80 354,90 350,90 345,85 " style="fill:#d815bc; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05935&lt;/b&gt;&lt;br&gt;dihydrofolate reductase&lt;br&gt;Location: 1119082 - 1119576&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg47_10&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 343&lt;br&gt;E-value: 1.4e-92" locus_tag="SASA20_RS05935" class="clusterblast-orf" id="dummy-1_h1_6_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="356,85 361,80 373,80 373,90 361,90 356,85 " style="fill:#d8bc15; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05940&lt;/b&gt;&lt;br&gt;thymidylate synthase&lt;br&gt;Location: 1119656 - 1120495&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg47_11&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 577&lt;br&gt;E-value: 7.3e-163" locus_tag="SASA20_RS05940" class="clusterblast-orf" id="dummy-1_h1_6_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="374,90 394,90 399,85 394,80 374,80 374,90 " style="fill:#15d885; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05945&lt;/b&gt;&lt;br&gt;hydroxymethylglutaryl-CoA synthase&lt;br&gt;Location: 1120544 - 1121821&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg47_12&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 793&lt;br&gt;E-value: 1.2e-227" locus_tag="SASA20_RS05945" class="clusterblast-orf" id="dummy-1_h1_6_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="399,90 419,90 424,85 419,80 399,80 399,90 " style="fill:#4d15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05950&lt;/b&gt;&lt;br&gt;hydroxymethylglutaryl-CoA reductase, degradative&lt;br&gt;Location: 1121823 - 1123088&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg47_13&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 787&lt;br&gt;E-value: 7.1e-226" locus_tag="SASA20_RS05950" class="clusterblast-orf" id="dummy-1_h1_6_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="425,90 429,90 434,85 429,80 425,80 425,90 " style="fill:#d81569; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05955&lt;/b&gt;&lt;br&gt;DUF1836 domain-containing protein&lt;br&gt;Location: 1123148 - 1123597&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg47_14&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 299&lt;br&gt;E-value: 2e-79" locus_tag="SASA20_RS05955" class="clusterblast-orf" id="dummy-1_h1_6_21"  />
+</g>
+<g id="a1_0022"  >
+<polygon points="434,90 442,90 447,85 442,80 434,80 434,90 " style="fill:#a1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05960&lt;/b&gt;&lt;br&gt;hemolysin III family protein&lt;br&gt;Location: 1123590 - 1124246&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg47_15&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 416&lt;br&gt;E-value: 2.2e-114" locus_tag="SASA20_RS05960" class="clusterblast-orf" id="dummy-1_h1_6_22"  />
+</g>
+<g id="a1_0023"  >
+<polygon points="449,90 462,90 467,85 462,80 449,80 449,90 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05965&lt;/b&gt;&lt;br&gt;diacylglycerol kinase family lipid kinase&lt;br&gt;Location: 1124333 - 1125247&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg47_16&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 380&lt;br&gt;E-value: 9.2e-104" locus_tag="SASA20_RS05965" class="clusterblast-orf" id="dummy-1_h1_6_23"  />
+</g>
+<g id="a1_0024"  >
+<polygon points="469,90 477,90 482,85 477,80 469,80 469,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05970&lt;/b&gt;&lt;br&gt;glutathione S-transferase family protein&lt;br&gt;Location: 1125348 - 1125998" locus_tag="SASA20_RS05970" class="clusterblast-orf" id="dummy-1_h1_6_24"  />
+</g>
+<g id="a1_0025"  >
+<polygon points="483,85 487,80 487,90 483,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05975&lt;/b&gt;&lt;br&gt;DUF4649 family protein&lt;br&gt;Location: 1126044 - 1126256" locus_tag="SASA20_RS05975" class="clusterblast-orf" id="dummy-1_h1_6_25"  />
+</g>
+<g id="a1_0026"  >
+<polygon points="488,85 493,80 510,80 510,90 493,90 488,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05980&lt;/b&gt;&lt;br&gt;type 2 isopentenyl-diphosphate Delta-isomerase&lt;br&gt;Location: 1126324 - 1127394" locus_tag="SASA20_RS05980" class="clusterblast-orf" id="dummy-1_h1_6_26"  />
+</g>
+<g id="a1_0027"  >
+<polygon points="510,85 515,80 529,80 529,90 515,90 510,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05985&lt;/b&gt;&lt;br&gt;phosphomevalonate kinase&lt;br&gt;Location: 1127391 - 1128383" locus_tag="SASA20_RS05985" class="clusterblast-orf" id="dummy-1_h1_6_27"  />
+</g>
+<g id="a1_0028"  >
+<polygon points="529,85 534,80 548,80 548,90 534,90 529,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05990&lt;/b&gt;&lt;br&gt;diphosphomevalonate decarboxylase&lt;br&gt;Location: 1128376 - 1129320" locus_tag="SASA20_RS05990" class="clusterblast-orf" id="dummy-1_h1_6_28"  />
+</g>
+<g id="a1_0029"  >
+<polygon points="547,85 552,80 565,80 565,90 552,90 547,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS05995&lt;/b&gt;&lt;br&gt;mevalonate kinase&lt;br&gt;Location: 1129302 - 1130180" locus_tag="SASA20_RS05995" class="clusterblast-orf" id="dummy-1_h1_6_29"  />
+</g>
+<g id="a1_0030"  >
+<polygon points="567,85 572,80 592,80 592,90 572,90 567,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS06000&lt;/b&gt;&lt;br&gt;HAMP domain-containing histidine kinase&lt;br&gt;Location: 1130296 - 1131525" locus_tag="SASA20_RS06000" class="clusterblast-orf" id="dummy-1_h1_6_30"  />
+</g>
+<g id="a1_0031"  >
+<polygon points="592,85 597,80 605,80 605,90 597,90 592,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS06005&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 1131525 - 1132211" locus_tag="SASA20_RS06005" class="clusterblast-orf" id="dummy-1_h1_6_31"  />
+</g>
+<g id="a1_0032"  >
+<polygon points="605,85 610,80 618,80 618,90 610,90 605,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS06010&lt;/b&gt;&lt;br&gt;GTP pyrophosphokinase&lt;br&gt;Location: 1132213 - 1132839" locus_tag="SASA20_RS06010" class="clusterblast-orf" id="dummy-1_h1_6_32"  />
+</g>
+<g id="a1_0033"  >
+<polygon points="620,85 625,80 627,80 627,90 625,90 620,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS06015&lt;/b&gt;&lt;br&gt;ATP-binding cassette domain-containing protein&lt;br&gt;Location: 1132947 - 1133318" locus_tag="SASA20_RS06015" class="clusterblast-orf" id="dummy-1_h1_6_33"  />
+</g>
+<g id="a1_0034"  >
+<polygon points="628,90 632,90 637,85 632,80 628,80 628,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS06020&lt;/b&gt;&lt;br&gt;DUF308 domain-containing protein&lt;br&gt;Location: 1133335 - 1133817" locus_tag="SASA20_RS06020" class="clusterblast-orf" id="dummy-1_h1_6_34"  />
+</g>
+<g id="a1_0035"  >
+<polygon points="638,85 643,80 673,80 673,90 643,90 638,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS06025&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 1133858 - 1135627" locus_tag="SASA20_RS06025" class="clusterblast-orf" id="dummy-1_h1_6_35"  />
+</g>
+<g id="a1_0036"  >
+<polygon points="673,85 678,80 708,80 708,90 678,90 673,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS06030&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 1135632 - 1137371" locus_tag="SASA20_RS06030" class="clusterblast-orf" id="dummy-1_h1_6_36"  />
+</g>
+<g id="a1_0037"  >
+<polygon points="709,85 714,80 718,80 718,90 714,90 709,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS06035&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 1137438 - 1137911" locus_tag="SASA20_RS06035" class="clusterblast-orf" id="dummy-1_h1_6_37"  />
+</g>
+<g id="a1_0038"  >
+<polygon points="718,85 723,80 755,80 755,90 723,90 718,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS06040&lt;/b&gt;&lt;br&gt;ABC-F family ATP-binding cassette domain-containing protein&lt;br&gt;Location: 1137908 - 1139776" locus_tag="SASA20_RS06040" class="clusterblast-orf" id="dummy-1_h1_6_38"  />
+</g>
+<g id="a1_0039"  >
+<polygon points="756,85 761,80 780,80 780,90 761,90 756,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SASA20_RS06045&lt;/b&gt;&lt;br&gt;CCA tRNA nucleotidyltransferase&lt;br&gt;Location: 1139787 - 1140995" locus_tag="SASA20_RS06045" class="clusterblast-orf" id="dummy-1_h1_6_39"  />
+</g>
+</svg>

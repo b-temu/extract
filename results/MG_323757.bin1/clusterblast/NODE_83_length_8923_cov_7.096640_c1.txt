@@ -1,0 +1,116 @@
+ClusterBlast scores for NODE_83_length_8923_cov_7.096640
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg59_1	603	801	+		
+ctg59_2	813	996	+		
+ctg59_3	1736	1877	+		
+ctg59_4	2811	3564	+		
+ctg59_5	3628	4309	+		
+ctg59_6	4317	5208	+		
+ctg59_7	5209	5377	+		
+
+
+Significant hits: 
+1. NZ_NGLI01000002	Enterococcus sp. 3G1_DIV0629 scaffold00002, whole genome shotgun sequence
+2. NZ_CP078505	Enterococcus gallinarum strain fecal_iso1 chromosome, complete genome
+3. NZ_KZ846093	Enterococcus faecium strain 131EA1 aekeh-supercont1.2, whole genome shotgun sequence
+4. NZ_KZ846230	Enterococcus faecium strain 235EA1 aekdA-supercont1.3, whole genome shotgun sequence
+5. NZ_KB946108	Enterococcus faecium EnGen0263 strain UAA1280 acvJW-supercont1.3, whole genome shotgun sequence
+6. NZ_CP072983	Lactobacillus intestinalis strain DSM 6629 chromosome, complete genome
+
+
+Details:
+
+>>
+1. NZ_NGLI01000002
+Source: Enterococcus sp. 3G1_DIV0629 scaffold00002, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 159.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5816_RS11455	A5816_RS11455	559279	559600	-	tyrosine-type_recombinase/integrase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg59_2	A5816_RS11495	85	81	100.0	2.91e-20
+ctg59_3	A5816_RS11505	85	78	100.0	9.32e-20
+
+
+
+>>
+2. NZ_CP078505
+Source: Enterococcus gallinarum strain fecal_iso1 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 129.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+KW861_RS14675	KW861_RS14675	3150710	3150802	+	type_I_toxin-antitoxin_system_Fst_family_toxin
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg59_1	KW861_RS14650	92	49	95.38461538461539	1.64e-07
+ctg59_2	KW861_RS14645	83	80	100.0	5.87e-20
+
+
+
+>>
+3. NZ_KZ846093
+Source: Enterococcus faecium strain 131EA1 aekeh-supercont1.2, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 129.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg59_1	EB12_RS07195	92	49	95.38461538461539	1.64e-07
+ctg59_2	EB12_RS07200	83	80	100.0	5.87e-20
+
+
+
+>>
+4. NZ_KZ846230
+Source: Enterococcus faecium strain 235EA1 aekdA-supercont1.3, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 129.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg59_1	EB33_RS09810	92	49	95.38461538461539	1.64e-07
+ctg59_2	EB33_RS09815	83	80	100.0	5.87e-20
+
+
+
+>>
+5. NZ_KB946108
+Source: Enterococcus faecium EnGen0263 strain UAA1280 acvJW-supercont1.3, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 159.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+UA3_RS15980	UA3_RS15980	82283	82604	-	tyrosine-type_recombinase/integrase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg59_2	UA3_RS14285	85	81	100.0	2.91e-20
+ctg59_3	UA3_RS15995	85	78	100.0	9.32e-20
+
+
+
+>>
+6. NZ_CP072983
+Source: Lactobacillus intestinalis strain DSM 6629 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 820.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+KBW87_RS01700	KBW87_RS01700	335745	337619	+	peptide_cleavage/export_ABC_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg59_5	KBW87_RS01645	80	374	99.11504424778761	3.66e-131
+ctg59_6	KBW87_RS01650	65	389	98.3108108108108	4.14e-135
+ctg59_7	KBW87_RS01655	52	57	94.54545454545455	3.43e-11
+

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="169,35 174,30 222,30 222,40 174,40 169,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_1&lt;/b&gt;&lt;br&gt;ctg82 1&lt;br&gt;Location: 520 - 1279" locus_tag="ctg82_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="222,35 227,30 313,30 313,40 227,40 222,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_2&lt;/b&gt;&lt;br&gt;ctg82 2&lt;br&gt;Location: 1280 - 2594" locus_tag="ctg82_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="319,35 324,30 471,30 471,40 324,40 319,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_3&lt;/b&gt;&lt;br&gt;ctg82 3&lt;br&gt;Location: 2682 - 4854" locus_tag="ctg82_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="529,40 564,40 569,35 564,30 529,30 529,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_4&lt;/b&gt;&lt;br&gt;ctg82 4&lt;br&gt;Location: 5685 - 6258" locus_tag="ctg82_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="574,40 607,40 612,35 607,30 574,30 574,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_5&lt;/b&gt;&lt;br&gt;ctg82 5&lt;br&gt;Location: 6338 - 6875" locus_tag="ctg82_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+</g>
+<g label="NZ_CP065535" description="NZ_CP065535 (2360067-2371726): Enterococcus durans strain KCTC 13289 chromoso... (40% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP065535&amp;start=2360067&amp;end=2371726" target="_blank">NZ_CP065535 (2360067-2371726)</a>: Enterococcus durans strain KCTC 13289 chromoso... (40% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 135,90 140,85 135,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11270&lt;/b&gt;&lt;br&gt;methionine--tRNA ligase&lt;br&gt;Location: 2371441 - 2369432" locus_tag="I4Q39_RS11270" class="clusterblast-orf" id="dummy-1_h1_9_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="154,85 159,80 165,80 165,90 159,90 154,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11265&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2369220 - 2369065" locus_tag="I4Q39_RS11265" class="clusterblast-orf" id="dummy-1_h1_9_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="179,85 184,80 230,80 230,90 184,90 179,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11260&lt;/b&gt;&lt;br&gt;LytTR family DNA-binding domain-containing protein&lt;br&gt;Location: 2368865 - 2368128&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_1&lt;/b&gt;&lt;br&gt;Percentage identity: 68&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 345&lt;br&gt;E-value: 3.68e-119" locus_tag="I4Q39_RS11260" class="clusterblast-orf" id="dummy-1_h1_9_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="229,85 234,80 323,80 323,90 234,90 229,85 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11255&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 2368153 - 2366798&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_2&lt;/b&gt;&lt;br&gt;Percentage identity: 51&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 398&lt;br&gt;E-value: 6.29e-134" locus_tag="I4Q39_RS11255" class="clusterblast-orf" id="dummy-1_h1_9_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="328,85 333,80 444,80 444,90 333,90 328,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11250&lt;/b&gt;&lt;br&gt;peptide cleavage/export ABC transporter&lt;br&gt;Location: 2366726 - 2365068&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_3&lt;/b&gt;&lt;br&gt;Percentage identity: 69&lt;br&gt;Percentage coverage: 77&lt;br&gt;BLAST bit score: 715&lt;br&gt;E-value: 1.29e-252" locus_tag="I4Q39_RS11250" class="clusterblast-orf" id="dummy-1_h1_9_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="445,85 450,80 479,80 479,90 450,90 445,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11245&lt;/b&gt;&lt;br&gt;cysteine peptidase family C39 domain-containing protein&lt;br&gt;Location: 2365050 - 2364565&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_3&lt;/b&gt;&lt;br&gt;Percentage identity: 57&lt;br&gt;Percentage coverage: 22&lt;br&gt;BLAST bit score: 203&lt;br&gt;E-value: 2.12e-59" locus_tag="I4Q39_RS11245" class="clusterblast-orf" id="dummy-1_h1_9_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="507,85 512,80 547,80 547,90 512,90 507,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11240&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2364164 - 2363580" locus_tag="I4Q39_RS11240" class="clusterblast-orf" id="dummy-1_h1_9_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="559,90 646,90 651,85 646,80 559,80 559,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11235&lt;/b&gt;&lt;br&gt;amino acid permease&lt;br&gt;Location: 2363408 - 2362095" locus_tag="I4Q39_RS11235" class="clusterblast-orf" id="dummy-1_h1_9_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="686,90 736,90 741,85 736,80 686,80 686,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11230&lt;/b&gt;&lt;br&gt;TatD family hydrolase&lt;br&gt;Location: 2361586 - 2360810" locus_tag="I4Q39_RS11230" class="clusterblast-orf" id="dummy-1_h1_9_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="740,90 775,90 780,85 775,80 740,80 740,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11225&lt;/b&gt;&lt;br&gt;ribonuclease M5&lt;br&gt;Location: 2360817 - 2360251" locus_tag="I4Q39_RS11225" class="clusterblast-orf" id="dummy-1_h1_9_9"  />
+</g>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="204,35 209,30 209,30 209,40 209,40 204,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_1&lt;/b&gt;&lt;br&gt;ctg15 1&lt;br&gt;Location: 294 - 414" locus_tag="ctg15_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="211,35 216,30 220,30 220,40 216,40 211,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_2&lt;/b&gt;&lt;br&gt;ctg15 2&lt;br&gt;Location: 473 - 734" locus_tag="ctg15_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="222,35 227,30 232,30 232,40 227,40 222,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_3&lt;/b&gt;&lt;br&gt;ctg15 3&lt;br&gt;Location: 801 - 1068" locus_tag="ctg15_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="271,35 276,30 302,30 302,40 276,40 271,35 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_4&lt;/b&gt;&lt;br&gt;ctg15 4&lt;br&gt;Location: 2192 - 3056" locus_tag="ctg15_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="313,35 318,30 339,30 339,40 318,40 313,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_5&lt;/b&gt;&lt;br&gt;ctg15 5&lt;br&gt;Location: 3369 - 4116" locus_tag="ctg15_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="339,35 344,30 365,30 365,40 344,40 339,35 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_6&lt;/b&gt;&lt;br&gt;ctg15 6&lt;br&gt;Location: 4108 - 4849" locus_tag="ctg15_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="365,35 370,30 397,30 397,40 370,40 365,35 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_7&lt;/b&gt;&lt;br&gt;ctg15 7&lt;br&gt;Location: 4855 - 5761" locus_tag="ctg15_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="397,35 402,30 470,30 470,40 402,40 397,35 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_8&lt;/b&gt;&lt;br&gt;ctg15 8&lt;br&gt;Location: 5753 - 7850" locus_tag="ctg15_8" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="472,35 477,30 568,30 568,40 477,40 472,35 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_9&lt;/b&gt;&lt;br&gt;ctg15 9&lt;br&gt;Location: 7905 - 10614" locus_tag="ctg15_9" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="570,35 575,30 575,30 575,40 575,40 570,35 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_10&lt;/b&gt;&lt;br&gt;ctg15 10&lt;br&gt;Location: 10667 - 10829" locus_tag="ctg15_10" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+</g>
+<g label="NZ_FBTC01000016" description="NZ_FBTC01000016 (75047-97834): Leuconostoc inhae strain C120c, whole genome s... (20% of genes show similarity), lanthipeptide" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area.html?record=NZ_FBTC01000016&amp;start=75047&amp;end=97834" target="_blank">NZ_FBTC01000016 (75047-97834)</a>: Leuconostoc inhae strain C120c, whole genome s... (20% of genes show similarity), lanthipeptide</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 13,90 18,85 13,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05400&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 75146 - 75670" locus_tag="C120C_RS05400" class="clusterblast-orf" id="dummy-1_h1_4_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="17,85 22,80 22,80 22,90 22,90 17,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05405&lt;/b&gt;&lt;br&gt;restriction endonuclease&lt;br&gt;Location: 75636 - 75779" locus_tag="C120C_RS05405" class="clusterblast-orf" id="dummy-1_h1_4_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="23,85 28,80 42,80 42,90 28,90 23,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05410&lt;/b&gt;&lt;br&gt;dihydrofolate reductase&lt;br&gt;Location: 75826 - 76359" locus_tag="C120C_RS05410" class="clusterblast-orf" id="dummy-1_h1_4_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="55,90 70,90 75,85 70,80 55,80 55,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05415&lt;/b&gt;&lt;br&gt;ECF transporter S component&lt;br&gt;Location: 76708 - 77289" locus_tag="C120C_RS05415" class="clusterblast-orf" id="dummy-1_h1_4_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="75,90 119,90 124,85 119,80 75,80 75,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05420&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 77282 - 78691" locus_tag="C120C_RS05420" class="clusterblast-orf" id="dummy-1_h1_4_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="124,90 143,90 148,85 143,80 124,80 124,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05425&lt;/b&gt;&lt;br&gt;cobalt ABC transporter permease&lt;br&gt;Location: 78688 - 79350" locus_tag="C120C_RS05425" class="clusterblast-orf" id="dummy-1_h1_4_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="148,90 167,90 172,85 167,80 148,80 148,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05430&lt;/b&gt;&lt;br&gt;thiaminase II&lt;br&gt;Location: 79362 - 80030" locus_tag="C120C_RS05430" class="clusterblast-orf" id="dummy-1_h1_4_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="179,85 184,80 188,80 188,90 184,90 179,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05435&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 80236 - 80505" locus_tag="C120C_RS05435" class="clusterblast-orf" id="dummy-1_h1_4_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="190,85 195,80 216,80 216,90 195,90 190,85 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05440&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 80556 - 81296&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_5&lt;/b&gt;&lt;br&gt;Percentage identity: 31&lt;br&gt;Percentage coverage: 91&lt;br&gt;BLAST bit score: 98&lt;br&gt;E-value: 1.2e-18" locus_tag="C120C_RS05440" class="clusterblast-orf" id="dummy-1_h1_4_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="216,85 221,80 242,80 242,90 221,90 216,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05445&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 81296 - 82045" locus_tag="C120C_RS05445" class="clusterblast-orf" id="dummy-1_h1_4_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="243,85 248,80 274,80 274,90 248,90 243,85 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05450&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 82049 - 82948&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_7&lt;/b&gt;&lt;br&gt;Percentage identity: 45&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 252&lt;br&gt;E-value: 5.8e-65" locus_tag="C120C_RS05450" class="clusterblast-orf" id="dummy-1_h1_4_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="274,85 279,80 348,80 348,90 279,90 274,85 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05455&lt;/b&gt;&lt;br&gt;ATP-binding cassette domain-containing protein&lt;br&gt;Location: 82950 - 85037&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_8&lt;/b&gt;&lt;br&gt;Percentage identity: 40&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 520&lt;br&gt;E-value: 3.4e-145" locus_tag="C120C_RS05455" class="clusterblast-orf" id="dummy-1_h1_4_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="348,85 353,80 446,80 446,90 353,90 348,85 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05460&lt;/b&gt;&lt;br&gt;type 2 lantipeptide synthetase LanM family protein&lt;br&gt;Location: 85048 - 87834&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_9&lt;/b&gt;&lt;br&gt;Percentage identity: 34&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 467&lt;br&gt;E-value: 2.6e-129" locus_tag="C120C_RS05460" class="clusterblast-orf" id="dummy-1_h1_4_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="458,90 492,90 497,85 492,80 458,80 458,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05465&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 88163 - 89272" locus_tag="C120C_RS05465" class="clusterblast-orf" id="dummy-1_h1_4_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="498,90 519,90 524,85 519,80 498,80 498,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05470&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 89297 - 90049" locus_tag="C120C_RS05470" class="clusterblast-orf" id="dummy-1_h1_4_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="531,90 531,90 536,85 531,80 531,80 531,90 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05475&lt;/b&gt;&lt;br&gt;type A2 lantipeptide&lt;br&gt;Location: 90230 - 90385&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_10&lt;/b&gt;&lt;br&gt;Percentage identity: 63&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 68&lt;br&gt;E-value: 2.1e-10" locus_tag="C120C_RS05475" class="clusterblast-orf" id="dummy-1_h1_4_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="546,85 551,80 620,80 620,90 551,90 546,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05480&lt;/b&gt;&lt;br&gt;DNA topoisomerase I&lt;br&gt;Location: 90677 - 92758" locus_tag="C120C_RS05480" class="clusterblast-orf" id="dummy-1_h1_4_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="625,90 629,90 634,85 629,80 625,80 625,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05485&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 92913 - 93164" locus_tag="C120C_RS05485" class="clusterblast-orf" id="dummy-1_h1_4_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="637,85 642,80 656,80 656,90 642,90 637,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05490&lt;/b&gt;&lt;br&gt;ECF transporter S component&lt;br&gt;Location: 93239 - 93790" locus_tag="C120C_RS05490" class="clusterblast-orf" id="dummy-1_h1_4_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="656,85 661,80 691,80 691,90 661,90 656,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05495&lt;/b&gt;&lt;br&gt;nucleoside hydrolase&lt;br&gt;Location: 93787 - 94782" locus_tag="C120C_RS05495" class="clusterblast-orf" id="dummy-1_h1_4_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="697,85 702,80 711,80 711,90 702,90 697,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05500&lt;/b&gt;&lt;br&gt;DUF3021 family protein&lt;br&gt;Location: 94942 - 95337" locus_tag="C120C_RS05500" class="clusterblast-orf" id="dummy-1_h1_4_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="710,85 715,80 727,80 727,90 715,90 710,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05505&lt;/b&gt;&lt;br&gt;LytTR family transcriptional regulator&lt;br&gt;Location: 95324 - 95791" locus_tag="C120C_RS05505" class="clusterblast-orf" id="dummy-1_h1_4_21"  />
+</g>
+<g id="a1_0022"  >
+<polygon points="726,85 731,80 751,80 751,90 731,90 726,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05510&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 95769 - 96497" locus_tag="C120C_RS05510" class="clusterblast-orf" id="dummy-1_h1_4_22"  />
+</g>
+<g id="a1_0023"  >
+<polygon points="751,85 756,80 780,80 780,90 756,90 751,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;C120C_RS05515&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 96494 - 97293" locus_tag="C120C_RS05515" class="clusterblast-orf" id="dummy-1_h1_4_23"  />
+</g>
+</svg>

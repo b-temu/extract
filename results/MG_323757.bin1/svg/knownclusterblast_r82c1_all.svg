@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="50" width="800" viewBox="0 0 800 50" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="1,35 6,30 94,30 94,40 6,40 1,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_1&lt;/b&gt;&lt;br&gt;ctg82 1&lt;br&gt;Location: 520 - 1279" locus_tag="ctg82_1" class="clusterblast-orf" id="knownclusterblast-1_q0_0_all"  />
+<polygon points="94,35 99,30 255,30 255,40 99,40 94,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_2&lt;/b&gt;&lt;br&gt;ctg82 2&lt;br&gt;Location: 1280 - 2594" locus_tag="ctg82_2" class="clusterblast-orf" id="knownclusterblast-1_q1_0_all"  />
+<polygon points="266,35 271,30 533,30 533,40 271,40 266,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_3&lt;/b&gt;&lt;br&gt;ctg82 3&lt;br&gt;Location: 2682 - 4854" locus_tag="ctg82_3" class="clusterblast-orf" id="knownclusterblast-1_q2_0_all"  />
+<polygon points="635,40 700,40 705,35 700,30 635,30 635,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_4&lt;/b&gt;&lt;br&gt;ctg82 4&lt;br&gt;Location: 5685 - 6258" locus_tag="ctg82_4" class="clusterblast-orf" id="knownclusterblast-1_q3_0_all"  />
+<polygon points="715,40 776,40 781,35 776,30 715,30 715,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_5&lt;/b&gt;&lt;br&gt;ctg82 5&lt;br&gt;Location: 6338 - 6875" locus_tag="ctg82_5" class="clusterblast-orf" id="knownclusterblast-1_q4_0_all"  />
+</g>
+</svg>

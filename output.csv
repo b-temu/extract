@@ -1,0 +1,5 @@
+Bind_ID,Contig_ID,Gene_Coordinates,Ctg_Number,Ctg_Tag_Id,Mibig_biosynthetic_gene_cluster,Mibig_Product,Blast_name,Blast_genecluster,Blast_annotation,Blast_perc_coverage,Blast_perc_ident,Blast_blastscore,Blast_evalue,Blast_locus_tag
+MG_323757.bin1.fa,NODE_83_length_8923_cov_7.096640,,ctg59,ctg59_6,BGC0000100,Polyketide,,,,,,,,
+MG_323757.bin1.fa,NODE_110_length_7016_cov_6.405832,520-1279,ctg82,ctg82_1,BGC0002667,RiPP,A5816_RS11485,NZ_NGLI01000002_c555810-572363,LytTR_family_DNA-binding_domain-containing_protein,98.80952380952381,93,460,1.94e-164,WP_010733065.1
+MG_323757.bin1.fa,NODE_110_length_7016_cov_6.405832,1280-2594,ctg82,ctg82_2,BGC0000624,RiPP,A5816_RS11480,NZ_NGLI01000002_c555810-572363,GHKL_domain-containing_protein,72.31121281464532,88,527,6.04e-187,WP_080114483.1
+MG_323757.bin1.fa,NODE_110_length_7016_cov_6.405832,2682-4854,ctg82,ctg82_3,BGC0002579,RiPP,A5816_RS11475,NZ_NGLI01000002_c555810-572363,peptide_cleavage/export_ABC_transporter,100.0,91,1263,0.0,WP_010733063.1

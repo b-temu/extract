@@ -1,0 +1,1053 @@
+ClusterBlast scores for NODE_63_length_11229_cov_186.926347
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg15_1	294	414	-		
+ctg15_2	473	734	-		
+ctg15_3	801	1068	-		
+ctg15_4	2192	3056	-		
+ctg15_5	3369	4116	-		
+ctg15_6	4108	4849	-		
+ctg15_7	4855	5761	-		
+ctg15_8	5753	7850	-		
+ctg15_9	7905	10614	-		
+ctg15_10	10667	10829	-		
+
+
+Significant hits: 
+1. NZ_CP049228	Lactobacillus iners strain C0210C1 chromosome, complete genome
+2. NZ_CP049223	Lactobacillus iners strain C0094A1 chromosome, complete genome
+3. NZ_CP049225	Lactobacillus iners strain C0059G1 chromosome, complete genome
+4. NZ_JAKWZB010000003	Lactobacillus iners strain JKR_12_29_17_D06_S716-bin_1 AHJBCOMC_3, whole genome shotgun sequence
+5. NZ_CP044492	Streptococcus mutans strain T8 chromosome, complete genome
+6. NZ_CP066294	Streptococcus mutans strain 27-3 chromosome, complete genome
+7. NZ_CP037940	Periweissella cryptocerci strain 26KH-42 chromosome, complete genome
+8. NZ_CP023483	Brochothrix thermosphacta strain BI chromosome, complete genome
+9. NZ_GL636070	Streptococcus agalactiae ATCC 13813 SCAFFOLD1, whole genome shotgun sequence
+10. NZ_LN890331	Leuconostoc gasicomitatum KG16-1 isolate LEKG1 chromosome I, complete sequence
+11. NZ_CP078012	Streptococcus equi subsp. zooepidemicus strain SEZ_18-036 chromosome, complete genome
+12. NC_012470	Streptococcus equi subsp. zooepidemicus, complete sequence
+13. NZ_CP029398	Streptococcus suis strain HN105 chromosome, complete genome
+14. NZ_LR738724	Streptococcus suis isolate 9401240 chromosome 1
+15. NZ_CAJHJS010000009	Streptococcus salivarius isolate AMBR074, whole genome shotgun sequence
+16. NZ_LR793258	Streptococcus salivarius isolate clinical strain from anonymous patient at Besancon hospital, whole genome shotgun sequence
+17. NZ_CP066093	Streptococcus salivarius strain FDAARGOS_1045 chromosome, complete genome
+18. NZ_CP018188	Streptococcus salivarius strain ICDC2 plasmid unnamed, complete sequence
+19. NZ_JALDUD010000010	Streptococcus salivarius strain S52 NODE_10_length_84561_cov_116.040872, whole genome shotgun sequence
+20. NZ_CAAHLP010000002	Streptococcus pyogenes strain Bra005, whole genome shotgun sequence
+21. NZ_LS483425	Streptococcus pyogenes strain NCTC13737 chromosome 1, complete sequence
+22. NZ_CP035426	Streptococcus pyogenes strain emm57 chromosome, complete genome
+23. NZ_CP035437	Streptococcus pyogenes strain emm78.3 chromosome, complete genome
+24. NZ_CM001076	Streptococcus dysgalactiae subsp. dysgalactiae ATCC 27957 chromosome, whole genome shotgun sequence
+25. NZ_CAAHKQ010000003	Streptococcus pyogenes strain A904, whole genome shotgun sequence
+26. NZ_LT545678	Streptococcus agalactiae isolate SA111 chromosome I, complete sequence
+27. NZ_CP035428	Streptococcus pyogenes strain emmSTG866.1 chromosome, complete genome
+28. NZ_CAAHHE010000002	Streptococcus pyogenes strain K6821, whole genome shotgun sequence
+29. NZ_CP035443	Streptococcus pyogenes strain emm58 chromosome, complete genome
+30. NZ_CAAHRY010000002	Streptococcus pyogenes strain K9215, whole genome shotgun sequence
+31. NZ_CAAIES010000002	Streptococcus pyogenes strain K37698, whole genome shotgun sequence
+32. NZ_CAAHHN010000003	Streptococcus pyogenes strain K19464, whole genome shotgun sequence
+33. NZ_CAAHIB010000001	Streptococcus pyogenes strain K12537, whole genome shotgun sequence
+34. NC_015760	Streptococcus salivarius CCHSS3, complete sequence
+35. NZ_CAJHJN010000010	Streptococcus salivarius isolate AMBR055, whole genome shotgun sequence
+36. NZ_OU540596	Streptococcus salivarius isolate commensal strain from anonymous patient (individual 7), whole genome shotgun sequence
+37. NZ_CP050270	Streptococcus mutans strain S4 chromosome, complete genome
+38. NZ_CP023477	Streptococcus mutans strain LAR01 chromosome, complete genome
+39. NC_013928	Streptococcus mutans NN2025, complete sequence
+40. NZ_CP060646	Streptococcus pyogenes strain TSPY1026 chromosome, complete genome
+41. NC_014098	Kyrpidia tusciae DSM 2912, complete sequence
+42. NC_013855	Azospirillum sp. B510 plasmid pAB510a, complete sequence
+43. NZ_JAEEGA010000010	Vagococcus allomyrinae strain BWB3-3 contig10, whole genome shotgun sequence
+44. NZ_CP046629	Streptococcus equinus strain CNU G6 chromosome, complete genome
+45. NZ_FNJX01000002	Streptococcus equinus strain pGA-7, whole genome shotgun sequence
+46. NZ_FOLK01000002	Streptococcus equinus strain Sb13, whole genome shotgun sequence
+47. NZ_CP061071	Streptococcus mutans B04Sm5 chromosome, complete genome
+48. NZ_CP031746	Auritidibacter sp. NML130574 chromosome, complete genome
+49. NZ_AP025697	Actinomyces naeslundii strain Actinomyces naeslundii ATCC27039 chromosome, complete genome
+50. NZ_CP014326	Streptococcus mitis strain SVGS_061 chromosome, complete genome
+
+
+Details:
+
+>>
+1. NZ_CP049228
+Source: Lactobacillus iners strain C0210C1 chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 5553.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+G6Z83_RS07460	G6Z83_RS07460	1327654	1327920	-	ATP-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_2	G6Z83_RS06510	100	56	37.2093023255814	1.17e-09
+ctg15_3	G6Z83_RS07455	100	174	100.0	1.7e-56
+ctg15_4	G6Z83_RS06525	100	551	100.0	3.06e-199
+ctg15_5	G6Z83_RS06530	100	488	100.0	1.06e-175
+ctg15_6	G6Z83_RS06535	100	458	100.0	4.98e-164
+ctg15_7	G6Z83_RS06540	100	590	100.0	2.56e-214
+ctg15_8	G6Z83_RS06545	100	1320	100.0	0.0
+ctg15_9	G6Z83_RS06550	100	1801	100.0	0.0
+ctg15_10	G6Z83_RS06555	100	115	100.0	1.64e-34
+
+
+
+>>
+2. NZ_CP049223
+Source: Lactobacillus iners strain C0094A1 chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 5549.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+G6Z86_RS06410	G6Z86_RS06410	1310127	1310393	-	ATP-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_2	G6Z86_RS06400	100	56	37.2093023255814	1.17e-09
+ctg15_3	G6Z86_RS07330	100	174	100.0	1.7e-56
+ctg15_4	G6Z86_RS06415	100	552	100.0	1.07e-199
+ctg15_5	G6Z86_RS06420	100	488	100.0	1.06e-175
+ctg15_6	G6Z86_RS06425	100	458	100.0	4.98e-164
+ctg15_7	G6Z86_RS06430	100	590	100.0	2.56e-214
+ctg15_8	G6Z86_RS06435	100	1315	100.0	0.0
+ctg15_9	G6Z86_RS06440	100	1801	100.0	0.0
+ctg15_10	G6Z86_RS06445	100	115	100.0	1.64e-34
+
+
+
+>>
+3. NZ_CP049225
+Source: Lactobacillus iners strain C0059G1 chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 5516.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+G6Z85_RS06520	G6Z85_RS06520	1310968	1311234	-	ATP-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_2	G6Z85_RS06510	100	56	37.2093023255814	1.17e-09
+ctg15_3	G6Z85_RS07040	100	174	100.0	1.7e-56
+ctg15_4	G6Z85_RS06525	100	552	100.0	1.07e-199
+ctg15_5	G6Z85_RS06530	100	488	100.0	1.06e-175
+ctg15_6	G6Z85_RS06535	100	458	100.0	4.98e-164
+ctg15_7	G6Z85_RS06540	100	590	100.0	2.56e-214
+ctg15_8	G6Z85_RS06545	98	1295	100.0	0.0
+ctg15_9	G6Z85_RS06550	99	1788	100.0	0.0
+ctg15_10	G6Z85_RS06555	100	115	100.0	1.64e-34
+
+
+
+>>
+4. NZ_JAKWZB010000003
+Source: Lactobacillus iners strain JKR_12_29_17_D06_S716-bin_1 AHJBCOMC_3, whole genome shotgun sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 5301.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MMO78_RS01365	MMO78_RS01365	84781	85131	-	HIT_family_protein
+MMO78_RS06060	MMO78_RS06060	85823	85945	-	alcohol_dehydrogenase_catalytic_domain-containing_protein
+MMO78_RS01410	MMO78_RS01410	95521	96631	+	relaxase/mobilization_nuclease_domain-containing_protein
+MMO78_RS01420	MMO78_RS01420	97260	98183	-	MFS_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_4	MMO78_RS01375	100	552	100.0	1.07e-199
+ctg15_5	MMO78_RS01380	100	486	100.0	6.14e-175
+ctg15_6	MMO78_RS01385	100	458	100.0	4.98e-164
+ctg15_7	MMO78_RS01390	99	588	100.0	1.04e-213
+ctg15_8	MMO78_RS01395	99	1307	100.0	0.0
+ctg15_9	MMO78_RS01400	100	1795	100.0	0.0
+ctg15_10	MMO78_RS01405	100	115	100.0	1.64e-34
+
+
+
+>>
+5. NZ_CP044492
+Source: Streptococcus mutans strain T8 chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 4253.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+FSA31_RS00560	FSA31_RS00560	99986	100585	+	replication_protein
+FSA31_RS00565	FSA31_RS00565	100572	100818	+	MerR_family_transcriptional_regulator
+FSA31_RS00570	FSA31_RS00570	100906	102161	+	site-specific_integrase
+FSA31_RS00590	FSA31_RS00590	106173	106323	-	helix-turn-helix_domain-containing_protein
+FSA31_RS00595	FSA31_RS00595	106528	107344	+	IS982_family_transposase
+FSA31_RS10000	FSA31_RS10000	116351	116557	-	IS982_family_transposase
+FSA31_RS10005	FSA31_RS10005	116566	116715	+	lipase
+FSA31_RS00645	FSA31_RS00645	118150	118292	-	MurR/RpiR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_4	FSA31_RS00600	77	437	98.95470383275261	3.81e-154
+ctg15_5	FSA31_RS00630	78	384	100.0	2.1e-134
+ctg15_6	FSA31_RS00625	81	380	100.0	6.01e-133
+ctg15_7	FSA31_RS00620	86	506	100.33222591362126	3.11e-181
+ctg15_8	FSA31_RS00615	76	1026	100.14326647564471	0.0
+ctg15_9	FSA31_RS00610	78	1419	100.0	0.0
+ctg15_10	FSA31_RS00605	85	101	100.0	7.32e-29
+
+
+
+>>
+6. NZ_CP066294
+Source: Streptococcus mutans strain 27-3 chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 4253.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+IGS65_RS08140	IGS65_RS08140	1641905	1642504	+	replication_protein
+IGS65_RS08145	IGS65_RS08145	1642491	1642737	+	MerR_family_transcriptional_regulator
+IGS65_RS08150	IGS65_RS08150	1642825	1644080	+	site-specific_integrase
+IGS65_RS08170	IGS65_RS08170	1648096	1648246	-	helix-turn-helix_domain-containing_protein
+IGS65_RS08175	IGS65_RS08175	1648451	1649267	+	IS982_family_transposase
+IGS65_RS09725	IGS65_RS09725	1658274	1658480	-	IS982_family_transposase
+IGS65_RS09730	IGS65_RS09730	1658489	1658638	+	lipase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_4	IGS65_RS08180	77	437	98.95470383275261	3.81e-154
+ctg15_5	IGS65_RS08210	78	384	100.0	2.1e-134
+ctg15_6	IGS65_RS08205	81	380	100.0	6.01e-133
+ctg15_7	IGS65_RS08200	86	506	100.33222591362126	3.11e-181
+ctg15_8	IGS65_RS08195	76	1026	100.14326647564471	0.0
+ctg15_9	IGS65_RS08190	78	1419	100.0	0.0
+ctg15_10	IGS65_RS08185	85	101	100.0	7.32e-29
+
+
+
+>>
+7. NZ_CP037940
+Source: Periweissella cryptocerci strain 26KH-42 chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1349.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_6	EQG49_RS07345	31	92	78.86178861788618	2.37e-20
+ctg15_7	EQG49_RS07340	47	274	99.00332225913621	1.17e-89
+ctg15_8	EQG49_RS07335	41	512	100.42979942693411	2.77e-171
+ctg15_9	EQG49_RS07330	33	413	97.89356984478935	6.08e-128
+ctg15_10	EQG49_RS07315	51	58	96.22641509433963	1.27e-11
+
+
+
+>>
+8. NZ_CP023483
+Source: Brochothrix thermosphacta strain BI chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1381.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_5	CNY62_RS12005	36	141	96.37096774193549	3.48e-39
+ctg15_7	CNY62_RS11995	47	266	98.67109634551495	1.55e-86
+ctg15_8	CNY62_RS11990	41	506	98.99713467048711	3.51e-169
+ctg15_9	CNY62_RS11985	31	416	102.54988913525497	8.5e-129
+ctg15_10	CNY62_RS11970	55	52	79.24528301886792	3.28e-09
+
+
+
+>>
+9. NZ_GL636070
+Source: Streptococcus agalactiae ATCC 13813 SCAFFOLD1, whole genome shotgun sequence
+Type: RaS-RiPP,lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1195.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_4	HMPREF9171_RS105220	31	135	85.71428571428571	4.91e-36
+ctg15_7	HMPREF9171_RS105325	42	224	100.33222591362126	3.93e-70
+ctg15_8	HMPREF9171_RS105320	34	424	98.99713467048711	2.31e-137
+ctg15_9	HMPREF9171_RS02600	31	367	102.77161862527717	1.27e-110
+ctg15_10	HMPREF9171_RS105315	44	45	84.90566037735849	1.9e-06
+
+
+
+>>
+10. NZ_LN890331
+Source: Leuconostoc gasicomitatum KG16-1 isolate LEKG1 chromosome I, complete sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1293.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	LEKG_RS02320	44	249	100.33222591362126	1.14e-79
+ctg15_8	LEKG_RS02315	40	515	99.14040114613181	1.8e-172
+ctg15_9	LEKG_RS02310	34	461	99.88913525498891	4.8e-146
+ctg15_10	LEKG_RS02295	63	68	96.22641509433963	1.9e-15
+
+
+
+>>
+11. NZ_CP078012
+Source: Streptococcus equi subsp. zooepidemicus strain SEZ_18-036 chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1190.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+KV238_RS09765	KV238_RS09765	1989572	1990042	+	ATP-binding_cassette_domain-containing_protein
+KV238_RS09770	KV238_RS09770	1990053	1991411	+	bacteriocin_secretion_accessory_protein
+KV238_RS09780	KV238_RS09780	1991842	1992252	-	IS200/IS605_family_transposase
+KV238_RS09790	KV238_RS09790	1994034	1994356	-	transposase
+KV238_RS09855	KV238_RS09855	2005849	2007187	-	SAG1250_family_conjugative_relaxase
+KV238_RS09865	KV238_RS09865	2007549	2007907	-	SAG1252_family_conjugative_relaxosome_accessory_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	KV238_RS09810	44	236	100.99667774086379	8.41e-75
+ctg15_8	KV238_RS09815	34	417	98.99713467048711	1.56e-134
+ctg15_9	KV238_RS09820	32	382	99.33481152993349	5.4e-116
+ctg15_10	KV238_RS09840	47	53	96.22641509433963	1.7e-09
+ctg15_10	KV238_RS09830	51	51	84.90566037735849	6.92e-09
+ctg15_10	KV238_RS09835	51	51	84.90566037735849	6.92e-09
+
+
+
+>>
+12. NC_012470
+Source: Streptococcus equi subsp. zooepidemicus, complete sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1153.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SZO_RS04040	SZO_RS04040	858408	858898	+	replication_initiator_protein_A
+SZO_RS10245	SZO_RS10245	858907	859265	+	SAG1252_family_conjugative_relaxosome_accessory_protein
+SZO_RS10485	SZO_RS10485	859627	860966	+	SAG1250_family_conjugative_relaxase
+SZO_RS04105	SZO_RS04105	872274	872596	+	transposase
+SZO_RS04120	SZO_RS04120	874381	874792	+	IS200/IS605_family_transposase
+SZO_RS04130	SZO_RS04130	875223	876581	-	bacteriocin_secretion_accessory_protein
+SZO_RS04135	SZO_RS04135	876592	877051	-	ATP-binding_cassette_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	SZO_RS04090	44	236	100.99667774086379	8.41e-75
+ctg15_8	SZO_RS04080	34	417	98.99713467048711	1.56e-134
+ctg15_9	SZO_RS04075	32	332	84.03547671840354	8.8e-99
+ctg15_9	SZO_RS10775	33	64	15.299334811529933	1.65e-09
+ctg15_10	SZO_RS04065	47	53	96.22641509433963	1.7e-09
+ctg15_10	SZO_RS04070	51	51	84.90566037735849	6.92e-09
+
+
+
+>>
+13. NZ_CP029398
+Source: Streptococcus suis strain HN105 chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1145.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	DF184_RS05205	45	241	100.99667774086379	1.3e-76
+ctg15_8	DF184_RS05200	34	419	98.99713467048711	3.96e-135
+ctg15_9	DF184_RS05195	32	379	103.43680709534368	7.74e-115
+ctg15_10	DF184_RS05180	49	54	96.22641509433963	8.41e-10
+ctg15_10	DF184_RS05185	51	52	84.90566037735849	4.87e-09
+
+
+
+>>
+14. NZ_LR738724
+Source: Streptococcus suis isolate 9401240 chromosome 1
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1145.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	GPW69_RS05085	45	241	100.99667774086379	1.85e-76
+ctg15_8	GPW69_RS05080	34	419	98.99713467048711	3.96e-135
+ctg15_9	GPW69_RS05075	32	379	103.43680709534368	7.74e-115
+ctg15_10	GPW69_RS05060	49	54	96.22641509433963	8.41e-10
+ctg15_10	GPW69_RS05065	51	52	84.90566037735849	4.87e-09
+
+
+
+>>
+15. NZ_CAJHJS010000009
+Source: Streptococcus salivarius isolate AMBR074, whole genome shotgun sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1116.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+JMX87_RS06770	JMX87_RS06770	59688	60112	+	conjugative_relaxase-related_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	JMX87_RS06810	42	229	99.66777408637874	8.67e-72
+ctg15_8	JMX87_RS06805	35	427	98.99713467048711	2.94e-138
+ctg15_9	JMX87_RS06800	31	370	103.76940133037694	8.66e-112
+ctg15_10	JMX87_RS06785	44	45	84.90566037735849	1.9e-06
+ctg15_10	JMX87_RS06790	44	45	84.90566037735849	1.9e-06
+
+
+
+>>
+16. NZ_LR793258
+Source: Streptococcus salivarius isolate clinical strain from anonymous patient at Besancon hospital, whole genome shotgun sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1112.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HV369_RS03125	HV369_RS03125	740807	741262	+	lantibiotic_(srt)_production_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	HV369_RS03165	41	224	100.33222591362126	3.93e-70
+ctg15_8	HV369_RS03160	35	428	98.99713467048711	7.45e-139
+ctg15_9	HV369_RS03155	31	370	103.76940133037694	1.21e-111
+ctg15_10	HV369_RS03140	44	45	84.90566037735849	1.9e-06
+ctg15_10	HV369_RS03145	44	45	84.90566037735849	1.9e-06
+
+
+
+>>
+17. NZ_CP066093
+Source: Streptococcus salivarius strain FDAARGOS_1045 chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1107.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+I6I02_RS11010	I6I02_RS11010	1618341	1618481	+	transposase
+I6I02_RS11015	I6I02_RS11015	1618533	1618643	+	oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	I6I02_RS07320	43	232	100.66445182724253	3.82e-73
+ctg15_8	I6I02_RS07315	34	412	99.14040114613181	9.53e-133
+ctg15_9	I6I02_RS07310	32	375	99.55654101995566	2.15e-113
+ctg15_10	I6I02_RS07295	44	44	84.90566037735849	5.23e-06
+ctg15_10	I6I02_RS07300	44	44	84.90566037735849	5.34e-06
+
+
+
+>>
+18. NZ_CP018188
+Source: Streptococcus salivarius strain ICDC2 plasmid unnamed, complete sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1107.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BSR19_RS11770	BSR19_RS11770	144140	144274	+	helix-turn-helix_domain-containing_protein
+BSR19_RS11775	BSR19_RS11775	144323	144433	+	oxidoreductase
+BSR19_RS11225	BSR19_RS11225	144825	145127	-	type_II_toxin-antitoxin_system_RelE/ParE_family_toxin
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	BSR19_RS11200	43	232	100.66445182724253	5.41e-73
+ctg15_8	BSR19_RS11195	34	412	99.14040114613181	9.53e-133
+ctg15_9	BSR19_RS11190	32	375	99.55654101995566	2.15e-113
+ctg15_10	BSR19_RS11175	44	44	84.90566037735849	5.23e-06
+ctg15_10	BSR19_RS11180	44	44	84.90566037735849	5.34e-06
+
+
+
+>>
+19. NZ_JALDUD010000010
+Source: Streptococcus salivarius strain S52 NODE_10_length_84561_cov_116.040872, whole genome shotgun sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1107.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+M1G10_RS09665	M1G10_RS09665	29130	29240	-	oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	M1G10_RS09680	43	232	100.66445182724253	5.41e-73
+ctg15_8	M1G10_RS09685	34	412	99.14040114613181	9.53e-133
+ctg15_9	M1G10_RS09690	32	375	99.55654101995566	2.15e-113
+ctg15_10	M1G10_RS09700	44	44	84.90566037735849	5.23e-06
+ctg15_10	M1G10_RS09705	44	44	84.90566037735849	5.23e-06
+
+
+
+>>
+20. NZ_CAAHLP010000002
+Source: Streptococcus pyogenes strain Bra005, whole genome shotgun sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1095.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+E9684_RS03415	E9684_RS03415	85723	86848	+	IS3_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	E9684_RS03430	42	228	103.32225913621262	1.73e-71
+ctg15_8	E9684_RS03435	35	409	99.5702005730659	2.93e-131
+ctg15_9	E9684_RS03440	32	362	99.1130820399113	8.91e-109
+ctg15_10	E9684_RS03455	45	48	100.0	1.15e-07
+ctg15_10	E9684_RS03450	44	48	90.56603773584906	1.63e-07
+
+
+
+>>
+21. NZ_LS483425
+Source: Streptococcus pyogenes strain NCTC13737 chromosome 1, complete sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1095.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+DQN36_RS06715	DQN36_RS06715	1346774	1347899	+	IS3_family_transposase
+DQN36_RS06775	DQN36_RS06775	1359150	1360277	+	IS3_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	DQN36_RS06730	42	228	103.32225913621262	1.73e-71
+ctg15_8	DQN36_RS06735	35	407	99.5702005730659	1.15e-130
+ctg15_9	DQN36_RS06740	32	364	99.1130820399113	2.37e-109
+ctg15_10	DQN36_RS06755	45	48	100.0	1.15e-07
+ctg15_10	DQN36_RS06750	44	48	90.56603773584906	1.63e-07
+
+
+
+>>
+22. NZ_CP035426
+Source: Streptococcus pyogenes strain emm57 chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1092.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+ETT73_RS02570	ETT73_RS02570	459896	461023	-	IS3_family_transposase
+ETT73_RS02630	ETT73_RS02630	472275	473402	-	IS3_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	ETT73_RS02615	42	228	103.32225913621262	1.73e-71
+ctg15_8	ETT73_RS02610	35	407	99.5702005730659	1.15e-130
+ctg15_9	ETT73_RS02605	32	361	99.1130820399113	3.35e-108
+ctg15_10	ETT73_RS02590	45	48	100.0	1.15e-07
+ctg15_10	ETT73_RS02595	44	48	90.56603773584906	1.63e-07
+
+
+
+>>
+23. NZ_CP035437
+Source: Streptococcus pyogenes strain emm78.3 chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1091.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	ETT62_RS06655	42	228	103.32225913621262	1.73e-71
+ctg15_8	ETT62_RS06660	35	407	99.5702005730659	1.15e-130
+ctg15_9	ETT62_RS06665	32	360	99.1130820399113	9.02e-108
+ctg15_10	ETT62_RS06680	45	48	100.0	1.15e-07
+ctg15_10	ETT62_RS06675	44	48	90.56603773584906	1.63e-07
+
+
+
+>>
+24. NZ_CM001076
+Source: Streptococcus dysgalactiae subsp. dysgalactiae ATCC 27957 chromosome, whole genome shotgun sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1054.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SDD27957_RS11305	SDD27957_RS11305	858035	858412	+	lantibiotic_(srt)_production_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	SDD27957_RS04325	42	225	100.33222591362126	1.96e-70
+ctg15_8	SDD27957_RS04320	34	370	87.10601719197709	7.25e-117
+ctg15_9	SDD27957_RS04315	31	369	103.76940133037694	3.26e-111
+ctg15_10	SDD27957_RS04305	44	45	84.90566037735849	1.9e-06
+ctg15_10	SDD27957_RS04310	44	45	84.90566037735849	1.9e-06
+
+
+
+>>
+25. NZ_CAAHKQ010000003
+Source: Streptococcus pyogenes strain A904, whole genome shotgun sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1047.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+E9664_RS02130	E9664_RS02130	64293	65418	+	IS3_family_transposase
+E9664_RS02190	E9664_RS02190	76668	77794	+	IS3_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	E9664_RS02145	42	228	103.32225913621262	1.73e-71
+ctg15_8	E9664_RS02150	35	409	99.5702005730659	2.93e-131
+ctg15_9	E9664_RS02155	32	362	99.1130820399113	8.91e-109
+ctg15_10	E9664_RS02170	45	48	100.0	1.15e-07
+
+
+
+>>
+26. NZ_LT545678
+Source: Streptococcus agalactiae isolate SA111 chromosome I, complete sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1047.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	BJR96_RS07020	42	225	100.33222591362126	1.96e-70
+ctg15_8	BJR96_RS07025	35	430	98.99713467048711	1.34e-139
+ctg15_9	BJR96_RS07030	31	347	98.00443458980045	1.92e-103
+ctg15_10	BJR96_RS07040	44	45	84.90566037735849	1.9e-06
+
+
+
+>>
+27. NZ_CP035428
+Source: Streptococcus pyogenes strain emmSTG866.1 chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1046.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+ETT71_RS02795	ETT71_RS02795	503859	504985	-	IS3_family_transposase
+ETT71_RS02850	ETT71_RS02850	516047	517173	-	IS3_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	ETT71_RS02835	42	228	103.32225913621262	1.73e-71
+ctg15_8	ETT71_RS02830	35	407	99.5702005730659	1.15e-130
+ctg15_9	ETT71_RS02825	32	363	99.1130820399113	7.9e-109
+ctg15_10	ETT71_RS02815	45	48	100.0	1.15e-07
+
+
+
+>>
+28. NZ_CAAHHE010000002
+Source: Streptococcus pyogenes strain K6821, whole genome shotgun sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1044.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+E9499_RS09110	E9499_RS09110	199588	199953	-	carbamoylsarcosine_amidase
+E9499_RS02980	E9499_RS02980	199944	200327	-	phage_portal_protein
+E9499_RS02985	E9499_RS02985	200432	200652	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	E9499_RS02915	42	228	103.32225913621262	1.73e-71
+ctg15_8	E9499_RS02920	35	407	99.5702005730659	1.15e-130
+ctg15_9	E9499_RS02925	32	361	99.1130820399113	2.4e-108
+ctg15_10	E9499_RS02935	45	48	100.0	1.15e-07
+
+
+
+>>
+29. NZ_CP035443
+Source: Streptococcus pyogenes strain emm58 chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1044.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+ETT56_RS07230	ETT56_RS07230	1405364	1406489	+	IS3_family_transposase
+ETT56_RS07285	ETT56_RS07285	1417555	1418680	+	IS3_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	ETT56_RS07245	43	228	103.32225913621262	2.45e-71
+ctg15_8	ETT56_RS07250	35	406	99.5702005730659	2.29e-130
+ctg15_9	ETT56_RS07255	32	362	99.1130820399113	8.91e-109
+ctg15_10	ETT56_RS07265	45	48	100.0	1.15e-07
+
+
+
+>>
+30. NZ_CAAHRY010000002
+Source: Streptococcus pyogenes strain K9215, whole genome shotgun sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1043.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+E9986_RS03105	E9986_RS03105	87067	87960	-	hypothetical_protein
+E9986_RS03120	E9986_RS03120	88833	89053	+	hypothetical_protein
+E9986_RS03125	E9986_RS03125	89158	89541	+	phage_portal_protein
+E9986_RS08790	E9986_RS08790	89532	89897	+	carbamoylsarcosine_amidase
+E9986_RS03205	E9986_RS03205	104303	105431	-	IS3_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	E9986_RS03190	42	228	103.32225913621262	1.73e-71
+ctg15_8	E9986_RS03185	34	406	99.5702005730659	3.22e-130
+ctg15_9	E9986_RS03180	32	361	99.1130820399113	2.4e-108
+ctg15_10	E9986_RS03170	45	48	100.0	1.15e-07
+
+
+
+>>
+31. NZ_CAAIES010000002
+Source: Streptococcus pyogenes strain K37698, whole genome shotgun sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1043.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+FAH15_RS02420	FAH15_RS02420	180590	180810	+	hypothetical_protein
+FAH15_RS02425	FAH15_RS02425	180915	181297	+	phage_portal_protein
+FAH15_RS02430	FAH15_RS02430	181288	181740	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	FAH15_RS02490	42	228	103.32225913621262	1.73e-71
+ctg15_8	FAH15_RS02485	34	406	99.5702005730659	3.22e-130
+ctg15_9	FAH15_RS02480	32	361	99.1130820399113	3.35e-108
+ctg15_10	FAH15_RS02470	45	48	100.0	1.15e-07
+
+
+
+>>
+32. NZ_CAAHHN010000003
+Source: Streptococcus pyogenes strain K19464, whole genome shotgun sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1034.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+E9502_RS05640	E9502_RS05640	67575	68468	-	hypothetical_protein
+E9502_RS05655	E9502_RS05655	69341	69561	+	hypothetical_protein
+E9502_RS05660	E9502_RS05660	69666	70049	+	phage_portal_protein
+E9502_RS09040	E9502_RS09040	70040	70405	+	carbamoylsarcosine_amidase
+E9502_RS05675	E9502_RS05675	71259	72095	+	asparagine_synthetase_A
+E9502_RS05735	E9502_RS05735	84823	85948	-	IS3_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	E9502_RS05720	42	228	103.32225913621262	1.73e-71
+ctg15_8	E9502_RS09050	38	222	49.14040114613181	4.05e-64
+ctg15_8	E9502_RS09045	32	180	44.55587392550143	5.22e-49
+ctg15_9	E9502_RS05710	32	359	98.78048780487805	1.75e-107
+ctg15_10	E9502_RS05700	43	45	100.0	1.34e-06
+
+
+
+>>
+33. NZ_CAAHIB010000001
+Source: Streptococcus pyogenes strain K12537, whole genome shotgun sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1024.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+E9539_RS01045	E9539_RS01045	193424	193558	-	IS3_family_transposase
+E9539_RS01050	E9539_RS01050	193872	194585	-	IS3_family_transposase
+E9539_RS01105	E9539_RS01105	205639	206766	-	IS3_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	E9539_RS01090	42	228	103.32225913621262	1.73e-71
+ctg15_8	E9539_RS01085	35	409	99.5702005730659	2.93e-131
+ctg15_9	E9539_RS01080	31	339	97.11751662971176	9.71e-101
+ctg15_10	E9539_RS01070	45	48	100.0	1.15e-07
+
+
+
+>>
+34. NC_015760
+Source: Streptococcus salivarius CCHSS3, complete sequence
+Type: RaS-RiPP,lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1068.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SALIVB_RS03285	SALIVB_RS03285	747309	748153	+	IS110_family_transposase
+SALIVB_RS03290	SALIVB_RS03290	748200	749449	+	ISL3_family_transposase
+SALIVB_RS03295	SALIVB_RS03295	749461	749986	+	transposase
+SALIVB_RS11000	SALIVB_RS11000	760649	760783	-	IS110_family_transposase
+SALIVB_RS10935	SALIVB_RS10935	763618	765071	-	IS1182_family_transposase
+SALIVB_RS03355	SALIVB_RS03355	765429	765905	+	helix-turn-helix_domain-containing_protein
+SALIVB_RS03370	SALIVB_RS03370	768228	768413	+	ASCH_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	SALIVB_RS03325	44	230	101.32890365448506	3.06e-72
+ctg15_8	SALIVB_RS03320	37	448	99.8567335243553	1.93e-146
+ctg15_9	SALIVB_RS03315	31	390	102.54988913525497	5.04e-119
+
+
+
+>>
+35. NZ_CAJHJN010000010
+Source: Streptococcus salivarius isolate AMBR055, whole genome shotgun sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1060.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+JMZ68_RS09010	JMZ68_RS09010	85986	87233	+	IS110_family_transposase
+JMZ68_RS09015	JMZ68_RS09015	87425	87663	+	conjugative_relaxase-related_protein
+JMZ68_RS11085	JMZ68_RS11085	98184	99178	-	IS3_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	JMZ68_RS09045	43	227	101.32890365448506	4.91e-71
+ctg15_8	JMZ68_RS09040	37	444	99.8567335243553	6.03e-145
+ctg15_9	JMZ68_RS09035	32	389	100.1108647450111	1.37e-118
+
+
+
+>>
+36. NZ_OU540596
+Source: Streptococcus salivarius isolate commensal strain from anonymous patient (individual 7), whole genome shotgun sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1058.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+JQ838_RS05620	JQ838_RS05620	1231352	1231669	+	transposase
+JQ838_RS05625	JQ838_RS05625	1231861	1232099	+	lantibiotic_(srt)_production_protein
+JQ838_RS05675	JQ838_RS05675	1244288	1245281	-	IS3_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	JQ838_RS05655	43	227	101.32890365448506	4.91e-71
+ctg15_8	JQ838_RS05650	37	444	99.8567335243553	6.03e-145
+ctg15_9	JQ838_RS05645	32	387	100.1108647450111	3.73e-118
+
+
+
+>>
+37. NZ_CP050270
+Source: Streptococcus mutans strain S4 chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1029.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HB753_RS10330	HB753_RS10330	214963	215916	+	reverse_transcriptase_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	HB753_RS01110	43	233	101.32890365448506	2.09e-73
+ctg15_8	HB753_RS01105	36	418	99.5702005730659	5.58e-135
+ctg15_9	HB753_RS01100	32	378	98.55875831485588	1.13e-114
+
+
+
+>>
+38. NZ_CP023477
+Source: Streptococcus mutans strain LAR01 chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1029.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+CO204_RS10820	CO204_RS10820	353412	354365	+	reverse_transcriptase_domain-containing_protein
+CO204_RS01870	CO204_RS01870	358583	359839	-	ISL3_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	CO204_RS01905	43	232	101.32890365448506	5.41e-73
+ctg15_8	CO204_RS01900	35	417	99.5702005730659	1.11e-134
+ctg15_9	CO204_RS01895	32	380	100.22172949002217	2.14e-115
+
+
+
+>>
+39. NC_013928
+Source: Streptococcus mutans NN2025, complete sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1027.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SMUNN2025_RS10605	SMUNN2025_RS10605	344713	345666	+	reverse_transcriptase_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	SMUNN2025_RS01725	43	233	101.32890365448506	2.09e-73
+ctg15_8	SMUNN2025_RS01720	35	416	99.5702005730659	6.15e-134
+ctg15_9	SMUNN2025_RS01715	32	378	98.55875831485588	1.13e-114
+
+
+
+>>
+40. NZ_CP060646
+Source: Streptococcus pyogenes strain TSPY1026 chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1060.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+H7789_RS06810	H7789_RS06810	1385391	1386518	+	IS3_family_transposase
+H7789_RS06865	H7789_RS06865	1397515	1398600	+	IS3_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	H7789_RS06825	42	228	103.32225913621262	1.73e-71
+ctg15_8	H7789_RS06830	35	406	99.5702005730659	2.29e-130
+ctg15_9	H7789_RS09285	32	245	62.63858093126385	4.08e-68
+ctg15_9	H7789_RS09280	38	133	20.84257206208426	2.51e-32
+ctg15_10	H7789_RS06845	45	48	100.0	1.15e-07
+
+
+
+>>
+41. NC_014098
+Source: Kyrpidia tusciae DSM 2912, complete sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 163.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BTUS_RS18990	BTUS_RS18990	2898912	2899028	-	type_2_lantibiotic
+BTUS_RS14175	BTUS_RS14175	2902872	2904127	-	group_II_intron_reverse_transcriptase/maturase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_8	BTUS_RS17075	32	102	32.5214899713467	2.59e-20
+ctg15_9	BTUS_RS18995	36	61	10.310421286031042	4.27e-08
+
+
+
+>>
+42. NC_013855
+Source: Azospirillum sp. B510 plasmid pAB510a, complete sequence
+Type: proteusin,thioamitides
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 160.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AZL_RS37110	AZL_RS37110	1248817	1248954	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_8	AZL_RS20590	33	103	31.23209169054441	1.25e-20
+ctg15_9	AZL_RS33545	33	57	10.753880266075388	5.07e-06
+
+
+
+>>
+43. NZ_JAEEGA010000010
+Source: Vagococcus allomyrinae strain BWB3-3 contig10, whole genome shotgun sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 956.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_5	I6N95_RS15695	36	135	97.58064516129032	1.18e-36
+ctg15_7	I6N95_RS15685	45	267	98.00664451827242	1.09e-86
+ctg15_8	I6N95_RS15680	39	498	99.5702005730659	6.82e-166
+ctg15_10	I6N95_RS15660	53	56	100.0	1.39e-10
+
+
+
+>>
+44. NZ_CP046629
+Source: Streptococcus equinus strain CNU G6 chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 713.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	GPA00_RS05755	43	234	102.65780730897009	4.77e-74
+ctg15_8	GPA00_RS05750	35	423	100.42979942693411	6.84e-137
+ctg15_10	GPA00_RS05740	57	56	86.79245283018868	8.06e-11
+
+
+
+>>
+45. NZ_FNJX01000002
+Source: Streptococcus equinus strain pGA-7, whole genome shotgun sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 713.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	BLR40_RS05040	43	234	102.65780730897009	4.77e-74
+ctg15_8	BLR40_RS05035	35	423	100.42979942693411	6.84e-137
+ctg15_10	BLR40_RS05025	57	56	86.79245283018868	8.06e-11
+
+
+
+>>
+46. NZ_FOLK01000002
+Source: Streptococcus equinus strain Sb13, whole genome shotgun sequence
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 713.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	BM262_RS05655	43	234	102.65780730897009	4.77e-74
+ctg15_8	BM262_RS05660	35	423	100.42979942693411	6.84e-137
+ctg15_10	BM262_RS05670	57	56	86.79245283018868	8.06e-11
+
+
+
+>>
+47. NZ_CP061071
+Source: Streptococcus mutans B04Sm5 chromosome, complete genome
+Type: lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 649.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+IBL27_RS09855	IBL27_RS09855	342061	343014	+	reverse_transcriptase_domain-containing_protein
+IBL27_RS01755	IBL27_RS01755	348473	351013	+	type_2_lanthipeptide_synthetase_LanM_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	IBL27_RS01765	43	231	101.32890365448506	7.65e-73
+ctg15_8	IBL27_RS01760	36	418	99.5702005730659	5.58e-135
+
+
+
+>>
+48. NZ_CP031746
+Source: Auritidibacter sp. NML130574 chromosome, complete genome
+Type: furan,lanthipeptide-class-ii
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 627.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+DCC27_RS12670	DCC27_RS12670	1799445	1799741	+	ABC_transporter_permease_subunit
+DCC27_RS08115	DCC27_RS08115	1802087	1803097	-	IS481_family_transposase
+DCC27_RS08120	DCC27_RS08120	1803212	1803385	-	helix-turn-helix_domain-containing_protein
+DCC27_RS12510	DCC27_RS12510	1821587	1821953	+	IS5/IS1182_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	DCC27_RS08180	41	236	97.34219269102991	1.37e-74
+ctg15_8	DCC27_RS08155	31	332	99.42693409742121	1.32e-101
+ctg15_10	DCC27_RS08165	51	59	100.0	4.24e-12
+
+
+
+>>
+49. NZ_AP025697
+Source: Actinomyces naeslundii strain Actinomyces naeslundii ATCC27039 chromosome, complete genome
+Type: RRE-containing
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 243.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+ATCC27039_RS10605	ATCC27039_RS10605	2503851	2505228	+	IS1380_family_transposase
+ATCC27039_RS10625	ATCC27039_RS10625	2506526	2507105	-	IS1634_family_transposase
+ATCC27039_RS10660	ATCC27039_RS10660	2514765	2514833	-	keywimysin-related_RiPP
+ATCC27039_RS10665	ATCC27039_RS10665	2515653	2515897	-	transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	ATCC27039_RS10640	39	154	71.09634551495017	1.11e-43
+ctg15_8	ATCC27039_RS10645	31	89	33.810888252149	2.87e-16
+
+
+
+>>
+50. NZ_CP014326
+Source: Streptococcus mitis strain SVGS_061 chromosome, complete genome
+Type: lassopeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 229.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AXK38_RS11085	AXK38_RS11085	951094	951162	-	DNA-binding_transcriptional_regulator
+AXK38_RS11090	AXK38_RS11090	951182	951271	-	IS630_transposase-related_protein
+AXK38_RS04690	AXK38_RS04690	958846	959242	+	response_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg15_7	AXK38_RS04675	37	131	73.75415282392026	9.01e-35
+ctg15_8	AXK38_RS04670	34	98	30.37249283667622	8.08e-19
+

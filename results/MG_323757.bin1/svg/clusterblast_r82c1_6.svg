@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="224,35 229,30 263,30 263,40 229,40 224,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_1&lt;/b&gt;&lt;br&gt;ctg82 1&lt;br&gt;Location: 520 - 1279" locus_tag="ctg82_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="264,35 269,30 332,30 332,40 269,40 264,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_2&lt;/b&gt;&lt;br&gt;ctg82 2&lt;br&gt;Location: 1280 - 2594" locus_tag="ctg82_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="337,35 342,30 450,30 450,40 342,40 337,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_3&lt;/b&gt;&lt;br&gt;ctg82 3&lt;br&gt;Location: 2682 - 4854" locus_tag="ctg82_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="494,40 519,40 524,35 519,30 494,30 494,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_4&lt;/b&gt;&lt;br&gt;ctg82 4&lt;br&gt;Location: 5685 - 6258" locus_tag="ctg82_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="528,40 551,40 556,35 551,30 528,30 528,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_5&lt;/b&gt;&lt;br&gt;ctg82 5&lt;br&gt;Location: 6338 - 6875" locus_tag="ctg82_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+</g>
+<g label="NZ_KB946310" description="NZ_KB946310 (115445-132208): Enterococcus pallens ATCC BAA-351 acvKb-supercon... (18% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_KB946310&amp;start=115445&amp;end=132208" target="_blank">NZ_KB946310 (115445-132208)</a>: Enterococcus pallens ATCC BAA-351 acvKb-supercon... (18% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 93,90 98,85 93,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17120&lt;/b&gt;&lt;br&gt;group II intron reverse transcriptase/maturase&lt;br&gt;Location: 116830 - 118722" locus_tag="UAU_RS17120" class="clusterblast-orf" id="dummy-1_h1_6_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="139,90 143,85 139,80 139,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS27520&lt;/b&gt;&lt;br&gt;leucocin A/sakacin P family class II bacteriocin&lt;br&gt;Location: 119488 - 119568" locus_tag="UAU_RS27520" class="clusterblast-orf" id="dummy-1_h1_6_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="147,90 159,90 164,85 159,80 147,80 147,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17125&lt;/b&gt;&lt;br&gt;bacteriocin immunity protein&lt;br&gt;Location: 119658 - 119978" locus_tag="UAU_RS17125" class="clusterblast-orf" id="dummy-1_h1_6_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="173,85 178,80 189,80 189,90 178,90 173,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17130&lt;/b&gt;&lt;br&gt;bacteriocin immunity protein&lt;br&gt;Location: 120139 - 120444" locus_tag="UAU_RS17130" class="clusterblast-orf" id="dummy-1_h1_6_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="189,85 194,80 198,80 198,90 194,90 189,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17135&lt;/b&gt;&lt;br&gt;class II bacteriocin&lt;br&gt;Location: 120446 - 120628" locus_tag="UAU_RS17135" class="clusterblast-orf" id="dummy-1_h1_6_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="212,90 223,90 228,85 223,80 212,80 212,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17140&lt;/b&gt;&lt;br&gt;bacteriocin immunity protein&lt;br&gt;Location: 120894 - 121190" locus_tag="UAU_RS17140" class="clusterblast-orf" id="dummy-1_h1_6_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="240,85 245,80 270,80 270,90 245,90 240,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS26630&lt;/b&gt;&lt;br&gt;PedC/BrcD family bacteriocin maturation disulfide isomerase&lt;br&gt;Location: 121426 - 122004" locus_tag="UAU_RS26630" class="clusterblast-orf" id="dummy-1_h1_6_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="280,85 285,80 319,80 319,90 285,90 280,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17150&lt;/b&gt;&lt;br&gt;LytTR family DNA-binding domain-containing protein&lt;br&gt;Location: 122189 - 122938&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_1&lt;/b&gt;&lt;br&gt;Percentage identity: 75&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 392&lt;br&gt;E-value: 1.14e-137" locus_tag="UAU_RS17150" class="clusterblast-orf" id="dummy-1_h1_6_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="319,85 324,80 387,80 387,90 324,90 319,85 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17155&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 122940 - 124241&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_2&lt;/b&gt;&lt;br&gt;Percentage identity: 52&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 423&lt;br&gt;E-value: 3.6e-144" locus_tag="UAU_RS17155" class="clusterblast-orf" id="dummy-1_h1_6_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="392,85 397,80 505,80 505,90 397,90 392,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17160&lt;/b&gt;&lt;br&gt;peptide cleavage/export ABC transporter&lt;br&gt;Location: 124326 - 126497&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_3&lt;/b&gt;&lt;br&gt;Percentage identity: 69&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 966&lt;br&gt;E-value: 0.0" locus_tag="UAU_RS17160" class="clusterblast-orf" id="dummy-1_h1_6_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="533,85 538,80 542,80 542,90 538,90 533,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS26635&lt;/b&gt;&lt;br&gt;enterocin 1071A family bacteriocin&lt;br&gt;Location: 127023 - 127208" locus_tag="UAU_RS26635" class="clusterblast-orf" id="dummy-1_h1_6_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="575,90 589,90 594,85 589,80 575,80 575,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17165&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 127827 - 128198" locus_tag="UAU_RS17165" class="clusterblast-orf" id="dummy-1_h1_6_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="595,90 630,90 635,85 630,80 595,80 595,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17170&lt;/b&gt;&lt;br&gt;alpha/beta hydrolase&lt;br&gt;Location: 128211 - 128978" locus_tag="UAU_RS17170" class="clusterblast-orf" id="dummy-1_h1_6_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="653,85 658,80 661,80 661,90 658,90 653,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS27050&lt;/b&gt;&lt;br&gt;putative holin-like toxin&lt;br&gt;Location: 129320 - 129466" locus_tag="UAU_RS27050" class="clusterblast-orf" id="dummy-1_h1_6_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="670,85 675,80 734,80 734,90 675,90 670,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17175&lt;/b&gt;&lt;br&gt;zinc-binding dehydrogenase&lt;br&gt;Location: 129643 - 130869" locus_tag="UAU_RS17175" class="clusterblast-orf" id="dummy-1_h1_6_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="735,85 740,80 780,80 780,90 740,90 735,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17180&lt;/b&gt;&lt;br&gt;mannose/fructose/sorbose PTS transporter subunit IID&lt;br&gt;Location: 130886 - 131740" locus_tag="UAU_RS17180" class="clusterblast-orf" id="dummy-1_h1_6_15"  />
+</g>
+</svg>

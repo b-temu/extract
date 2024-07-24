@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="253,35 256,30 256,40 253,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_1&lt;/b&gt;&lt;br&gt;ctg15 1&lt;br&gt;Location: 294 - 414" locus_tag="ctg15_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="257,35 262,30 264,30 264,40 262,40 257,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_2&lt;/b&gt;&lt;br&gt;ctg15 2&lt;br&gt;Location: 473 - 734" locus_tag="ctg15_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="266,35 271,30 273,30 273,40 271,40 266,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_3&lt;/b&gt;&lt;br&gt;ctg15 3&lt;br&gt;Location: 801 - 1068" locus_tag="ctg15_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="302,35 307,30 325,30 325,40 307,40 302,35 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_4&lt;/b&gt;&lt;br&gt;ctg15 4&lt;br&gt;Location: 2192 - 3056" locus_tag="ctg15_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="333,35 338,30 352,30 352,40 338,40 333,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_5&lt;/b&gt;&lt;br&gt;ctg15 5&lt;br&gt;Location: 3369 - 4116" locus_tag="ctg15_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="352,35 357,30 371,30 371,40 357,40 352,35 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_6&lt;/b&gt;&lt;br&gt;ctg15 6&lt;br&gt;Location: 4108 - 4849" locus_tag="ctg15_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="371,35 376,30 395,30 395,40 376,40 371,35 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_7&lt;/b&gt;&lt;br&gt;ctg15 7&lt;br&gt;Location: 4855 - 5761" locus_tag="ctg15_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="395,35 400,30 449,30 449,40 400,40 395,35 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_8&lt;/b&gt;&lt;br&gt;ctg15 8&lt;br&gt;Location: 5753 - 7850" locus_tag="ctg15_8" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="451,35 456,30 521,30 521,40 456,40 451,35 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_9&lt;/b&gt;&lt;br&gt;ctg15 9&lt;br&gt;Location: 7905 - 10614" locus_tag="ctg15_9" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="523,35 527,30 527,40 523,35 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_10&lt;/b&gt;&lt;br&gt;ctg15 10&lt;br&gt;Location: 10667 - 10829" locus_tag="ctg15_10" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+</g>
+<g label="NC_015760" description="NC_015760 (742809-776926): Streptococcus salivarius CCHSS3, complete genome (14% of genes show similarity), RaS-RiPP,lanthipeptide" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area.html?record=NC_015760&amp;start=742809&amp;end=776926" target="_blank">NC_015760 (742809-776926)</a>: Streptococcus salivarius CCHSS3, complete genome (14% of genes show similarity), RaS-RiPP,lanthipeptide</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 21,90 26,85 21,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03395&lt;/b&gt;&lt;br&gt;LD-carboxypeptidase&lt;br&gt;Location: 776585 - 775548" locus_tag="SALIVB_RS03395" class="clusterblast-orf" id="dummy-1_h1_7_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="28,85 33,80 43,80 43,90 33,90 28,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03390&lt;/b&gt;&lt;br&gt;DUF1648 domain-containing protein&lt;br&gt;Location: 775500 - 774913" locus_tag="SALIVB_RS03390" class="clusterblast-orf" id="dummy-1_h1_7_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="43,85 48,80 50,80 50,90 48,90 43,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03385&lt;/b&gt;&lt;br&gt;winged helix-turn-helix transcriptional regulator&lt;br&gt;Location: 774923 - 774648" locus_tag="SALIVB_RS03385" class="clusterblast-orf" id="dummy-1_h1_7_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="50,85 55,80 69,80 69,90 55,90 50,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03380&lt;/b&gt;&lt;br&gt;YhfC family intramembrane metalloprotease&lt;br&gt;Location: 774661 - 773924" locus_tag="SALIVB_RS03380" class="clusterblast-orf" id="dummy-1_h1_7_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="75,85 80,80 199,80 199,90 80,90 75,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03375&lt;/b&gt;&lt;br&gt;KxYKxGKxW signal peptide domain-containing protein&lt;br&gt;Location: 773695 - 768926" locus_tag="SALIVB_RS03375" class="clusterblast-orf" id="dummy-1_h1_7_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="212,85 217,80 217,80 217,90 217,90 212,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03370&lt;/b&gt;&lt;br&gt;ASCH domain-containing protein&lt;br&gt;Location: 768413 - 768228" locus_tag="SALIVB_RS03370" class="clusterblast-orf" id="dummy-1_h1_7_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="223,85 228,80 251,80 251,90 228,90 223,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03365&lt;/b&gt;&lt;br&gt;transporter&lt;br&gt;Location: 768014 - 766923" locus_tag="SALIVB_RS03365" class="clusterblast-orf" id="dummy-1_h1_7_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="251,85 256,80 277,80 277,90 256,90 251,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03360&lt;/b&gt;&lt;br&gt;KxxxW cyclic peptide radical SAM maturase&lt;br&gt;Location: 766926 - 765907" locus_tag="SALIVB_RS03360" class="clusterblast-orf" id="dummy-1_h1_7_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="277,85 282,80 290,80 290,90 282,90 277,85 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03355&lt;/b&gt;&lt;br&gt;helix-turn-helix domain-containing protein&lt;br&gt;Location: 765905 - 765429&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_4&lt;/b&gt;&lt;br&gt;Percentage identity: 39&lt;br&gt;Percentage coverage: 55&lt;br&gt;BLAST bit score: 119&lt;br&gt;E-value: 7.3e-25" locus_tag="SALIVB_RS03355" class="clusterblast-orf" id="dummy-1_h1_7_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="290,85 293,80 293,90 290,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NC_015760_allorf_0765314_0765427&lt;/b&gt;&lt;br&gt;&lt;br&gt;Location: 765427 - 765314" locus_tag="NC_015760_allorf_0765314_0765427" class="clusterblast-orf" id="dummy-1_h1_7_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="295,85 298,80 298,90 295,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NC_015760_allorf_0765117_0765245&lt;/b&gt;&lt;br&gt;&lt;br&gt;Location: 765245 - 765117" locus_tag="NC_015760_allorf_0765117_0765245" class="clusterblast-orf" id="dummy-1_h1_7_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="296,90 298,85 296,80 296,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NC_015760_allorf_0765101_0765208&lt;/b&gt;&lt;br&gt;&lt;br&gt;Location: 765208 - 765101" locus_tag="NC_015760_allorf_0765101_0765208" class="clusterblast-orf" id="dummy-1_h1_7_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="302,90 310,90 315,85 310,80 302,80 302,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03350&lt;/b&gt;&lt;br&gt;transposase&lt;br&gt;Location: 764975 - 764469" locus_tag="SALIVB_RS03350" class="clusterblast-orf" id="dummy-1_h1_7_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="319,90 332,90 337,85 332,80 319,80 319,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS10510&lt;/b&gt;&lt;br&gt;transposase&lt;br&gt;Location: 764304 - 763618" locus_tag="SALIVB_RS10510" class="clusterblast-orf" id="dummy-1_h1_7_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="341,85 346,80 393,80 393,90 346,90 341,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03340&lt;/b&gt;&lt;br&gt;KxYKxGKxW signal peptide domain-containing protein&lt;br&gt;Location: 763454 - 761469" locus_tag="SALIVB_RS03340" class="clusterblast-orf" id="dummy-1_h1_7_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="428,85 433,80 447,80 447,90 433,90 428,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03335&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 760139 - 759405" locus_tag="SALIVB_RS03335" class="clusterblast-orf" id="dummy-1_h1_7_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="447,85 452,80 466,80 466,90 452,90 447,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03330&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 759408 - 758653" locus_tag="SALIVB_RS03330" class="clusterblast-orf" id="dummy-1_h1_7_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="466,85 471,80 490,80 490,90 471,90 466,85 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03325&lt;/b&gt;&lt;br&gt;ATP-binding cassette domain-containing protein&lt;br&gt;Location: 758651 - 757743&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_7&lt;/b&gt;&lt;br&gt;Percentage identity: 44&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 229&lt;br&gt;E-value: 4e-58" locus_tag="SALIVB_RS03325" class="clusterblast-orf" id="dummy-1_h1_7_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="491,85 496,80 545,80 545,90 496,90 491,85 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03320&lt;/b&gt;&lt;br&gt;ATP-binding cassette domain-containing protein&lt;br&gt;Location: 757688 - 755610&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_8&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 451&lt;br&gt;E-value: 1.5e-124" locus_tag="SALIVB_RS03320" class="clusterblast-orf" id="dummy-1_h1_7_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="546,85 551,80 618,80 618,90 551,90 546,85 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03315&lt;/b&gt;&lt;br&gt;salivaricin 9 biosynthesis lanthionine synthetase SivM&lt;br&gt;Location: 755593 - 752810&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_9&lt;/b&gt;&lt;br&gt;Percentage identity: 31&lt;br&gt;Percentage coverage: 103&lt;br&gt;BLAST bit score: 395&lt;br&gt;E-value: 1.7e-107" locus_tag="SALIVB_RS03315" class="clusterblast-orf" id="dummy-1_h1_7_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="623,85 627,80 627,90 623,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03310&lt;/b&gt;&lt;br&gt;type A2 lantipeptide&lt;br&gt;Location: 752642 - 752472" locus_tag="SALIVB_RS03310" class="clusterblast-orf" id="dummy-1_h1_7_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="632,90 645,90 650,85 645,80 632,80 632,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03305&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 752274 - 751576" locus_tag="SALIVB_RS03305" class="clusterblast-orf" id="dummy-1_h1_7_21"  />
+</g>
+<g id="a1_0022"  >
+<polygon points="654,90 681,90 686,85 681,80 654,80 654,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03300&lt;/b&gt;&lt;br&gt;sensor histidine kinase&lt;br&gt;Location: 751438 - 750197" locus_tag="SALIVB_RS03300" class="clusterblast-orf" id="dummy-1_h1_7_22"  />
+</g>
+<g id="a1_0023"  >
+<polygon points="692,85 697,80 705,80 705,90 697,90 692,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03295&lt;/b&gt;&lt;br&gt;IS110 family transposase&lt;br&gt;Location: 749986 - 749489" locus_tag="SALIVB_RS03295" class="clusterblast-orf" id="dummy-1_h1_7_23"  />
+</g>
+<g id="a1_0024"  >
+<polygon points="706,85 711,80 738,80 738,90 711,90 706,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03290&lt;/b&gt;&lt;br&gt;ISL3 family transposase&lt;br&gt;Location: 749456 - 748200" locus_tag="SALIVB_RS03290" class="clusterblast-orf" id="dummy-1_h1_7_24"  />
+</g>
+<g id="a1_0025"  >
+<polygon points="740,85 745,80 760,80 760,90 745,90 740,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS03285&lt;/b&gt;&lt;br&gt;IS110 family transposase&lt;br&gt;Location: 748153 - 747364" locus_tag="SALIVB_RS03285" class="clusterblast-orf" id="dummy-1_h1_7_25"  />
+</g>
+<g id="a1_0026"  >
+<polygon points="771,85 776,80 780,80 780,90 776,90 771,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SALIVB_RS10365&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 746930 - 746619" locus_tag="SALIVB_RS10365" class="clusterblast-orf" id="dummy-1_h1_7_26"  />
+</g>
+</svg>

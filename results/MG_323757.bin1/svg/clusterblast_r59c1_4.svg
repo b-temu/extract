@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="274,40 279,40 284,35 279,30 274,30 274,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg59_1&lt;/b&gt;&lt;br&gt;ctg59 1&lt;br&gt;Location: 603 - 801" locus_tag="ctg59_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="284,40 288,40 293,35 288,30 284,30 284,40 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg59_2&lt;/b&gt;&lt;br&gt;ctg59 2&lt;br&gt;Location: 813 - 996" locus_tag="ctg59_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="329,40 331,40 336,35 331,30 329,30 329,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg59_3&lt;/b&gt;&lt;br&gt;ctg59 3&lt;br&gt;Location: 1736 - 1877" locus_tag="ctg59_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="381,40 413,40 418,35 413,30 381,30 381,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg59_4&lt;/b&gt;&lt;br&gt;ctg59 4&lt;br&gt;Location: 2811 - 3564" locus_tag="ctg59_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="421,40 449,40 454,35 449,30 421,30 421,40 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg59_5&lt;/b&gt;&lt;br&gt;ctg59 5&lt;br&gt;Location: 3628 - 4309" locus_tag="ctg59_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="454,40 492,40 497,35 492,30 454,30 454,40 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg59_6&lt;/b&gt;&lt;br&gt;ctg59 6&lt;br&gt;Location: 4317 - 5208" locus_tag="ctg59_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="497,40 501,40 506,35 501,30 497,30 497,40 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg59_7&lt;/b&gt;&lt;br&gt;ctg59 7&lt;br&gt;Location: 5209 - 5377" locus_tag="ctg59_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+</g>
+<g label="NZ_KZ846230" description="NZ_KZ846230 (55734-72409): Enterococcus faecium strain 235EA1 aekdA-supercont... (13% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_KZ846230&amp;start=55734&amp;end=72409" target="_blank">NZ_KZ846230 (55734-72409)</a>: Enterococcus faecium strain 235EA1 aekdA-supercont... (13% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 10,90 15,85 10,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09775&lt;/b&gt;&lt;br&gt;PTS lactose/cellobiose transporter subunit IIA&lt;br&gt;Location: 56197 - 56514" locus_tag="EB33_RS09775" class="clusterblast-orf" id="dummy-1_h1_4_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="15,90 92,90 97,85 92,80 15,80 15,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09780&lt;/b&gt;&lt;br&gt;PTS lactose transporter subunit IIBC&lt;br&gt;Location: 56527 - 58200" locus_tag="EB33_RS09780" class="clusterblast-orf" id="dummy-1_h1_4_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="97,90 171,90 176,85 171,80 97,80 97,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09785&lt;/b&gt;&lt;br&gt;glycosyl hydrolase 53 family protein&lt;br&gt;Location: 58214 - 59845" locus_tag="EB33_RS09785" class="clusterblast-orf" id="dummy-1_h1_4_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="219,90 320,90 325,85 320,80 219,80 219,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09790&lt;/b&gt;&lt;br&gt;peptide cleavage/export ABC transporter&lt;br&gt;Location: 60735 - 62906" locus_tag="EB33_RS09790" class="clusterblast-orf" id="dummy-1_h1_4_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="329,90 388,90 393,85 388,80 329,80 329,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09795&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 62998 - 64314" locus_tag="EB33_RS09795" class="clusterblast-orf" id="dummy-1_h1_4_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="393,90 424,90 429,85 424,80 393,80 393,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09800&lt;/b&gt;&lt;br&gt;LytTR family DNA-binding domain-containing protein&lt;br&gt;Location: 64320 - 65057" locus_tag="EB33_RS09800" class="clusterblast-orf" id="dummy-1_h1_4_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="442,85 447,80 499,80 499,90 447,90 442,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09805&lt;/b&gt;&lt;br&gt;IS256-like element IS1542 family transposase&lt;br&gt;Location: 65334 - 66506" locus_tag="EB33_RS09805" class="clusterblast-orf" id="dummy-1_h1_4_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="522,90 528,90 533,85 528,80 522,80 522,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09810&lt;/b&gt;&lt;br&gt;Blp family class II bacteriocin&lt;br&gt;Location: 66981 - 67214&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg59_1&lt;/b&gt;&lt;br&gt;Percentage identity: 92&lt;br&gt;Percentage coverage: 95&lt;br&gt;BLAST bit score: 49&lt;br&gt;E-value: 1.64e-07" locus_tag="EB33_RS09810" class="clusterblast-orf" id="dummy-1_h1_4_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="534,90 538,90 543,85 538,80 534,80 534,90 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09815&lt;/b&gt;&lt;br&gt;Blp family class II bacteriocin&lt;br&gt;Location: 67227 - 67409&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg59_2&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 80&lt;br&gt;E-value: 5.87e-20" locus_tag="EB33_RS09815" class="clusterblast-orf" id="dummy-1_h1_4_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="559,90 579,90 584,85 579,80 559,80 559,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09820&lt;/b&gt;&lt;br&gt;PedC/BrcD family bacteriocin maturation disulfide isomerase&lt;br&gt;Location: 67754 - 68263" locus_tag="EB33_RS09820" class="clusterblast-orf" id="dummy-1_h1_4_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="596,85 601,80 617,80 617,90 601,90 596,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09825&lt;/b&gt;&lt;br&gt;helix-turn-helix domain-containing protein&lt;br&gt;Location: 68504 - 68938" locus_tag="EB33_RS09825" class="clusterblast-orf" id="dummy-1_h1_4_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="624,90 642,90 647,85 642,80 624,80 624,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09830&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 69082 - 69552" locus_tag="EB33_RS09830" class="clusterblast-orf" id="dummy-1_h1_4_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="656,90 704,90 709,85 704,80 656,80 656,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09835&lt;/b&gt;&lt;br&gt;replication initiation factor domain-containing protein&lt;br&gt;Location: 69751 - 70845" locus_tag="EB33_RS09835" class="clusterblast-orf" id="dummy-1_h1_4_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="712,90 718,90 723,85 718,80 712,80 712,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09840&lt;/b&gt;&lt;br&gt;DUF3173 domain-containing protein&lt;br&gt;Location: 70910 - 71128" locus_tag="EB33_RS09840" class="clusterblast-orf" id="dummy-1_h1_4_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="722,90 775,90 780,85 775,80 722,80 722,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09845&lt;/b&gt;&lt;br&gt;site-specific integrase&lt;br&gt;Location: 71112 - 72296" locus_tag="EB33_RS09845" class="clusterblast-orf" id="dummy-1_h1_4_14"  />
+</g>
+</svg>

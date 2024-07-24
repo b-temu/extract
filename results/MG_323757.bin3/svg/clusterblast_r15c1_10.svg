@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="205,35 209,30 209,40 205,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_1&lt;/b&gt;&lt;br&gt;ctg15 1&lt;br&gt;Location: 294 - 414" locus_tag="ctg15_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="211,35 216,30 220,30 220,40 216,40 211,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_2&lt;/b&gt;&lt;br&gt;ctg15 2&lt;br&gt;Location: 473 - 734" locus_tag="ctg15_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="223,35 228,30 232,30 232,40 228,40 223,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_3&lt;/b&gt;&lt;br&gt;ctg15 3&lt;br&gt;Location: 801 - 1068" locus_tag="ctg15_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="272,35 277,30 302,30 302,40 277,40 272,35 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_4&lt;/b&gt;&lt;br&gt;ctg15 4&lt;br&gt;Location: 2192 - 3056" locus_tag="ctg15_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="313,35 318,30 339,30 339,40 318,40 313,35 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_5&lt;/b&gt;&lt;br&gt;ctg15 5&lt;br&gt;Location: 3369 - 4116" locus_tag="ctg15_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="339,35 344,30 365,30 365,40 344,40 339,35 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_6&lt;/b&gt;&lt;br&gt;ctg15 6&lt;br&gt;Location: 4108 - 4849" locus_tag="ctg15_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="365,35 370,30 397,30 397,40 370,40 365,35 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_7&lt;/b&gt;&lt;br&gt;ctg15 7&lt;br&gt;Location: 4855 - 5761" locus_tag="ctg15_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="397,35 402,30 470,30 470,40 402,40 397,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_8&lt;/b&gt;&lt;br&gt;ctg15 8&lt;br&gt;Location: 5753 - 7850" locus_tag="ctg15_8" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="472,35 477,30 567,30 567,40 477,40 472,35 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_9&lt;/b&gt;&lt;br&gt;ctg15 9&lt;br&gt;Location: 7905 - 10614" locus_tag="ctg15_9" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="569,35 574,30 575,30 575,40 574,40 569,35 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_10&lt;/b&gt;&lt;br&gt;ctg15 10&lt;br&gt;Location: 10667 - 10829" locus_tag="ctg15_10" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+</g>
+<g label="NZ_LN890331" description="NZ_LN890331 (470021-492808): Leuconostoc gasicomitatum KG16-1 isolate LEKG1 c... (19% of genes show similarity), lanthipeptide-class-ii" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_LN890331&amp;start=470021&amp;end=492808" target="_blank">NZ_LN890331 (470021-492808)</a>: Leuconostoc gasicomitatum KG16-1 isolate LEKG1 c... (19% of genes show similarity), lanthipeptide-class-ii</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 13,90 18,85 13,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02365&lt;/b&gt;&lt;br&gt;GNAT family protein&lt;br&gt;Location: 492710 - 492186" locus_tag="LEKG_RS02365" class="clusterblast-orf" id="dummy-1_h1_10_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="23,85 28,80 42,80 42,90 28,90 23,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02360&lt;/b&gt;&lt;br&gt;dihydrofolate reductase family protein&lt;br&gt;Location: 492030 - 491497" locus_tag="LEKG_RS02360" class="clusterblast-orf" id="dummy-1_h1_10_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="54,90 70,90 75,85 70,80 54,80 54,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02355&lt;/b&gt;&lt;br&gt;ECF transporter S component&lt;br&gt;Location: 491148 - 490567" locus_tag="LEKG_RS02355" class="clusterblast-orf" id="dummy-1_h1_10_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="74,90 119,90 124,85 119,80 74,80 74,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02350&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 490574 - 489165" locus_tag="LEKG_RS02350" class="clusterblast-orf" id="dummy-1_h1_10_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="124,90 142,90 147,85 142,80 124,80 124,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02345&lt;/b&gt;&lt;br&gt;energy-coupling factor transporter transmembrane component T&lt;br&gt;Location: 489168 - 488506" locus_tag="LEKG_RS02345" class="clusterblast-orf" id="dummy-1_h1_10_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="148,90 166,90 171,85 166,80 148,80 148,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02340&lt;/b&gt;&lt;br&gt;thiaminase II&lt;br&gt;Location: 488494 - 487826" locus_tag="LEKG_RS02340" class="clusterblast-orf" id="dummy-1_h1_10_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="178,85 183,80 188,80 188,90 183,90 178,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02335&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 487620 - 487351" locus_tag="LEKG_RS02335" class="clusterblast-orf" id="dummy-1_h1_10_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="189,85 194,80 215,80 215,90 194,90 189,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02330&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 487300 - 486560" locus_tag="LEKG_RS02330" class="clusterblast-orf" id="dummy-1_h1_10_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="215,85 220,80 242,80 242,90 220,90 215,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02325&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 486560 - 485811" locus_tag="LEKG_RS02325" class="clusterblast-orf" id="dummy-1_h1_10_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="242,85 247,80 273,80 273,90 247,90 242,85 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02320&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 485807 - 484908&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_7&lt;/b&gt;&lt;br&gt;Percentage identity: 44&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 249&lt;br&gt;E-value: 1.14e-79" locus_tag="LEKG_RS02320" class="clusterblast-orf" id="dummy-1_h1_10_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="273,85 278,80 347,80 347,90 278,90 273,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02315&lt;/b&gt;&lt;br&gt;cysteine peptidase family C39 domain-containing protein&lt;br&gt;Location: 484906 - 482819&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_8&lt;/b&gt;&lt;br&gt;Percentage identity: 40&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 515&lt;br&gt;E-value: 1.8e-172" locus_tag="LEKG_RS02315" class="clusterblast-orf" id="dummy-1_h1_10_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="347,85 352,80 445,80 445,90 352,90 347,85 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02310&lt;/b&gt;&lt;br&gt;type 2 lanthipeptide synthetase LanM family protein&lt;br&gt;Location: 482808 - 480022&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_9&lt;/b&gt;&lt;br&gt;Percentage identity: 34&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 461&lt;br&gt;E-value: 4.8e-146" locus_tag="LEKG_RS02310" class="clusterblast-orf" id="dummy-1_h1_10_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="451,90 490,90 495,85 490,80 451,80 451,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS10305&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 479843 - 478584" locus_tag="LEKG_RS10305" class="clusterblast-orf" id="dummy-1_h1_10_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="496,90 518,90 523,85 518,80 496,80 496,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02300&lt;/b&gt;&lt;br&gt;LytTR family DNA-binding domain-containing protein&lt;br&gt;Location: 478559 - 477807" locus_tag="LEKG_RS02300" class="clusterblast-orf" id="dummy-1_h1_10_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="529,90 529,90 534,85 529,80 529,80 529,90 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02295&lt;/b&gt;&lt;br&gt;lacticin 481 family lantibiotic&lt;br&gt;Location: 477626 - 477471&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_10&lt;/b&gt;&lt;br&gt;Percentage identity: 63&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 68&lt;br&gt;E-value: 1.9e-15" locus_tag="LEKG_RS02295" class="clusterblast-orf" id="dummy-1_h1_10_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="545,85 550,80 618,80 618,90 550,90 545,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02290&lt;/b&gt;&lt;br&gt;DNA topoisomerase&lt;br&gt;Location: 477179 - 475098" locus_tag="LEKG_RS02290" class="clusterblast-orf" id="dummy-1_h1_10_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="634,85 639,80 653,80 653,90 639,90 634,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02285&lt;/b&gt;&lt;br&gt;ECF transporter S component&lt;br&gt;Location: 474648 - 474097" locus_tag="LEKG_RS02285" class="clusterblast-orf" id="dummy-1_h1_10_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="653,85 658,80 688,80 688,90 658,90 653,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02280&lt;/b&gt;&lt;br&gt;nucleoside hydrolase&lt;br&gt;Location: 474100 - 473105" locus_tag="LEKG_RS02280" class="clusterblast-orf" id="dummy-1_h1_10_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="693,85 698,80 698,80 698,90 698,90 693,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS10455&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 472944 - 472801" locus_tag="LEKG_RS10455" class="clusterblast-orf" id="dummy-1_h1_10_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="702,85 707,80 753,80 753,90 707,90 702,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02275&lt;/b&gt;&lt;br&gt;NCS2 family permease&lt;br&gt;Location: 472701 - 471250" locus_tag="LEKG_RS02275" class="clusterblast-orf" id="dummy-1_h1_10_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="765,85 770,80 780,80 780,90 770,90 765,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;LEKG_RS02270&lt;/b&gt;&lt;br&gt;helix-turn-helix transcriptional regulator&lt;br&gt;Location: 470913 - 470491" locus_tag="LEKG_RS02270" class="clusterblast-orf" id="dummy-1_h1_10_20"  />
+</g>
+</svg>

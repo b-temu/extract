@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="0,35 5,30 9,30 9,40 5,40 0,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_1&lt;/b&gt;&lt;br&gt;ctg15 1&lt;br&gt;Location: 294 - 414" locus_tag="ctg15_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="13,35 18,30 33,30 33,40 18,40 13,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_2&lt;/b&gt;&lt;br&gt;ctg15 2&lt;br&gt;Location: 473 - 734" locus_tag="ctg15_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="38,35 43,30 58,30 58,40 43,40 38,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_3&lt;/b&gt;&lt;br&gt;ctg15 3&lt;br&gt;Location: 801 - 1068" locus_tag="ctg15_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="141,35 146,30 205,30 205,40 146,40 141,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_4&lt;/b&gt;&lt;br&gt;ctg15 4&lt;br&gt;Location: 2192 - 3056" locus_tag="ctg15_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="228,35 233,30 283,30 283,40 233,40 228,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_5&lt;/b&gt;&lt;br&gt;ctg15 5&lt;br&gt;Location: 3369 - 4116" locus_tag="ctg15_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="283,35 288,30 337,30 337,40 288,40 283,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_6&lt;/b&gt;&lt;br&gt;ctg15 6&lt;br&gt;Location: 4108 - 4849" locus_tag="ctg15_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="338,35 343,30 405,30 405,40 343,40 338,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_7&lt;/b&gt;&lt;br&gt;ctg15 7&lt;br&gt;Location: 4855 - 5761" locus_tag="ctg15_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="404,35 409,30 560,30 560,40 409,40 404,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_8&lt;/b&gt;&lt;br&gt;ctg15 8&lt;br&gt;Location: 5753 - 7850" locus_tag="ctg15_8" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="564,35 569,30 764,30 764,40 569,40 564,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_9&lt;/b&gt;&lt;br&gt;ctg15 9&lt;br&gt;Location: 7905 - 10614" locus_tag="ctg15_9" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="768,35 773,30 780,30 780,40 773,40 768,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_10&lt;/b&gt;&lt;br&gt;ctg15 10&lt;br&gt;Location: 10667 - 10829" locus_tag="ctg15_10" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+</g>
+<g label="BGC0000532" description="BGC0000532_c1: mutacin II (100% of genes show similarity), RiPP:Lanthipeptide" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://mibig.secondarymetabolites.org/go/BGC0000532/1" target="_blank">BGC0000532</a>:                                                                       mutacin II (100% of genes show similarity), RiPP:Lanthipeptide</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="281,85 286,80 481,80 481,90 286,90 281,85 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC38145.1&lt;/b&gt;&lt;br&gt;&lt;br&gt;Location: 3422 - 726&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_9&lt;/b&gt;&lt;br&gt;Percentage identity: 75&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 1364&lt;br&gt;E-value: 0.0" locus_tag="AAC38145.1" class="clusterblast-orf" id="dummy-1_h1_1_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="486,85 491,80 498,80 498,90 491,90 486,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC38144.1&lt;/b&gt;&lt;br&gt;mutacin II&lt;br&gt;Location: 657 - 496&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_10&lt;/b&gt;&lt;br&gt;Percentage identity: 85&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 102&lt;br&gt;E-value: 2e-22" locus_tag="AAC38144.1" class="clusterblast-orf" id="dummy-1_h1_1_1"  />
+</g>
+</svg>

@@ -1,0 +1,467 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="550" width="800" viewBox="0 0 800 550" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="236,35 241,30 273,30 273,40 241,40 236,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_1&lt;/b&gt;&lt;br&gt;ctg82 1&lt;br&gt;Location: 520 - 1279" locus_tag="ctg82_1" class="clusterblast-orf" id="general-1_q0_0_all"  />
+<polygon points="273,35 278,30 337,30 337,40 278,40 273,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_2&lt;/b&gt;&lt;br&gt;ctg82 2&lt;br&gt;Location: 1280 - 2594" locus_tag="ctg82_2" class="clusterblast-orf" id="general-1_q1_0_all"  />
+<polygon points="341,35 346,30 446,30 446,40 346,40 341,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_3&lt;/b&gt;&lt;br&gt;ctg82 3&lt;br&gt;Location: 2682 - 4854" locus_tag="ctg82_3" class="clusterblast-orf" id="general-1_q2_0_all"  />
+<polygon points="486,40 509,40 514,35 509,30 486,30 486,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_4&lt;/b&gt;&lt;br&gt;ctg82 4&lt;br&gt;Location: 5685 - 6258" locus_tag="ctg82_4" class="clusterblast-orf" id="general-1_q3_0_all"  />
+<polygon points="518,40 539,40 544,35 539,30 518,30 518,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg82_5&lt;/b&gt;&lt;br&gt;ctg82 5&lt;br&gt;Location: 6338 - 6875" locus_tag="ctg82_5" class="clusterblast-orf" id="general-1_q4_0_all"  />
+</g>
+<g label="NZ_KB946108" description="NZ_KB946108 (78814-95380): Enterococcus faecium EnGen0263 strain UAA1280 acvJ... (15% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_KB946108&amp;start=78814&amp;end=95380" target="_blank">NZ_KB946108 (78814-95380)</a>: Enterococcus faecium EnGen0263 strain UAA1280 acvJ... (15% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="45,85 50,80 68,80 68,90 50,90 45,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS14310&lt;/b&gt;&lt;br&gt;PTS sugar transporter subunit IIB&lt;br&gt;Location: 94594 - 94121" locus_tag="UA3_RS14310" class="clusterblast-orf" id="general-1_all_1_1_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="69,85 74,80 109,80 109,90 74,90 69,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS14305&lt;/b&gt;&lt;br&gt;PTS system mannose/fructose/sorbose family transporter subunit IID&lt;br&gt;Location: 94109 - 93273" locus_tag="UA3_RS14305" class="clusterblast-orf" id="general-1_all_1_1_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="108,85 113,80 147,80 147,90 113,90 108,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS14300&lt;/b&gt;&lt;br&gt;PTS sugar transporter subunit IIC&lt;br&gt;Location: 93298 - 92492" locus_tag="UA3_RS14300" class="clusterblast-orf" id="general-1_all_1_1_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="157,85 162,80 170,80 170,90 162,90 157,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS16615&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 92289 - 92029" locus_tag="UA3_RS16615" class="clusterblast-orf" id="general-1_all_1_1_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="179,85 184,80 204,80 204,90 184,90 179,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS15175&lt;/b&gt;&lt;br&gt;PedC/BrcD family bacteriocin maturation disulfide isomerase&lt;br&gt;Location: 91840 - 91322" locus_tag="UA3_RS15175" class="clusterblast-orf" id="general-1_all_1_1_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="205,85 210,80 211,80 211,90 210,90 205,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS15995&lt;/b&gt;&lt;br&gt;bacteriocin&lt;br&gt;Location: 91305 - 91168" locus_tag="UA3_RS15995" class="clusterblast-orf" id="general-1_all_1_1_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="224,90 227,90 232,85 227,80 224,80 224,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS16610&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 90908 - 90744" locus_tag="UA3_RS16610" class="clusterblast-orf" id="general-1_all_1_1_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="242,85 247,80 250,80 250,90 247,90 242,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS16605&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 90532 - 90374" locus_tag="UA3_RS16605" class="clusterblast-orf" id="general-1_all_1_1_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="249,85 254,80 258,80 258,90 254,90 249,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS14285&lt;/b&gt;&lt;br&gt;Blp family class II bacteriocin&lt;br&gt;Location: 90380 - 90198" locus_tag="UA3_RS14285" class="clusterblast-orf" id="general-1_all_1_1_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="259,85 264,80 270,80 270,90 264,90 259,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS14280&lt;/b&gt;&lt;br&gt;Blp family class II bacteriocin&lt;br&gt;Location: 90185 - 89952" locus_tag="UA3_RS14280" class="clusterblast-orf" id="general-1_all_1_1_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="338,85 343,80 374,80 374,90 343,90 338,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS14275&lt;/b&gt;&lt;br&gt;LytTR family DNA-binding domain-containing protein&lt;br&gt;Location: 88562 - 87804&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_1&lt;/b&gt;&lt;br&gt;Percentage identity: 93&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 460&lt;br&gt;E-value: 1.94e-164" locus_tag="UA3_RS14275" class="clusterblast-orf" id="general-1_all_1_1_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="374,85 379,80 438,80 438,90 379,90 374,85 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS14270&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 87802 - 86489&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_2&lt;/b&gt;&lt;br&gt;Percentage identity: 87&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 713&lt;br&gt;E-value: 2.31e-258" locus_tag="UA3_RS14270" class="clusterblast-orf" id="general-1_all_1_1_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="442,85 447,80 548,80 548,90 447,90 442,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS14265&lt;/b&gt;&lt;br&gt;peptide cleavage/export ABC transporter&lt;br&gt;Location: 86396 - 84225&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_3&lt;/b&gt;&lt;br&gt;Percentage identity: 91&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1263&lt;br&gt;E-value: 0.0" locus_tag="UA3_RS14265" class="clusterblast-orf" id="general-1_all_1_1_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="561,90 563,90 568,85 563,80 561,80 561,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS16685&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 83949 - 83815" locus_tag="UA3_RS16685" class="clusterblast-orf" id="general-1_all_1_1_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="571,90 573,90 578,85 573,80 571,80 571,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS15985&lt;/b&gt;&lt;br&gt;class IIb bacteriocin, lactobin A/cerein 7B family&lt;br&gt;Location: 83739 - 83596" locus_tag="UA3_RS15985" class="clusterblast-orf" id="general-1_all_1_1_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="579,90 591,90 596,85 591,80 579,80 579,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS14260&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 83574 - 83236" locus_tag="UA3_RS14260" class="clusterblast-orf" id="general-1_all_1_1_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="626,90 637,90 642,85 637,80 626,80 626,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS15980&lt;/b&gt;&lt;br&gt;tyrosine-type recombinase/integrase&lt;br&gt;Location: 82604 - 82283" locus_tag="UA3_RS15980" class="clusterblast-orf" id="general-1_all_1_1_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="645,85 650,80 664,80 664,90 650,90 645,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS14255&lt;/b&gt;&lt;br&gt;30S ribosomal protein S9&lt;br&gt;Location: 82223 - 81831" locus_tag="UA3_RS14255" class="clusterblast-orf" id="general-1_all_1_1_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="664,85 669,80 686,80 686,90 669,90 664,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS14250&lt;/b&gt;&lt;br&gt;50S ribosomal protein L13&lt;br&gt;Location: 81815 - 81372" locus_tag="UA3_RS14250" class="clusterblast-orf" id="general-1_all_1_1_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="711,85 716,80 734,80 734,90 716,90 711,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UA3_RS14245&lt;/b&gt;&lt;br&gt;DNA starvation/stationary phase protection protein&lt;br&gt;Location: 80852 - 80385" locus_tag="UA3_RS14245" class="clusterblast-orf" id="general-1_all_1_1_19"  />
+</g>
+<g label="NZ_NGLI01000002" description="NZ_NGLI01000002 (555810-572363): Enterococcus sp. 3G1 DIV0629 scaffold00002, ... (16% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="120" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_NGLI01000002&amp;start=555810&amp;end=572363" target="_blank">NZ_NGLI01000002 (555810-572363)</a>: Enterococcus sp. 3G1 DIV0629 scaffold00002, ... (16% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="135" x2="778.0" y2="135" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="8,135 13,130 31,130 31,140 13,140 8,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A5816_RS11530&lt;/b&gt;&lt;br&gt;PTS sugar transporter subunit IIB&lt;br&gt;Location: 571577 - 571104" locus_tag="A5816_RS11530" class="clusterblast-orf" id="general-1_all_1_2_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="32,135 37,130 71,130 71,140 37,140 32,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A5816_RS11525&lt;/b&gt;&lt;br&gt;PTS system mannose/fructose/sorbose family transporter subunit IID&lt;br&gt;Location: 571092 - 570274" locus_tag="A5816_RS11525" class="clusterblast-orf" id="general-1_all_1_2_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="71,135 76,130 110,130 110,140 76,140 71,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A5816_RS11520&lt;/b&gt;&lt;br&gt;PTS sugar transporter subunit IIC&lt;br&gt;Location: 570281 - 569475" locus_tag="A5816_RS11520" class="clusterblast-orf" id="general-1_all_1_2_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="142,135 147,130 167,130 167,140 147,140 142,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A5816_RS11510&lt;/b&gt;&lt;br&gt;PedC/BrcD family bacteriocin maturation disulfide isomerase&lt;br&gt;Location: 568823 - 568305" locus_tag="A5816_RS11510" class="clusterblast-orf" id="general-1_all_1_2_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="168,135 173,130 174,130 174,140 173,140 168,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A5816_RS11505&lt;/b&gt;&lt;br&gt;bacteriocin&lt;br&gt;Location: 568288 - 568151" locus_tag="A5816_RS11505" class="clusterblast-orf" id="general-1_all_1_2_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="213,135 218,130 221,130 221,140 218,140 213,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A5816_RS11495&lt;/b&gt;&lt;br&gt;Blp family class II bacteriocin&lt;br&gt;Location: 567363 - 567181" locus_tag="A5816_RS11495" class="clusterblast-orf" id="general-1_all_1_2_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="222,135 227,130 233,130 233,140 227,140 222,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A5816_RS11490&lt;/b&gt;&lt;br&gt;Blp family class II bacteriocin&lt;br&gt;Location: 567168 - 566935" locus_tag="A5816_RS11490" class="clusterblast-orf" id="general-1_all_1_2_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="300,135 305,130 337,130 337,140 305,140 300,135 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;A5816_RS11485&lt;/b&gt;&lt;br&gt;LytTR family DNA-binding domain-containing protein&lt;br&gt;Location: 565557 - 564799&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_1&lt;/b&gt;&lt;br&gt;Percentage identity: 93&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 460&lt;br&gt;E-value: 1.94e-164" locus_tag="A5816_RS11485" class="clusterblast-orf" id="general-1_all_1_2_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="337,135 342,130 383,130 383,140 342,140 337,135 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;A5816_RS11480&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 564797 - 563847&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_2&lt;/b&gt;&lt;br&gt;Percentage identity: 88&lt;br&gt;Percentage coverage: 72&lt;br&gt;BLAST bit score: 527&lt;br&gt;E-value: 6.04e-187" locus_tag="A5816_RS11480" class="clusterblast-orf" id="general-1_all_1_2_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="405,135 410,130 510,130 510,140 410,140 405,135 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;A5816_RS11475&lt;/b&gt;&lt;br&gt;peptide cleavage/export ABC transporter&lt;br&gt;Location: 563392 - 561221&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_3&lt;/b&gt;&lt;br&gt;Percentage identity: 91&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1263&lt;br&gt;E-value: 0.0" locus_tag="A5816_RS11475" class="clusterblast-orf" id="general-1_all_1_2_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="523,140 525,140 530,135 525,130 523,130 523,140 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A5816_RS11470&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 560945 - 560811" locus_tag="A5816_RS11470" class="clusterblast-orf" id="general-1_all_1_2_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="534,140 536,140 541,135 536,130 534,130 534,140 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A5816_RS11465&lt;/b&gt;&lt;br&gt;class IIb bacteriocin, lactobin A/cerein 7B family&lt;br&gt;Location: 560735 - 560592" locus_tag="A5816_RS11465" class="clusterblast-orf" id="general-1_all_1_2_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="542,140 553,140 558,135 553,130 542,130 542,140 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A5816_RS11460&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 560570 - 560232" locus_tag="A5816_RS11460" class="clusterblast-orf" id="general-1_all_1_2_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="589,140 599,140 604,135 599,130 589,130 589,140 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A5816_RS11455&lt;/b&gt;&lt;br&gt;tyrosine-type recombinase/integrase&lt;br&gt;Location: 559600 - 559279" locus_tag="A5816_RS11455" class="clusterblast-orf" id="general-1_all_1_2_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="607,135 612,130 626,130 626,140 612,140 607,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A5816_RS11450&lt;/b&gt;&lt;br&gt;30S ribosomal protein S9&lt;br&gt;Location: 559219 - 558827" locus_tag="A5816_RS11450" class="clusterblast-orf" id="general-1_all_1_2_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="627,135 632,130 648,130 648,140 632,140 627,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A5816_RS11445&lt;/b&gt;&lt;br&gt;50S ribosomal protein L13&lt;br&gt;Location: 558811 - 558368" locus_tag="A5816_RS11445" class="clusterblast-orf" id="general-1_all_1_2_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="668,135 673,130 690,130 690,140 673,140 668,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A5816_RS11440&lt;/b&gt;&lt;br&gt;DNA starvation/stationary phase protection protein&lt;br&gt;Location: 557970 - 557503" locus_tag="A5816_RS11440" class="clusterblast-orf" id="general-1_all_1_2_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="696,135 701,130 771,130 771,140 701,140 696,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;A5816_RS11435&lt;/b&gt;&lt;br&gt;gluconokinase&lt;br&gt;Location: 557383 - 555845" locus_tag="A5816_RS11435" class="clusterblast-orf" id="general-1_all_1_2_17"  />
+</g>
+<g label="NZ_CP078505" description="NZ_CP078505 (3139533-3154876): Enterococcus gallinarum strain fecal iso1 chro... (20% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="170" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP078505&amp;start=3139533&amp;end=3154876" target="_blank">NZ_CP078505 (3139533-3154876)</a>: Enterococcus gallinarum strain fecal iso1 chro... (20% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="185" x2="778.0" y2="185" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="35,185 40,180 93,180 93,190 40,190 35,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14615&lt;/b&gt;&lt;br&gt;site-specific integrase&lt;br&gt;Location: 3139647 - 3140831" locus_tag="KW861_RS14615" class="clusterblast-orf" id="general-1_all_1_3_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="92,185 97,180 103,180 103,190 97,190 92,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14620&lt;/b&gt;&lt;br&gt;DUF3173 domain-containing protein&lt;br&gt;Location: 3140815 - 3141033" locus_tag="KW861_RS14620" class="clusterblast-orf" id="general-1_all_1_3_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="106,185 111,180 159,180 159,190 111,190 106,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14625&lt;/b&gt;&lt;br&gt;replication initiation factor domain-containing protein&lt;br&gt;Location: 3141098 - 3142192" locus_tag="KW861_RS14625" class="clusterblast-orf" id="general-1_all_1_3_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="168,185 173,180 191,180 191,190 173,190 168,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14630&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 3142391 - 3142861" locus_tag="KW861_RS14630" class="clusterblast-orf" id="general-1_all_1_3_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="198,190 214,190 219,185 214,180 198,180 198,190 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14635&lt;/b&gt;&lt;br&gt;helix-turn-helix domain-containing protein&lt;br&gt;Location: 3143005 - 3143439" locus_tag="KW861_RS14635" class="clusterblast-orf" id="general-1_all_1_3_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="231,185 236,180 255,180 255,190 236,190 231,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14640&lt;/b&gt;&lt;br&gt;PedC/BrcD family bacteriocin maturation disulfide isomerase&lt;br&gt;Location: 3143680 - 3144189" locus_tag="KW861_RS14640" class="clusterblast-orf" id="general-1_all_1_3_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="272,185 277,180 281,180 281,190 277,190 272,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14645&lt;/b&gt;&lt;br&gt;Blp family class II bacteriocin&lt;br&gt;Location: 3144534 - 3144716" locus_tag="KW861_RS14645" class="clusterblast-orf" id="general-1_all_1_3_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="282,185 287,180 293,180 293,190 287,190 282,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14650&lt;/b&gt;&lt;br&gt;Blp family class II bacteriocin&lt;br&gt;Location: 3144729 - 3144962" locus_tag="KW861_RS14650" class="clusterblast-orf" id="general-1_all_1_3_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="305,185 310,180 312,180 312,190 310,190 305,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14655&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 3145209 - 3145346" locus_tag="KW861_RS14655" class="clusterblast-orf" id="general-1_all_1_3_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="322,185 327,180 357,180 357,190 327,190 322,185 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14660&lt;/b&gt;&lt;br&gt;LytTR family DNA-binding domain-containing protein&lt;br&gt;Location: 3145554 - 3146291&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_1&lt;/b&gt;&lt;br&gt;Percentage identity: 69&lt;br&gt;Percentage coverage: 95&lt;br&gt;BLAST bit score: 350&lt;br&gt;E-value: 2.72e-121" locus_tag="KW861_RS14660" class="clusterblast-orf" id="general-1_all_1_3_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="358,185 363,180 421,180 421,190 363,190 358,185 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14665&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 3146297 - 3147613&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_2&lt;/b&gt;&lt;br&gt;Percentage identity: 52&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 420&lt;br&gt;E-value: 9.81e-143" locus_tag="KW861_RS14665" class="clusterblast-orf" id="general-1_all_1_3_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="426,185 431,180 531,180 531,190 431,190 426,185 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14670&lt;/b&gt;&lt;br&gt;peptide cleavage/export ABC transporter&lt;br&gt;Location: 3147705 - 3149876&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_3&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1162&lt;br&gt;E-value: 0.0" locus_tag="KW861_RS14670" class="clusterblast-orf" id="general-1_all_1_3_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="571,190 571,190 576,185 571,180 571,180 571,190 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14675&lt;/b&gt;&lt;br&gt;type I toxin-antitoxin system Fst family toxin&lt;br&gt;Location: 3150710 - 3150802" locus_tag="KW861_RS14675" class="clusterblast-orf" id="general-1_all_1_3_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="592,185 597,180 686,180 686,190 597,190 592,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14680&lt;/b&gt;&lt;br&gt;DUF87 domain-containing protein&lt;br&gt;Location: 3151145 - 3153067" locus_tag="KW861_RS14680" class="clusterblast-orf" id="general-1_all_1_3_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="686,185 691,180 744,180 744,190 691,190 686,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KW861_RS14685&lt;/b&gt;&lt;br&gt;SIR2 family protein&lt;br&gt;Location: 3153068 - 3154264" locus_tag="KW861_RS14685" class="clusterblast-orf" id="general-1_all_1_3_14"  />
+</g>
+<g label="NZ_KZ846093" description="NZ_KZ846093 (59374-74717): Enterococcus faecium strain 131EA1 aekeh-supercont... (21% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="220" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_KZ846093&amp;start=59374&amp;end=74717" target="_blank">NZ_KZ846093 (59374-74717)</a>: Enterococcus faecium strain 131EA1 aekeh-supercont... (21% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="235" x2="778.0" y2="235" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="35,235 40,230 88,230 88,240 40,240 35,235 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB12_RS07225&lt;/b&gt;&lt;br&gt;replication initiation factor domain-containing protein&lt;br&gt;Location: 74485 - 73391" locus_tag="EB12_RS07225" class="clusterblast-orf" id="general-1_all_1_4_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="97,235 102,230 120,230 120,240 102,240 97,235 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB12_RS07220&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 73192 - 72722" locus_tag="EB12_RS07220" class="clusterblast-orf" id="general-1_all_1_4_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="127,240 143,240 148,235 143,230 127,230 127,240 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB12_RS07215&lt;/b&gt;&lt;br&gt;helix-turn-helix domain-containing protein&lt;br&gt;Location: 72578 - 72144" locus_tag="EB12_RS07215" class="clusterblast-orf" id="general-1_all_1_4_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="160,235 165,230 185,230 185,240 165,240 160,235 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB12_RS07210&lt;/b&gt;&lt;br&gt;PedC/BrcD family bacteriocin maturation disulfide isomerase&lt;br&gt;Location: 71903 - 71382" locus_tag="EB12_RS07210" class="clusterblast-orf" id="general-1_all_1_4_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="187,235 192,230 244,230 244,240 192,240 187,235 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB12_RS07205&lt;/b&gt;&lt;br&gt;IS256-like element IS256 family transposase&lt;br&gt;Location: 71337 - 70165" locus_tag="EB12_RS07205" class="clusterblast-orf" id="general-1_all_1_4_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="266,235 271,230 274,230 274,240 271,240 266,235 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB12_RS07200&lt;/b&gt;&lt;br&gt;Blp family class II bacteriocin&lt;br&gt;Location: 69717 - 69535" locus_tag="EB12_RS07200" class="clusterblast-orf" id="general-1_all_1_4_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="275,235 280,230 286,230 286,240 280,240 275,235 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB12_RS07195&lt;/b&gt;&lt;br&gt;Blp family class II bacteriocin&lt;br&gt;Location: 69522 - 69289" locus_tag="EB12_RS07195" class="clusterblast-orf" id="general-1_all_1_4_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="298,235 303,230 305,230 305,240 303,240 298,235 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB12_RS15615&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 69042 - 68905" locus_tag="EB12_RS15615" class="clusterblast-orf" id="general-1_all_1_4_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="315,235 320,230 351,230 351,240 320,240 315,235 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;EB12_RS07190&lt;/b&gt;&lt;br&gt;LytTR family DNA-binding domain-containing protein&lt;br&gt;Location: 68697 - 67960&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_1&lt;/b&gt;&lt;br&gt;Percentage identity: 69&lt;br&gt;Percentage coverage: 95&lt;br&gt;BLAST bit score: 350&lt;br&gt;E-value: 2.72e-121" locus_tag="EB12_RS07190" class="clusterblast-orf" id="general-1_all_1_4_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="351,235 356,230 415,230 415,240 356,240 351,235 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;EB12_RS07185&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 67954 - 66638&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_2&lt;/b&gt;&lt;br&gt;Percentage identity: 52&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 420&lt;br&gt;E-value: 9.81e-143" locus_tag="EB12_RS07185" class="clusterblast-orf" id="general-1_all_1_4_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="419,235 424,230 524,230 524,240 424,240 419,235 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;EB12_RS07180&lt;/b&gt;&lt;br&gt;peptide cleavage/export ABC transporter&lt;br&gt;Location: 66546 - 64375&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_3&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1162&lt;br&gt;E-value: 0.0" locus_tag="EB12_RS07180" class="clusterblast-orf" id="general-1_all_1_4_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="568,235 573,230 647,230 647,240 573,240 568,235 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB12_RS07175&lt;/b&gt;&lt;br&gt;glycosyl hydrolase 53 family protein&lt;br&gt;Location: 63485 - 61854" locus_tag="EB12_RS07175" class="clusterblast-orf" id="general-1_all_1_4_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="647,235 652,230 728,230 728,240 652,240 647,235 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB12_RS07170&lt;/b&gt;&lt;br&gt;PTS lactose transporter subunit IIBC&lt;br&gt;Location: 61840 - 60167" locus_tag="EB12_RS07170" class="clusterblast-orf" id="general-1_all_1_4_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="729,235 734,230 744,230 744,240 734,240 729,235 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB12_RS07165&lt;/b&gt;&lt;br&gt;PTS lactose/cellobiose transporter subunit IIA&lt;br&gt;Location: 60154 - 59837" locus_tag="EB12_RS07165" class="clusterblast-orf" id="general-1_all_1_4_13"  />
+</g>
+<g label="NZ_KZ846230" description="NZ_KZ846230 (55734-72409): Enterococcus faecium strain 235EA1 aekdA-supercont... (20% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="270" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_KZ846230&amp;start=55734&amp;end=72409" target="_blank">NZ_KZ846230 (55734-72409)</a>: Enterococcus faecium strain 235EA1 aekdA-supercont... (20% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="285" x2="778.0" y2="285" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,285 5,280 57,280 57,290 5,290 0,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09845&lt;/b&gt;&lt;br&gt;site-specific integrase&lt;br&gt;Location: 72296 - 71112" locus_tag="EB33_RS09845" class="clusterblast-orf" id="general-1_all_1_5_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="56,285 61,280 67,280 67,290 61,290 56,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09840&lt;/b&gt;&lt;br&gt;DUF3173 domain-containing protein&lt;br&gt;Location: 71128 - 70910" locus_tag="EB33_RS09840" class="clusterblast-orf" id="general-1_all_1_5_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="70,285 75,280 123,280 123,290 75,290 70,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09835&lt;/b&gt;&lt;br&gt;replication initiation factor domain-containing protein&lt;br&gt;Location: 70845 - 69751" locus_tag="EB33_RS09835" class="clusterblast-orf" id="general-1_all_1_5_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="132,285 137,280 155,280 155,290 137,290 132,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09830&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 69552 - 69082" locus_tag="EB33_RS09830" class="clusterblast-orf" id="general-1_all_1_5_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="162,290 178,290 183,285 178,280 162,280 162,290 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09825&lt;/b&gt;&lt;br&gt;helix-turn-helix domain-containing protein&lt;br&gt;Location: 68938 - 68504" locus_tag="EB33_RS09825" class="clusterblast-orf" id="general-1_all_1_5_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="195,285 200,280 220,280 220,290 200,290 195,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09820&lt;/b&gt;&lt;br&gt;PedC/BrcD family bacteriocin maturation disulfide isomerase&lt;br&gt;Location: 68263 - 67754" locus_tag="EB33_RS09820" class="clusterblast-orf" id="general-1_all_1_5_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="236,285 241,280 245,280 245,290 241,290 236,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09815&lt;/b&gt;&lt;br&gt;Blp family class II bacteriocin&lt;br&gt;Location: 67409 - 67227" locus_tag="EB33_RS09815" class="clusterblast-orf" id="general-1_all_1_5_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="246,285 251,280 257,280 257,290 251,290 246,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09810&lt;/b&gt;&lt;br&gt;Blp family class II bacteriocin&lt;br&gt;Location: 67214 - 66981" locus_tag="EB33_RS09810" class="clusterblast-orf" id="general-1_all_1_5_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="280,290 332,290 337,285 332,280 280,280 280,290 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09805&lt;/b&gt;&lt;br&gt;IS256-like element IS1542 family transposase&lt;br&gt;Location: 66506 - 65334" locus_tag="EB33_RS09805" class="clusterblast-orf" id="general-1_all_1_5_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="350,285 355,280 386,280 386,290 355,290 350,285 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09800&lt;/b&gt;&lt;br&gt;LytTR family DNA-binding domain-containing protein&lt;br&gt;Location: 65057 - 64320&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_1&lt;/b&gt;&lt;br&gt;Percentage identity: 69&lt;br&gt;Percentage coverage: 95&lt;br&gt;BLAST bit score: 350&lt;br&gt;E-value: 2.72e-121" locus_tag="EB33_RS09800" class="clusterblast-orf" id="general-1_all_1_5_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="386,285 391,280 450,280 450,290 391,290 386,285 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09795&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 64314 - 62998&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_2&lt;/b&gt;&lt;br&gt;Percentage identity: 52&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 420&lt;br&gt;E-value: 9.81e-143" locus_tag="EB33_RS09795" class="clusterblast-orf" id="general-1_all_1_5_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="454,285 459,280 560,280 560,290 459,290 454,285 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09790&lt;/b&gt;&lt;br&gt;peptide cleavage/export ABC transporter&lt;br&gt;Location: 62906 - 60735&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_3&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1162&lt;br&gt;E-value: 0.0" locus_tag="EB33_RS09790" class="clusterblast-orf" id="general-1_all_1_5_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="603,285 608,280 682,280 682,290 608,290 603,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09785&lt;/b&gt;&lt;br&gt;glycosyl hydrolase 53 family protein&lt;br&gt;Location: 59845 - 58214" locus_tag="EB33_RS09785" class="clusterblast-orf" id="general-1_all_1_5_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="682,285 687,280 764,280 764,290 687,290 682,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09780&lt;/b&gt;&lt;br&gt;PTS lactose transporter subunit IIBC&lt;br&gt;Location: 58200 - 56527" locus_tag="EB33_RS09780" class="clusterblast-orf" id="general-1_all_1_5_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="764,285 769,280 780,280 780,290 769,290 764,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EB33_RS09775&lt;/b&gt;&lt;br&gt;PTS lactose/cellobiose transporter subunit IIA&lt;br&gt;Location: 56514 - 56197" locus_tag="EB33_RS09775" class="clusterblast-orf" id="general-1_all_1_5_14"  />
+</g>
+<g label="NZ_KB946310" description="NZ_KB946310 (115445-132208): Enterococcus pallens ATCC BAA-351 acvKb-supercon... (18% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="320" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_KB946310&amp;start=115445&amp;end=132208" target="_blank">NZ_KB946310 (115445-132208)</a>: Enterococcus pallens ATCC BAA-351 acvKb-supercon... (18% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="335" x2="778.0" y2="335" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="28,340 115,340 120,335 115,330 28,330 28,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17120&lt;/b&gt;&lt;br&gt;group II intron reverse transcriptase/maturase&lt;br&gt;Location: 116830 - 118722" locus_tag="UAU_RS17120" class="clusterblast-orf" id="general-1_all_1_6_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="157,340 161,335 157,330 157,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS27520&lt;/b&gt;&lt;br&gt;leucocin A/sakacin P family class II bacteriocin&lt;br&gt;Location: 119488 - 119568" locus_tag="UAU_RS27520" class="clusterblast-orf" id="general-1_all_1_6_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="165,340 176,340 181,335 176,330 165,330 165,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17125&lt;/b&gt;&lt;br&gt;bacteriocin immunity protein&lt;br&gt;Location: 119658 - 119978" locus_tag="UAU_RS17125" class="clusterblast-orf" id="general-1_all_1_6_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="189,335 194,330 203,330 203,340 194,340 189,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17130&lt;/b&gt;&lt;br&gt;bacteriocin immunity protein&lt;br&gt;Location: 120139 - 120444" locus_tag="UAU_RS17130" class="clusterblast-orf" id="general-1_all_1_6_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="203,335 208,330 212,330 212,340 208,340 203,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17135&lt;/b&gt;&lt;br&gt;class II bacteriocin&lt;br&gt;Location: 120446 - 120628" locus_tag="UAU_RS17135" class="clusterblast-orf" id="general-1_all_1_6_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="225,340 235,340 240,335 235,330 225,330 225,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17140&lt;/b&gt;&lt;br&gt;bacteriocin immunity protein&lt;br&gt;Location: 120894 - 121190" locus_tag="UAU_RS17140" class="clusterblast-orf" id="general-1_all_1_6_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="251,335 256,330 279,330 279,340 256,340 251,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS26630&lt;/b&gt;&lt;br&gt;PedC/BrcD family bacteriocin maturation disulfide isomerase&lt;br&gt;Location: 121426 - 122004" locus_tag="UAU_RS26630" class="clusterblast-orf" id="general-1_all_1_6_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="288,335 293,330 324,330 324,340 293,340 288,335 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17150&lt;/b&gt;&lt;br&gt;LytTR family DNA-binding domain-containing protein&lt;br&gt;Location: 122189 - 122938&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_1&lt;/b&gt;&lt;br&gt;Percentage identity: 75&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 392&lt;br&gt;E-value: 1.14e-137" locus_tag="UAU_RS17150" class="clusterblast-orf" id="general-1_all_1_6_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="324,335 329,330 387,330 387,340 329,340 324,335 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17155&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 122940 - 124241&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_2&lt;/b&gt;&lt;br&gt;Percentage identity: 52&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 423&lt;br&gt;E-value: 3.6e-144" locus_tag="UAU_RS17155" class="clusterblast-orf" id="general-1_all_1_6_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="391,335 396,330 497,330 497,340 396,340 391,335 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17160&lt;/b&gt;&lt;br&gt;peptide cleavage/export ABC transporter&lt;br&gt;Location: 124326 - 126497&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_3&lt;/b&gt;&lt;br&gt;Percentage identity: 69&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 966&lt;br&gt;E-value: 0.0" locus_tag="UAU_RS17160" class="clusterblast-orf" id="general-1_all_1_6_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="522,335 527,330 531,330 531,340 527,340 522,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS26635&lt;/b&gt;&lt;br&gt;enterocin 1071A family bacteriocin&lt;br&gt;Location: 127023 - 127208" locus_tag="UAU_RS26635" class="clusterblast-orf" id="general-1_all_1_6_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="561,340 574,340 579,335 574,330 561,330 561,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17165&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 127827 - 128198" locus_tag="UAU_RS17165" class="clusterblast-orf" id="general-1_all_1_6_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="580,340 612,340 617,335 612,330 580,330 580,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17170&lt;/b&gt;&lt;br&gt;alpha/beta hydrolase&lt;br&gt;Location: 128211 - 128978" locus_tag="UAU_RS17170" class="clusterblast-orf" id="general-1_all_1_6_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="633,335 638,330 640,330 640,340 638,340 633,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS27050&lt;/b&gt;&lt;br&gt;putative holin-like toxin&lt;br&gt;Location: 129320 - 129466" locus_tag="UAU_RS27050" class="clusterblast-orf" id="general-1_all_1_6_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="649,335 654,330 708,330 708,340 654,340 649,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17175&lt;/b&gt;&lt;br&gt;zinc-binding dehydrogenase&lt;br&gt;Location: 129643 - 130869" locus_tag="UAU_RS17175" class="clusterblast-orf" id="general-1_all_1_6_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="709,335 714,330 751,330 751,340 714,340 709,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;UAU_RS17180&lt;/b&gt;&lt;br&gt;mannose/fructose/sorbose PTS transporter subunit IID&lt;br&gt;Location: 130886 - 131740" locus_tag="UAU_RS17180" class="clusterblast-orf" id="general-1_all_1_6_15"  />
+</g>
+<g label="NZ_SPHN01000003" description="NZ_SPHN01000003 (68221-80384): Enterococcus sp. BSD2780061688st2 D3 strain BS... (33% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="370" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_SPHN01000003&amp;start=68221&amp;end=80384" target="_blank">NZ_SPHN01000003 (68221-80384)</a>: Enterococcus sp. BSD2780061688st2 D3 strain BS... (33% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="385" x2="778.0" y2="385" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="122,390 214,390 219,385 214,380 122,380 122,390 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;FGQ66_RS03790&lt;/b&gt;&lt;br&gt;methionine--tRNA ligase&lt;br&gt;Location: 80099 - 78090" locus_tag="FGQ66_RS03790" class="clusterblast-orf" id="general-1_all_1_7_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="230,385 235,380 237,380 237,390 235,390 230,385 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;FGQ66_RS15095&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 77878 - 77723" locus_tag="FGQ66_RS15095" class="clusterblast-orf" id="general-1_all_1_7_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="247,385 252,380 282,380 282,390 252,390 247,385 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;FGQ66_RS03785&lt;/b&gt;&lt;br&gt;LytTR family DNA-binding domain-containing protein&lt;br&gt;Location: 77523 - 76786&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_1&lt;/b&gt;&lt;br&gt;Percentage identity: 68&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 345&lt;br&gt;E-value: 5.22e-119" locus_tag="FGQ66_RS03785" class="clusterblast-orf" id="general-1_all_1_7_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="281,385 286,380 347,380 347,390 286,390 281,385 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;FGQ66_RS03780&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 76811 - 75456&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_2&lt;/b&gt;&lt;br&gt;Percentage identity: 52&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 403&lt;br&gt;E-value: 4.81e-136" locus_tag="FGQ66_RS03780" class="clusterblast-orf" id="general-1_all_1_7_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="350,385 355,380 455,380 455,390 355,390 350,385 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;FGQ66_RS03775&lt;/b&gt;&lt;br&gt;peptide cleavage/export ABC transporter&lt;br&gt;Location: 75384 - 73222&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_3&lt;/b&gt;&lt;br&gt;Percentage identity: 67&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 922&lt;br&gt;E-value: 0.0" locus_tag="FGQ66_RS03775" class="clusterblast-orf" id="general-1_all_1_7_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="475,385 480,380 503,380 503,390 480,390 475,385 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;FGQ66_RS03770&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 72821 - 72237" locus_tag="FGQ66_RS03770" class="clusterblast-orf" id="general-1_all_1_7_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="511,390 570,390 575,385 570,380 511,380 511,390 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;FGQ66_RS03765&lt;/b&gt;&lt;br&gt;amino acid permease&lt;br&gt;Location: 72065 - 70752" locus_tag="FGQ66_RS03765" class="clusterblast-orf" id="general-1_all_1_7_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="592,390 625,390 630,385 625,380 592,380 592,390 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;FGQ66_RS03760&lt;/b&gt;&lt;br&gt;TatD family hydrolase&lt;br&gt;Location: 70392 - 69616" locus_tag="FGQ66_RS03760" class="clusterblast-orf" id="general-1_all_1_7_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="630,390 652,390 657,385 652,380 630,380 630,390 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;FGQ66_RS03755&lt;/b&gt;&lt;br&gt;ribonuclease M5&lt;br&gt;Location: 69623 - 69057" locus_tag="FGQ66_RS03755" class="clusterblast-orf" id="general-1_all_1_7_8"  />
+</g>
+<g label="NZ_CP116581" description="NZ_CP116581 (2484979-2497142): Enterococcus durans strain R59-1 chromosome, c... (33% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="420" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP116581&amp;start=2484979&amp;end=2497142" target="_blank">NZ_CP116581 (2484979-2497142)</a>: Enterococcus durans strain R59-1 chromosome, c... (33% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="435" x2="778.0" y2="435" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="122,440 214,440 219,435 214,430 122,430 122,440 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;PML98_RS11580&lt;/b&gt;&lt;br&gt;methionine--tRNA ligase&lt;br&gt;Location: 2496856 - 2494847" locus_tag="PML98_RS11580" class="clusterblast-orf" id="general-1_all_1_8_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="231,435 236,430 237,430 237,440 236,440 231,435 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;PML98_RS11575&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2494602 - 2494480" locus_tag="PML98_RS11575" class="clusterblast-orf" id="general-1_all_1_8_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="247,435 252,430 282,430 282,440 252,440 247,435 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;PML98_RS11570&lt;/b&gt;&lt;br&gt;LytTR family DNA-binding domain-containing protein&lt;br&gt;Location: 2494281 - 2493544&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_1&lt;/b&gt;&lt;br&gt;Percentage identity: 68&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 345&lt;br&gt;E-value: 5.22e-119" locus_tag="PML98_RS11570" class="clusterblast-orf" id="general-1_all_1_8_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="281,435 286,430 347,430 347,440 286,440 281,435 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;PML98_RS11565&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 2493569 - 2492214&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_2&lt;/b&gt;&lt;br&gt;Percentage identity: 51&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 400&lt;br&gt;E-value: 5.5e-135" locus_tag="PML98_RS11565" class="clusterblast-orf" id="general-1_all_1_8_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="350,435 355,430 455,430 455,440 355,440 350,435 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;PML98_RS11560&lt;/b&gt;&lt;br&gt;peptide cleavage/export ABC transporter&lt;br&gt;Location: 2492142 - 2489980&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_3&lt;/b&gt;&lt;br&gt;Percentage identity: 67&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 922&lt;br&gt;E-value: 0.0" locus_tag="PML98_RS11560" class="clusterblast-orf" id="general-1_all_1_8_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="475,435 480,430 503,430 503,440 480,440 475,435 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;PML98_RS11555&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2489578 - 2488994" locus_tag="PML98_RS11555" class="clusterblast-orf" id="general-1_all_1_8_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="511,440 570,440 575,435 570,430 511,430 511,440 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;PML98_RS11550&lt;/b&gt;&lt;br&gt;amino acid permease&lt;br&gt;Location: 2488822 - 2487509" locus_tag="PML98_RS11550" class="clusterblast-orf" id="general-1_all_1_8_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="592,440 625,440 630,435 625,430 592,430 592,440 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;PML98_RS11545&lt;/b&gt;&lt;br&gt;TatD family hydrolase&lt;br&gt;Location: 2487148 - 2486372" locus_tag="PML98_RS11545" class="clusterblast-orf" id="general-1_all_1_8_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="630,440 652,440 657,435 652,430 630,430 630,440 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;PML98_RS11540&lt;/b&gt;&lt;br&gt;ribonuclease M5&lt;br&gt;Location: 2486379 - 2485813" locus_tag="PML98_RS11540" class="clusterblast-orf" id="general-1_all_1_8_8"  />
+</g>
+<g label="NZ_CP065535" description="NZ_CP065535 (2360067-2371726): Enterococcus durans strain KCTC 13289 chromoso... (40% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="470" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP065535&amp;start=2360067&amp;end=2371726" target="_blank">NZ_CP065535 (2360067-2371726)</a>: Enterococcus durans strain KCTC 13289 chromoso... (40% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="485" x2="778.0" y2="485" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="118,490 211,490 216,485 211,480 118,480 118,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11270&lt;/b&gt;&lt;br&gt;methionine--tRNA ligase&lt;br&gt;Location: 2371441 - 2369432" locus_tag="I4Q39_RS11270" class="clusterblast-orf" id="general-1_all_1_9_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="226,485 231,480 234,480 234,490 231,490 226,485 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11265&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2369220 - 2369065" locus_tag="I4Q39_RS11265" class="clusterblast-orf" id="general-1_all_1_9_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="243,485 248,480 279,480 279,490 248,490 243,485 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11260&lt;/b&gt;&lt;br&gt;LytTR family DNA-binding domain-containing protein&lt;br&gt;Location: 2368865 - 2368128&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_1&lt;/b&gt;&lt;br&gt;Percentage identity: 68&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 345&lt;br&gt;E-value: 3.68e-119" locus_tag="I4Q39_RS11260" class="clusterblast-orf" id="general-1_all_1_9_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="278,485 283,480 343,480 343,490 283,490 278,485 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11255&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 2368153 - 2366798&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_2&lt;/b&gt;&lt;br&gt;Percentage identity: 51&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 398&lt;br&gt;E-value: 6.29e-134" locus_tag="I4Q39_RS11255" class="clusterblast-orf" id="general-1_all_1_9_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="347,485 352,480 427,480 427,490 352,490 347,485 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11250&lt;/b&gt;&lt;br&gt;peptide cleavage/export ABC transporter&lt;br&gt;Location: 2366726 - 2365068&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_3&lt;/b&gt;&lt;br&gt;Percentage identity: 69&lt;br&gt;Percentage coverage: 77&lt;br&gt;BLAST bit score: 715&lt;br&gt;E-value: 1.29e-252" locus_tag="I4Q39_RS11250" class="clusterblast-orf" id="general-1_all_1_9_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="428,485 433,480 452,480 452,490 433,490 428,485 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11245&lt;/b&gt;&lt;br&gt;cysteine peptidase family C39 domain-containing protein&lt;br&gt;Location: 2365050 - 2364565&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_3&lt;/b&gt;&lt;br&gt;Percentage identity: 57&lt;br&gt;Percentage coverage: 22&lt;br&gt;BLAST bit score: 203&lt;br&gt;E-value: 2.12e-59" locus_tag="I4Q39_RS11245" class="clusterblast-orf" id="general-1_all_1_9_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="471,485 476,480 499,480 499,490 476,490 471,485 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11240&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2364164 - 2363580" locus_tag="I4Q39_RS11240" class="clusterblast-orf" id="general-1_all_1_9_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="508,490 566,490 571,485 566,480 508,480 508,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11235&lt;/b&gt;&lt;br&gt;amino acid permease&lt;br&gt;Location: 2363408 - 2362095" locus_tag="I4Q39_RS11235" class="clusterblast-orf" id="general-1_all_1_9_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="596,490 628,490 633,485 628,480 596,480 596,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11230&lt;/b&gt;&lt;br&gt;TatD family hydrolase&lt;br&gt;Location: 2361586 - 2360810" locus_tag="I4Q39_RS11230" class="clusterblast-orf" id="general-1_all_1_9_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="633,490 656,490 661,485 656,480 633,480 633,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;I4Q39_RS11225&lt;/b&gt;&lt;br&gt;ribonuclease M5&lt;br&gt;Location: 2360817 - 2360251" locus_tag="I4Q39_RS11225" class="clusterblast-orf" id="general-1_all_1_9_9"  />
+</g>
+<g label="NZ_LR607372" description="NZ_LR607372 (1332690-1344853): Enterococcus durans strain 4928STDY7387704 chr... (33% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="520" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_LR607372&amp;start=1332690&amp;end=1344853" target="_blank">NZ_LR607372 (1332690-1344853)</a>: Enterococcus durans strain 4928STDY7387704 chr... (33% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="535" x2="778.0" y2="535" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="118,540 211,540 216,535 211,530 118,530 118,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;FN740_RS05190&lt;/b&gt;&lt;br&gt;methionine--tRNA ligase&lt;br&gt;Location: 1332976 - 1334985" locus_tag="FN740_RS05190" class="clusterblast-orf" id="general-1_all_1_10_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="226,535 231,530 234,530 234,540 231,540 226,535 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;FN740_RS05195&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1335197 - 1335352" locus_tag="FN740_RS05195" class="clusterblast-orf" id="general-1_all_1_10_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="243,535 248,530 279,530 279,540 248,540 243,535 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;FN740_RS05200&lt;/b&gt;&lt;br&gt;LytTR family DNA-binding domain-containing protein&lt;br&gt;Location: 1335552 - 1336289&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_1&lt;/b&gt;&lt;br&gt;Percentage identity: 68&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 345&lt;br&gt;E-value: 3.68e-119" locus_tag="FN740_RS05200" class="clusterblast-orf" id="general-1_all_1_10_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="278,535 283,530 343,530 343,540 283,540 278,535 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;FN740_RS05205&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 1336264 - 1337619&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_2&lt;/b&gt;&lt;br&gt;Percentage identity: 51&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 398&lt;br&gt;E-value: 6.29e-134" locus_tag="FN740_RS05205" class="clusterblast-orf" id="general-1_all_1_10_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="347,535 352,530 452,530 452,540 352,540 347,535 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;FN740_RS05210&lt;/b&gt;&lt;br&gt;peptide cleavage/export ABC transporter&lt;br&gt;Location: 1337691 - 1339853&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg82_3&lt;/b&gt;&lt;br&gt;Percentage identity: 66&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 910&lt;br&gt;E-value: 0.0" locus_tag="FN740_RS05210" class="clusterblast-orf" id="general-1_all_1_10_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="471,535 476,530 499,530 499,540 476,540 471,535 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;FN740_RS05215&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1340254 - 1340838" locus_tag="FN740_RS05215" class="clusterblast-orf" id="general-1_all_1_10_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="508,540 566,540 571,535 566,530 508,530 508,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;FN740_RS05220&lt;/b&gt;&lt;br&gt;amino acid permease&lt;br&gt;Location: 1341010 - 1342323" locus_tag="FN740_RS05220" class="clusterblast-orf" id="general-1_all_1_10_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="596,540 628,540 633,535 628,530 596,530 596,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;FN740_RS05225&lt;/b&gt;&lt;br&gt;TatD family hydrolase&lt;br&gt;Location: 1342831 - 1343607" locus_tag="FN740_RS05225" class="clusterblast-orf" id="general-1_all_1_10_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="633,540 656,540 661,535 656,530 633,530 633,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;FN740_RS05230&lt;/b&gt;&lt;br&gt;ribonuclease M5&lt;br&gt;Location: 1343600 - 1344166" locus_tag="FN740_RS05230" class="clusterblast-orf" id="general-1_all_1_10_8"  />
+</g>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="203,35 207,30 207,40 203,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_1&lt;/b&gt;&lt;br&gt;ctg15 1&lt;br&gt;Location: 294 - 414" locus_tag="ctg15_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="209,35 214,30 218,30 218,40 214,40 209,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_2&lt;/b&gt;&lt;br&gt;ctg15 2&lt;br&gt;Location: 473 - 734" locus_tag="ctg15_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="221,35 226,30 230,30 230,40 226,40 221,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_3&lt;/b&gt;&lt;br&gt;ctg15 3&lt;br&gt;Location: 801 - 1068" locus_tag="ctg15_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="270,35 275,30 301,30 301,40 275,40 270,35 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_4&lt;/b&gt;&lt;br&gt;ctg15 4&lt;br&gt;Location: 2192 - 3056" locus_tag="ctg15_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="312,35 317,30 339,30 339,40 317,40 312,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_5&lt;/b&gt;&lt;br&gt;ctg15 5&lt;br&gt;Location: 3369 - 4116" locus_tag="ctg15_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="338,35 343,30 365,30 365,40 343,40 338,35 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_6&lt;/b&gt;&lt;br&gt;ctg15 6&lt;br&gt;Location: 4108 - 4849" locus_tag="ctg15_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="365,35 370,30 397,30 397,40 370,40 365,35 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_7&lt;/b&gt;&lt;br&gt;ctg15 7&lt;br&gt;Location: 4855 - 5761" locus_tag="ctg15_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="397,35 402,30 471,30 471,40 402,40 397,35 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_8&lt;/b&gt;&lt;br&gt;ctg15 8&lt;br&gt;Location: 5753 - 7850" locus_tag="ctg15_8" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="473,35 478,30 569,30 569,40 478,40 473,35 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_9&lt;/b&gt;&lt;br&gt;ctg15 9&lt;br&gt;Location: 7905 - 10614" locus_tag="ctg15_9" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="571,35 576,30 577,30 577,40 576,40 571,35 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_10&lt;/b&gt;&lt;br&gt;ctg15 10&lt;br&gt;Location: 10667 - 10829" locus_tag="ctg15_10" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+</g>
+<g label="NZ_CP037940" description="NZ_CP037940 (1611546-1634315): Weissella cryptocerci strain 26KH-42 chromosom... (33% of genes show similarity), lanthipeptide" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area.html?record=NZ_CP037940&amp;start=1611546&amp;end=1634315" target="_blank">NZ_CP037940 (1611546-1634315)</a>: Weissella cryptocerci strain 26KH-42 chromosom... (33% of genes show similarity), lanthipeptide</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 21,80 21,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EQG49_RS07370&lt;/b&gt;&lt;br&gt;signal peptidase I&lt;br&gt;Location: 1634043 - 1633432" locus_tag="EQG49_RS07370" class="clusterblast-orf" id="dummy-1_h1_3_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="28,85 33,80 127,80 127,90 33,90 28,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EQG49_RS07365&lt;/b&gt;&lt;br&gt;MMPL family transporter&lt;br&gt;Location: 1633241 - 1630467" locus_tag="EQG49_RS07365" class="clusterblast-orf" id="dummy-1_h1_3_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="129,85 133,80 133,90 129,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NZ_CP037940_allorf_1630290_1630385&lt;/b&gt;&lt;br&gt;&lt;br&gt;Location: 1630385 - 1630290" locus_tag="NZ_CP037940_allorf_1630290_1630385" class="clusterblast-orf" id="dummy-1_h1_3_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="158,85 163,80 180,80 180,90 163,90 158,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EQG49_RS07360&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1629589 - 1628972" locus_tag="EQG49_RS07360" class="clusterblast-orf" id="dummy-1_h1_3_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="185,85 190,80 211,80 211,90 190,90 185,85 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;EQG49_RS07350&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 1628826 - 1628083&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_5&lt;/b&gt;&lt;br&gt;Percentage identity: 33&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 134&lt;br&gt;E-value: 1.1e-29" locus_tag="EQG49_RS07350" class="clusterblast-orf" id="dummy-1_h1_3_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="211,85 216,80 238,80 238,90 216,90 211,85 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;EQG49_RS07345&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 1628079 - 1627336&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_6&lt;/b&gt;&lt;br&gt;Percentage identity: 32&lt;br&gt;Percentage coverage: 85&lt;br&gt;BLAST bit score: 103&lt;br&gt;E-value: 2.7e-20" locus_tag="EQG49_RS07345" class="clusterblast-orf" id="dummy-1_h1_3_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="238,85 243,80 270,80 270,90 243,90 238,85 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;EQG49_RS07340&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 1627333 - 1626437&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_7&lt;/b&gt;&lt;br&gt;Percentage identity: 47&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 274&lt;br&gt;E-value: 1.9e-71" locus_tag="EQG49_RS07340" class="clusterblast-orf" id="dummy-1_h1_3_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="269,85 274,80 345,80 345,90 274,90 269,85 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;EQG49_RS07335&lt;/b&gt;&lt;br&gt;ATP-binding cassette domain-containing protein&lt;br&gt;Location: 1626444 - 1624327&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_8&lt;/b&gt;&lt;br&gt;Percentage identity: 41&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 515&lt;br&gt;E-value: 6.5e-144" locus_tag="EQG49_RS07335" class="clusterblast-orf" id="dummy-1_h1_3_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="345,85 350,80 443,80 443,90 350,90 345,85 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;EQG49_RS07330&lt;/b&gt;&lt;br&gt;type 2 lantipeptide synthetase LanM family protein&lt;br&gt;Location: 1624315 - 1621547&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_9&lt;/b&gt;&lt;br&gt;Percentage identity: 33&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 419&lt;br&gt;E-value: 1.1e-114" locus_tag="EQG49_RS07330" class="clusterblast-orf" id="dummy-1_h1_3_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="449,90 489,90 494,85 489,80 449,80 449,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EQG49_RS07325&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 1621383 - 1620130" locus_tag="EQG49_RS07325" class="clusterblast-orf" id="dummy-1_h1_3_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="494,90 516,90 521,85 516,80 494,80 494,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EQG49_RS07320&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 1620113 - 1619358" locus_tag="EQG49_RS07320" class="clusterblast-orf" id="dummy-1_h1_3_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="528,90 528,90 533,85 528,80 528,80 528,90 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;EQG49_RS07315&lt;/b&gt;&lt;br&gt;type A2 lantipeptide&lt;br&gt;Location: 1619175 - 1619017&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_10&lt;/b&gt;&lt;br&gt;Percentage identity: 51&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 59&lt;br&gt;E-value: 1.7e-07" locus_tag="EQG49_RS07315" class="clusterblast-orf" id="dummy-1_h1_3_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="543,85 548,80 587,80 587,90 548,90 543,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EQG49_RS07310&lt;/b&gt;&lt;br&gt;NAD(P)/FAD-dependent oxidoreductase&lt;br&gt;Location: 1618729 - 1617509" locus_tag="EQG49_RS07310" class="clusterblast-orf" id="dummy-1_h1_3_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="594,85 599,80 642,80 642,90 599,90 594,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EQG49_RS07305&lt;/b&gt;&lt;br&gt;NAD(P)/FAD-dependent oxidoreductase&lt;br&gt;Location: 1617305 - 1615965" locus_tag="EQG49_RS07305" class="clusterblast-orf" id="dummy-1_h1_3_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="642,90 645,85 642,80 642,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NZ_CP037940_allorf_1615875_1615940&lt;/b&gt;&lt;br&gt;&lt;br&gt;Location: 1615940 - 1615875" locus_tag="NZ_CP037940_allorf_1615875_1615940" class="clusterblast-orf" id="dummy-1_h1_3_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="645,85 650,80 714,80 714,90 650,90 645,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EQG49_RS07300&lt;/b&gt;&lt;br&gt;tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG&lt;br&gt;Location: 1615855 - 1613939" locus_tag="EQG49_RS07300" class="clusterblast-orf" id="dummy-1_h1_3_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="715,85 720,80 729,80 729,90 720,90 715,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EQG49_RS07295&lt;/b&gt;&lt;br&gt;arsenate reductase (thioredoxin)&lt;br&gt;Location: 1613899 - 1613498" locus_tag="EQG49_RS07295" class="clusterblast-orf" id="dummy-1_h1_3_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="730,85 735,80 780,80 780,90 735,90 730,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EQG49_RS07290&lt;/b&gt;&lt;br&gt;tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE&lt;br&gt;Location: 1613488 - 1612082" locus_tag="EQG49_RS07290" class="clusterblast-orf" id="dummy-1_h1_3_17"  />
+</g>
+</svg>

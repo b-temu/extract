@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="51,35 56,30 59,30 59,40 56,40 51,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_1&lt;/b&gt;&lt;br&gt;ctg15 1&lt;br&gt;Location: 294 - 414" locus_tag="ctg15_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="63,35 68,30 80,30 80,40 68,40 63,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_2&lt;/b&gt;&lt;br&gt;ctg15 2&lt;br&gt;Location: 473 - 734" locus_tag="ctg15_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="84,35 89,30 101,30 101,40 89,40 84,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_3&lt;/b&gt;&lt;br&gt;ctg15 3&lt;br&gt;Location: 801 - 1068" locus_tag="ctg15_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="173,35 178,30 229,30 229,40 178,40 173,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_4&lt;/b&gt;&lt;br&gt;ctg15 4&lt;br&gt;Location: 2192 - 3056" locus_tag="ctg15_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="249,35 254,30 297,30 297,40 254,40 249,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_5&lt;/b&gt;&lt;br&gt;ctg15 5&lt;br&gt;Location: 3369 - 4116" locus_tag="ctg15_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="297,35 302,30 344,30 344,40 302,40 297,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_6&lt;/b&gt;&lt;br&gt;ctg15 6&lt;br&gt;Location: 4108 - 4849" locus_tag="ctg15_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="345,35 350,30 403,30 403,40 350,40 345,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_7&lt;/b&gt;&lt;br&gt;ctg15 7&lt;br&gt;Location: 4855 - 5761" locus_tag="ctg15_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="402,35 407,30 537,30 537,40 407,40 402,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_8&lt;/b&gt;&lt;br&gt;ctg15 8&lt;br&gt;Location: 5753 - 7850" locus_tag="ctg15_8" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="541,35 546,30 715,30 715,40 546,40 541,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_9&lt;/b&gt;&lt;br&gt;ctg15 9&lt;br&gt;Location: 7905 - 10614" locus_tag="ctg15_9" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="718,35 723,30 729,30 729,40 723,40 718,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_10&lt;/b&gt;&lt;br&gt;ctg15 10&lt;br&gt;Location: 10667 - 10829" locus_tag="ctg15_10" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+</g>
+<g label="BGC0000521" description="BGC0000521_c1: lacticin 481 (20% of genes show similarity), RiPP:Lanthipeptide" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://mibig.secondarymetabolites.org/go/BGC0000521/1" target="_blank">BGC0000521</a>: lacticin 481                                                                     (20% of genes show similarity), RiPP:Lanthipeptide</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 6,80 6,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72262.1&lt;/b&gt;&lt;br&gt;unknown&lt;br&gt;Location: 12132 - 12029" locus_tag="AAC72262.1" class="clusterblast-orf" id="dummy-1_h1_3_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="27,85 32,80 112,80 112,90 32,90 27,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72256.1&lt;/b&gt;&lt;br&gt;putative transposase&lt;br&gt;Location: 11707 - 10388" locus_tag="AAC72256.1" class="clusterblast-orf" id="dummy-1_h1_3_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="131,85 136,80 178,80 178,90 136,90 131,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72255.1&lt;/b&gt;&lt;br&gt;LctG&lt;br&gt;Location: 10087 - 9350" locus_tag="AAC72255.1" class="clusterblast-orf" id="dummy-1_h1_3_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="178,85 183,80 226,80 226,90 183,90 178,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72254.1&lt;/b&gt;&lt;br&gt;LctE&lt;br&gt;Location: 9356 - 8604" locus_tag="AAC72254.1" class="clusterblast-orf" id="dummy-1_h1_3_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="226,85 231,80 285,80 285,90 231,90 226,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72253.1&lt;/b&gt;&lt;br&gt;LctF&lt;br&gt;Location: 8604 - 7684&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_7&lt;/b&gt;&lt;br&gt;Percentage identity: 49&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 283&lt;br&gt;E-value: 9.8e-95" locus_tag="AAC72253.1" class="clusterblast-orf" id="dummy-1_h1_3_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="289,85 294,80 423,80 423,90 294,90 289,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72259.1&lt;/b&gt;&lt;br&gt;LctT&lt;br&gt;Location: 7626 - 5551" locus_tag="AAC72259.1" class="clusterblast-orf" id="dummy-1_h1_3_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="424,85 429,80 602,80 602,90 429,90 424,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72258.1&lt;/b&gt;&lt;br&gt;LctM&lt;br&gt;Location: 5532 - 2764" locus_tag="AAC72258.1" class="clusterblast-orf" id="dummy-1_h1_3_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="611,85 616,80 621,80 621,90 616,90 611,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72257.1&lt;/b&gt;&lt;br&gt;preprolacticin 481&lt;br&gt;Location: 2626 - 2471&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_10&lt;/b&gt;&lt;br&gt;Percentage identity: 55&lt;br&gt;Percentage coverage: 89&lt;br&gt;BLAST bit score: 56&lt;br&gt;E-value: 1.41e-12" locus_tag="AAC72257.1" class="clusterblast-orf" id="dummy-1_h1_3_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="647,85 652,80 732,80 732,90 652,90 647,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72261.1&lt;/b&gt;&lt;br&gt;putative transposase&lt;br&gt;Location: 2056 - 737" locus_tag="AAC72261.1" class="clusterblast-orf" id="dummy-1_h1_3_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="748,90 775,90 780,85 775,80 748,80 748,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72260.1&lt;/b&gt;&lt;br&gt;unknown&lt;br&gt;Location: 498 - 1" locus_tag="AAC72260.1" class="clusterblast-orf" id="dummy-1_h1_3_9"  />
+</g>
+</svg>

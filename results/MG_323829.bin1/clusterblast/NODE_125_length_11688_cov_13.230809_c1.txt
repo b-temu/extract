@@ -1,0 +1,1419 @@
+ClusterBlast scores for NODE_125_length_11688_cov_13.230809
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg47_1	2	221	-		
+ctg47_2	225	1602	-		
+ctg47_3	1731	2382	-		
+ctg47_4	2539	2863	-		
+ctg47_5	2914	3043	-		
+ctg47_6	3134	3683	+		
+ctg47_7	3744	4341	-		
+ctg47_8	4351	5578	-		
+ctg47_9	5607	5778	-		
+ctg47_10	5795	6290	-		
+ctg47_11	6369	7209	-		
+ctg47_12	7311	8535	+		
+ctg47_13	8536	9820	+		
+ctg47_14	9911	10361	+		
+ctg47_15	10353	11010	+		
+ctg47_16	11096	11687	+		
+
+
+Significant hits: 
+1. NZ_LR134265	Streptococcus agalactiae strain NCTC8184 chromosome 1, complete sequence
+2. NZ_CP007572	Streptococcus agalactiae strain GBS6 chromosome, complete genome
+3. NC_004116	Streptococcus agalactiae 2603V/R, complete sequence
+4. NZ_CP006910	Streptococcus agalactiae CNCTC 10/84 chromosome, complete genome
+5. NZ_CP007632	Streptococcus agalactiae strain NGBS572 chromosome, complete genome
+6. NZ_CP010319	Streptococcus agalactiae strain GBS85147 chromosome, complete genome
+7. NZ_ALSD01000048	Streptococcus agalactiae MRI Z1-213 ctg7180000002369, whole genome shotgun sequence
+8. NZ_JAIMFG010000003	Streptococcus agalactiae strain PZD2 PZD2_Scaffold3, whole genome shotgun sequence
+9. NZ_LT545678	Streptococcus agalactiae isolate SA111 chromosome I, complete sequence
+10. NZ_GL636070	Streptococcus agalactiae ATCC 13813 SCAFFOLD1, whole genome shotgun sequence
+11. NZ_CP026082	Streptococcus agalactiae strain YZ1605 chromosome, complete genome
+12. NZ_CGBY01000004	Streptococcus agalactiae strain IT-NI-016, whole genome shotgun sequence
+13. NZ_AP020310	Streptococcus agalactiae strain GCMC97051 chromosome, complete genome
+14. NZ_HG939456	Streptococcus agalactiae COH1 chromosome I, complete sequence
+15. NC_021486	Streptococcus agalactiae ILRI005 chromosome I, complete sequence
+16. NZ_CP033822	Streptococcus agalactiae strain FDAARGOS_512 chromosome, complete genome
+17. NC_004368	Streptococcus agalactiae NEM316, complete sequence
+18. NZ_CP007631	Streptococcus agalactiae strain NGBS061 chromosome, complete genome
+19. NC_007432	Streptococcus agalactiae A909, complete sequence
+20. NZ_CP013908	Streptococcus agalactiae strain GBS-M002 chromosome, complete genome
+21. NZ_CP046628	Streptococcus equinus strain CNU 77-23 chromosome, complete genome
+22. NZ_FNJX01000001	Streptococcus equinus strain pGA-7, whole genome shotgun sequence
+23. NZ_CP046629	Streptococcus equinus strain CNU G6 chromosome, complete genome
+24. NZ_CP075172	Streptococcus equinus strain SheepZ001 chromosome, complete genome
+25. NZ_FOYC01000003	Streptococcus equinus strain SI, whole genome shotgun sequence
+26. NZ_JPGC01000002	Streptococcus equinus strain HC5 scaffold2, whole genome shotgun sequence
+27. NZ_JAKUXY010000001	Streptococcus gallolyticus subsp. gallolyticus strain D16131892 D16131892_S15_contig_1_consensus, whole genome shotgun sequence
+28. NZ_JAKUYJ010000001	Streptococcus gallolyticus subsp. gallolyticus strain A13000320 A13000320_S22_contig_1_consensus, whole genome shotgun sequence
+29. NZ_JAKUYA010000001	Streptococcus gallolyticus subsp. gallolyticus strain B17912611 B17912611_S22_contig_1_consensus, whole genome shotgun sequence
+30. NC_015215	Streptococcus gallolyticus subsp. gallolyticus ATCC BAA-2069, complete sequence
+31. NZ_CP113954	Streptococcus gallolyticus strain XH2168 chromosome, complete genome
+32. NZ_CP054015	Streptococcus gallolyticus strain FDAARGOS_755 chromosome, complete genome
+33. NZ_JAKUYH010000001	Streptococcus gallolyticus subsp. gallolyticus strain A14000041 A14000041_S2_contig_1_consensus, whole genome shotgun sequence
+34. NZ_CP018822	Streptococcus gallolyticus subsp. gallolyticus DSM 16831 chromosome, complete genome
+35. NZ_CP013688	Streptococcus gallolyticus strain ICDDRB-NRC-S1 chromosome, complete genome
+36. NZ_CP113440	Streptococcus macedonicus strain E37 chromosome, complete genome
+37. NZ_OU540594	Streptococcus salivarius isolate clinical strain from anonymous patient of Limoges Hospital, whole genome shotgun sequence
+38. NZ_JAQCTQ010000001	Streptococcus salivarius strain AF11-2H AF11-2H.Scaf1, whole genome shotgun sequence
+39. NZ_CAJHJS010000004	Streptococcus salivarius isolate AMBR074, whole genome shotgun sequence
+40. NZ_CP015282	Streptococcus salivarius strain ATCC 27945 chromosome, complete genome
+41. NZ_LR793272	Streptococcus salivarius isolate clinical strain from anonymous patient of Nancy Hospital, whole genome shotgun sequence
+42. NZ_LR793259	Streptococcus salivarius isolate clinical strain from anonymous patient at Besancon hospital, whole genome shotgun sequence
+43. NZ_JAQMJH010000001	Streptococcus salivarius strain D53st1_F1_D53t1_180928 NODE_1_length_367876_cov_9.009785, whole genome shotgun sequence
+44. NZ_CP040804	Streptococcus salivarius strain LAB813 chromosome, complete genome
+45. NZ_JAQDMG010000001	Streptococcus salivarius strain AM100_PB1_LT_1D_26A AM100_PB1_LT_1D_26A.Scaf1, whole genome shotgun sequence
+46. NZ_JAQDVH010000001	Streptococcus salivarius strain AM113-115 MF3HH220010B.Scaf1, whole genome shotgun sequence
+47. NZ_QRVC01000001	Streptococcus salivarius strain AF23-9AC AF23-9AC.Scaf1, whole genome shotgun sequence
+48. NZ_CP015283	Streptococcus salivarius strain ATCC 25975 chromosome, complete genome
+49. NZ_LS483366	Streptococcus salivarius strain NCTC7366 chromosome 1, complete sequence
+50. NC_015760	Streptococcus salivarius CCHSS3, complete sequence
+
+
+Details:
+
+>>
+1. NZ_LR134265
+Source: Streptococcus agalactiae strain NCTC8184 chromosome 1, complete sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 16
+Cumulative BLAST score: 6621.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+EL071_RS05465	EL071_RS05465	1036494	1038310	+	ABC_transporter_ATP-binding_protein/permease
+EL071_RS05470	EL071_RS05470	1038300	1040054	+	ABC_transporter_ATP-binding_protein/permease
+EL071_RS05510	EL071_RS05510	1046670	1046882	+	DUF4649_family_protein
+EL071_RS05530	EL071_RS05530	1049533	1049981	-	DUF1836_domain-containing_protein
+EL071_RS05570	EL071_RS05570	1056129	1056758	-	TetR/AcrR_family_transcriptional_regulator
+EL071_RS05585	EL071_RS05585	1057511	1058192	+	HXXEE_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	EL071_RS05595	99	144	100.0	2.95e-42
+ctg47_2	EL071_RS05590	99	860	100.0	5.38e-316
+ctg47_3	EL071_RS05585	100	246	56.018518518518526	1.28e-82
+ctg47_4	EL071_RS05580	100	219	100.0	3.4e-73
+ctg47_5	EL071_RS05580	100	85	100.0	3.22e-21
+ctg47_6	EL071_RS05570	99	359	100.0	8.06e-127
+ctg47_7	EL071_RS05565	100	397	100.0	3.11e-141
+ctg47_8	EL071_RS05560	100	780	100.0	1.08e-285
+ctg47_9	EL071_RS05555	98	89	100.0	1.39e-23
+ctg47_10	EL071_RS05550	100	340	100.0	6.08e-120
+ctg47_11	EL071_RS05545	100	578	100.0	3.5e-210
+ctg47_12	EL071_RS05540	100	796	100.0	7.84e-292
+ctg47_13	EL071_RS05535	100	805	100.0	5.91e-295
+ctg47_14	EL071_RS05530	100	127	40.939597315436245	1.97e-37
+ctg47_15	EL071_RS05525	100	417	100.0	8.4e-149
+ctg47_16	EL071_RS05520	99	379	100.0	1.85e-132
+
+
+
+>>
+2. NZ_CP007572
+Source: Streptococcus agalactiae strain GBS6 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 15
+Cumulative BLAST score: 6363.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+DX05_RS12225	DX05_RS12225	1350491	1351104	-	hypothetical_protein
+DX05_RS06860	DX05_RS06860	1362859	1364235	-	amino_acid_permease
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	DX05_RS06855	97	142	100.0	1.17e-41
+ctg47_2	DX05_RS06860	100	350	40.39301310043668	5.72e-119
+ctg47_3	DX05_RS06865	98	435	100.0	9.91e-156
+ctg47_4	DX05_RS12230	100	219	100.0	4.72e-74
+ctg47_5	DX05_RS12340	98	84	100.0	5.36e-22
+ctg47_6	DX05_RS06875	99	357	100.0	8.53e-126
+ctg47_7	DX05_RS06880	100	397	100.0	3.11e-141
+ctg47_8	DX05_RS06885	100	779	100.0	1.54e-285
+ctg47_10	DX05_RS06895	100	340	100.0	6.08e-120
+ctg47_11	DX05_RS06900	100	576	100.0	1.42e-209
+ctg47_12	DX05_RS06905	100	798	100.0	1.36e-292
+ctg47_13	DX05_RS06910	99	793	100.0	3.13e-290
+ctg47_14	DX05_RS06915	99	297	100.0	2.36e-103
+ctg47_15	DX05_RS06920	100	416	100.0	4.86e-148
+ctg47_16	DX05_RS06925	100	380	100.0	6.47e-133
+
+
+
+>>
+3. NC_004116
+Source: Streptococcus agalactiae 2603V/R, complete sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 15
+Cumulative BLAST score: 6905.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SAG_RS09225	SAG_RS09225	1318818	1319447	+	TetR/AcrR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	SAG_RS09205	100	147	100.0	2.64e-43
+ctg47_2	SAG_RS09210	99	860	100.0	5.38e-316
+ctg47_3	SAG_RS09215	100	440	100.0	1.03e-157
+ctg47_4	SAG_RS09220	100	219	100.0	3.4e-73
+ctg47_5	SAG_RS09220	100	85	100.0	3.22e-21
+ctg47_6	SAG_RS09225	100	360	100.0	2.81e-127
+ctg47_7	SAG_RS09230	100	397	100.0	3.11e-141
+ctg47_8	SAG_RS09235	100	780	100.0	1.08e-285
+ctg47_10	SAG_RS09240	100	340	100.0	6.08e-120
+ctg47_11	SAG_RS09245	100	578	100.0	3.5e-210
+ctg47_12	SAG_RS09250	100	798	100.0	9.55e-293
+ctg47_13	SAG_RS09255	100	806	100.0	1.45e-295
+ctg47_14	SAG_RS09260	100	298	100.0	1.17e-103
+ctg47_15	SAG_RS09265	100	417	100.0	8.4e-149
+ctg47_16	SAG_RS09270	100	380	100.0	4.56e-133
+
+
+
+>>
+4. NZ_CP006910
+Source: Streptococcus agalactiae CNCTC 10/84 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 15
+Cumulative BLAST score: 6905.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+W903_RS06415	W903_RS06415	1244747	1245999	+	bacteriophage_abortive_infection_AbiH_family_protein
+W903_RS06455	W903_RS06455	1253555	1254184	+	TetR/AcrR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	W903_RS06435	100	147	100.0	2.64e-43
+ctg47_2	W903_RS06440	99	860	100.0	5.38e-316
+ctg47_3	W903_RS06445	100	440	100.0	1.03e-157
+ctg47_4	W903_RS10405	100	219	100.0	3.4e-73
+ctg47_5	W903_RS10405	100	85	100.0	3.22e-21
+ctg47_6	W903_RS06455	100	360	100.0	2.81e-127
+ctg47_7	W903_RS06460	100	397	100.0	3.11e-141
+ctg47_8	W903_RS06465	100	780	100.0	1.08e-285
+ctg47_10	W903_RS06475	100	340	100.0	6.08e-120
+ctg47_11	W903_RS06480	100	578	100.0	3.5e-210
+ctg47_12	W903_RS06485	100	798	100.0	9.55e-293
+ctg47_13	W903_RS06490	100	806	100.0	1.45e-295
+ctg47_14	W903_RS06495	100	298	100.0	1.17e-103
+ctg47_15	W903_RS06500	100	417	100.0	8.4e-149
+ctg47_16	W903_RS06505	100	380	100.0	4.56e-133
+
+
+
+>>
+5. NZ_CP007632
+Source: Streptococcus agalactiae strain NGBS572 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 15
+Cumulative BLAST score: 6903.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+EN73_RS06260	EN73_RS06260	1229256	1229573	-	chromosome_partitioning_protein_ParA
+EN73_RS10635	EN73_RS10635	1229651	1230174	+	transposase
+EN73_RS06320	EN73_RS06320	1240266	1240895	+	TetR/AcrR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	EN73_RS06300	100	147	100.0	2.64e-43
+ctg47_2	EN73_RS06305	99	860	100.0	5.38e-316
+ctg47_3	EN73_RS06310	99	438	100.0	4.21e-157
+ctg47_4	EN73_RS10640	100	219	100.0	3.4e-73
+ctg47_5	EN73_RS10640	100	85	100.0	3.22e-21
+ctg47_6	EN73_RS06320	100	360	100.0	2.81e-127
+ctg47_7	EN73_RS06325	100	397	100.0	3.11e-141
+ctg47_8	EN73_RS06330	100	780	100.0	1.08e-285
+ctg47_10	EN73_RS06340	100	340	100.0	6.08e-120
+ctg47_11	EN73_RS06345	100	578	100.0	3.5e-210
+ctg47_12	EN73_RS06350	100	798	100.0	9.55e-293
+ctg47_13	EN73_RS06355	100	806	100.0	1.45e-295
+ctg47_14	EN73_RS06360	100	298	100.0	1.17e-103
+ctg47_15	EN73_RS06365	100	417	100.0	8.4e-149
+ctg47_16	EN73_RS06370	100	380	100.0	4.56e-133
+
+
+
+>>
+6. NZ_CP010319
+Source: Streptococcus agalactiae strain GBS85147 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 15
+Cumulative BLAST score: 6861.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GBS85147_RS06265	GBS85147_RS06265	1244478	1244844	-	50S_ribosomal_protein_L7/L12
+GBS85147_RS06300	GBS85147_RS06300	1251903	1252532	+	TetR/AcrR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	GBS85147_RS06280	99	145	100.0	1.05e-42
+ctg47_2	GBS85147_RS06285	99	860	100.0	5.38e-316
+ctg47_3	GBS85147_RS06290	98	432	100.0	8.15e-155
+ctg47_4	GBS85147_RS06295	98	212	99.06542056074767	1.86e-69
+ctg47_5	GBS85147_RS06295	100	85	100.0	9.26e-21
+ctg47_6	GBS85147_RS06300	98	355	100.0	2.7e-125
+ctg47_7	GBS85147_RS06305	100	397	100.0	3.11e-141
+ctg47_8	GBS85147_RS06310	100	780	100.0	1.08e-285
+ctg47_10	GBS85147_RS06320	100	340	100.0	6.08e-120
+ctg47_11	GBS85147_RS06325	100	578	100.0	3.5e-210
+ctg47_12	GBS85147_RS06330	99	792	100.0	1.85e-290
+ctg47_13	GBS85147_RS06335	99	795	100.0	2.69e-291
+ctg47_14	GBS85147_RS06340	100	298	100.0	1.17e-103
+ctg47_15	GBS85147_RS06345	100	417	100.0	8.4e-149
+ctg47_16	GBS85147_RS06350	99	375	100.0	4.34e-131
+
+
+
+>>
+7. NZ_ALSD01000048
+Source: Streptococcus agalactiae MRI Z1-213 ctg7180000002369, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 15
+Cumulative BLAST score: 6653.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SAG0161_RS01000000124370	SAG0161_RS01000000124370	42127	42575	-	DUF1836_domain-containing_protein
+SAG0161_RS0112475	SAG0161_RS0112475	48723	49352	-	TetR/AcrR_family_transcriptional_regulator
+SAG0161_RS1000000125500	SAG0161_RS1000000125500	49444	49884	+	HXXEE_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	SAG0161_RS120310	100	147	100.0	2.64e-43
+ctg47_2	SAG0161_RS120315	99	858	100.0	4.37e-315
+ctg47_3	SAG0161_RS1000000125505	95	425	100.0	6.43e-152
+ctg47_4	SAG0161_RS1000000125500	99	173	81.30841121495327	3.39e-55
+ctg47_5	SAG0161_RS1000000125500	91	79	100.0	7.33e-19
+ctg47_6	SAG0161_RS0112475	96	348	100.0	1.06e-122
+ctg47_7	SAG0161_RS120320	100	397	100.0	3.11e-141
+ctg47_8	SAG0161_RS120325	100	780	100.0	1.08e-285
+ctg47_10	SAG0161_RS120335	100	340	100.0	6.08e-120
+ctg47_11	SAG0161_RS120340	100	578	100.0	3.5e-210
+ctg47_12	SAG0161_RS120345	100	798	100.0	9.55e-293
+ctg47_13	SAG0161_RS120350	100	806	100.0	1.45e-295
+ctg47_14	SAG0161_RS01000000124370	100	127	40.939597315436245	1.97e-37
+ctg47_15	SAG0161_RS120355	100	417	100.0	8.4e-149
+ctg47_16	SAG0161_RS120360	100	380	100.0	4.56e-133
+
+
+
+>>
+8. NZ_JAIMFG010000003
+Source: Streptococcus agalactiae strain PZD2 PZD2_Scaffold3, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 15
+Cumulative BLAST score: 6643.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+K6V84_RS01535	K6V84_RS01535	51005	51501	-	phage_tail_protein
+K6V84_RS11150	K6V84_RS11150	61158	61598	-	HXXEE_domain-containing_protein
+K6V84_RS01580	K6V84_RS01580	61690	62319	+	TetR/AcrR_family_transcriptional_regulator
+K6V84_RS01615	K6V84_RS01615	68466	68914	+	DUF1836_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	K6V84_RS01565	99	145	100.0	1.05e-42
+ctg47_2	K6V84_RS01570	99	856	100.0	2.52e-314
+ctg47_3	K6V84_RS11145	95	425	100.0	6.43e-152
+ctg47_4	K6V84_RS11150	99	173	81.30841121495327	3.39e-55
+ctg47_5	K6V84_RS11150	91	79	100.0	7.33e-19
+ctg47_6	K6V84_RS01580	96	348	100.0	1.06e-122
+ctg47_7	K6V84_RS01585	100	397	100.0	3.11e-141
+ctg47_8	K6V84_RS01590	100	780	100.0	1.08e-285
+ctg47_10	K6V84_RS01595	100	340	100.0	6.08e-120
+ctg47_11	K6V84_RS01600	100	578	100.0	3.5e-210
+ctg47_12	K6V84_RS01605	100	796	100.0	2.79e-292
+ctg47_13	K6V84_RS01610	100	803	100.0	3.42e-294
+ctg47_14	K6V84_RS01615	100	127	40.939597315436245	1.97e-37
+ctg47_15	K6V84_RS01620	100	417	100.0	8.4e-149
+ctg47_16	K6V84_RS01625	99	379	100.0	1.85e-132
+
+
+
+>>
+9. NZ_LT545678
+Source: Streptococcus agalactiae isolate SA111 chromosome I, complete sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 15
+Cumulative BLAST score: 6643.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BJR96_RS12320	BJR96_RS12320	1439084	1439524	-	HXXEE_domain-containing_protein
+BJR96_RS07295	BJR96_RS07295	1439616	1440245	+	TetR/AcrR_family_transcriptional_regulator
+BJR96_RS07335	BJR96_RS07335	1446393	1446841	+	DUF1836_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	BJR96_RS07275	99	145	100.0	1.05e-42
+ctg47_2	BJR96_RS07280	99	858	100.0	4.37e-315
+ctg47_3	BJR96_RS12315	95	425	100.0	6.43e-152
+ctg47_4	BJR96_RS12320	98	172	81.30841121495327	1.38e-54
+ctg47_5	BJR96_RS12320	91	79	100.0	7.33e-19
+ctg47_6	BJR96_RS07295	96	348	100.0	1.06e-122
+ctg47_7	BJR96_RS07300	100	397	100.0	3.11e-141
+ctg47_8	BJR96_RS07305	100	780	100.0	1.08e-285
+ctg47_10	BJR96_RS07315	100	340	100.0	6.08e-120
+ctg47_11	BJR96_RS07320	100	578	100.0	3.5e-210
+ctg47_12	BJR96_RS07325	100	796	100.0	5.52e-292
+ctg47_13	BJR96_RS07330	100	802	100.0	6.9e-294
+ctg47_14	BJR96_RS07335	100	127	40.939597315436245	1.97e-37
+ctg47_15	BJR96_RS07340	100	417	100.0	8.4e-149
+ctg47_16	BJR96_RS07345	99	379	100.0	1.85e-132
+
+
+
+>>
+10. NZ_GL636070
+Source: Streptococcus agalactiae ATCC 13813 SCAFFOLD1, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 15
+Cumulative BLAST score: 6614.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HMPREF9171_RS06165	HMPREF9171_RS06165	897167	897608	+	MarR_family_transcriptional_regulator
+HMPREF9171_RS01000000112960	HMPREF9171_RS01000000112960	911682	912129	-	DUF1836_domain-containing_protein
+HMPREF9171_RS108720	HMPREF9171_RS108720	918277	918906	-	TetR/AcrR_family_transcriptional_regulator
+HMPREF9171_RS1000000114100	HMPREF9171_RS1000000114100	918998	919390	+	HXXEE_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	HMPREF9171_RS108710	99	145	100.0	1.05e-42
+ctg47_2	HMPREF9171_RS108715	99	858	100.0	4.37e-315
+ctg47_3	HMPREF9171_RS1000000114105	95	425	100.0	6.43e-152
+ctg47_4	HMPREF9171_RS1000000114100	100	141	66.35514018691589	8.87e-43
+ctg47_5	HMPREF9171_RS1000000114100	91	79	100.0	4.96e-19
+ctg47_6	HMPREF9171_RS108720	96	348	100.0	1.06e-122
+ctg47_7	HMPREF9171_RS108725	100	397	100.0	3.11e-141
+ctg47_8	HMPREF9171_RS108730	100	780	100.0	1.08e-285
+ctg47_10	HMPREF9171_RS108740	100	340	100.0	6.08e-120
+ctg47_11	HMPREF9171_RS108745	100	578	100.0	3.5e-210
+ctg47_12	HMPREF9171_RS108750	100	796	100.0	5.52e-292
+ctg47_13	HMPREF9171_RS108755	100	804	100.0	8.4e-295
+ctg47_14	HMPREF9171_RS01000000112960	100	127	40.939597315436245	2.53e-37
+ctg47_15	HMPREF9171_RS108760	100	417	100.0	8.4e-149
+ctg47_16	HMPREF9171_RS108765	99	379	100.0	1.85e-132
+
+
+
+>>
+11. NZ_CP026082
+Source: Streptococcus agalactiae strain YZ1605 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 15
+Cumulative BLAST score: 6610.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+C2E46_RS07035	C2E46_RS07035	1386159	1386806	+	IS3_family_transposase
+C2E46_RS11715	C2E46_RS11715	1396572	1396964	-	HXXEE_domain-containing_protein
+C2E46_RS07085	C2E46_RS07085	1397056	1397685	+	TetR/AcrR_family_transcriptional_regulator
+C2E46_RS07120	C2E46_RS07120	1403833	1404281	+	DUF1836_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	C2E46_RS07065	99	145	100.0	1.05e-42
+ctg47_2	C2E46_RS07070	99	858	100.0	4.37e-315
+ctg47_3	C2E46_RS11710	95	425	100.0	6.43e-152
+ctg47_4	C2E46_RS11715	100	141	66.35514018691589	8.87e-43
+ctg47_5	C2E46_RS11715	91	79	100.0	4.96e-19
+ctg47_6	C2E46_RS07085	96	348	100.0	1.06e-122
+ctg47_7	C2E46_RS07090	100	394	100.0	5.16e-140
+ctg47_8	C2E46_RS07095	100	780	100.0	1.08e-285
+ctg47_10	C2E46_RS07100	100	340	100.0	6.08e-120
+ctg47_11	C2E46_RS07105	100	578	100.0	3.5e-210
+ctg47_12	C2E46_RS07110	100	796	100.0	5.52e-292
+ctg47_13	C2E46_RS07115	100	803	100.0	3.42e-294
+ctg47_14	C2E46_RS07120	100	127	40.939597315436245	1.97e-37
+ctg47_15	C2E46_RS07125	100	417	100.0	8.4e-149
+ctg47_16	C2E46_RS07130	99	379	100.0	1.85e-132
+
+
+
+>>
+12. NZ_CGBY01000004
+Source: Streptococcus agalactiae strain IT-NI-016, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 15
+Cumulative BLAST score: 6482.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AQL56_RS04780	AQL56_RS04780	99377	100006	-	TetR/AcrR_family_transcriptional_regulator
+AQL56_RS04795	AQL56_RS04795	101540	102915	+	amino_acid_permease
+AQL56_RS04825	AQL56_RS04825	108767	110067	+	DNA_(cytosine-5-)-methyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	AQL56_RS04800	97	140	100.0	6.55e-41
+ctg47_2	AQL56_RS04795	99	474	55.021834061135365	1.36e-166
+ctg47_3	AQL56_RS04790	98	434	100.0	1.41e-155
+ctg47_4	AQL56_RS04785	99	215	99.06542056074767	7.96e-71
+ctg47_5	AQL56_RS04785	98	84	100.0	3.65e-20
+ctg47_6	AQL56_RS04780	98	358	100.0	2.31e-126
+ctg47_7	AQL56_RS04775	100	397	100.0	3.11e-141
+ctg47_8	AQL56_RS04770	100	776	100.0	1.79e-284
+ctg47_10	AQL56_RS04760	99	338	100.0	2.48e-119
+ctg47_11	AQL56_RS04755	100	578	100.0	3.5e-210
+ctg47_12	AQL56_RS04750	100	796	100.0	5.52e-292
+ctg47_13	AQL56_RS04745	99	798	100.0	1.62e-292
+ctg47_14	AQL56_RS04740	100	298	100.0	1.17e-103
+ctg47_15	AQL56_RS04735	100	417	100.0	8.4e-149
+ctg47_16	AQL56_RS04730	99	379	100.0	1.85e-132
+
+
+
+>>
+13. NZ_AP020310
+Source: Streptococcus agalactiae strain GCMC97051 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 15
+Cumulative BLAST score: 6099.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SAGCMC97051_RS07665	SAGCMC97051_RS07665	1467584	1468960	-	amino_acid_permease
+SAGCMC97051_RS07680	SAGCMC97051_RS07680	1470493	1471122	+	TetR/AcrR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	SAGCMC97051_RS07660	100	147	100.0	2.64e-43
+ctg47_2	SAGCMC97051_RS07665	100	97	10.480349344978166	4.68e-23
+ctg47_3	SAGCMC97051_RS07670	100	441	100.0	2.53e-158
+ctg47_4	SAGCMC97051_RS07675	99	218	100.0	1.38e-72
+ctg47_5	SAGCMC97051_RS07675	100	85	100.0	3.22e-21
+ctg47_6	SAGCMC97051_RS07680	99	359	100.0	8.06e-127
+ctg47_7	SAGCMC97051_RS07685	100	397	100.0	3.11e-141
+ctg47_8	SAGCMC97051_RS07690	100	780	100.0	1.08e-285
+ctg47_10	SAGCMC97051_RS07695	100	340	100.0	6.08e-120
+ctg47_11	SAGCMC97051_RS07700	100	576	100.0	1.42e-209
+ctg47_12	SAGCMC97051_RS07705	100	760	95.82309582309583	2.2e-278
+ctg47_13	SAGCMC97051_RS07710	100	805	100.0	2.93e-295
+ctg47_14	SAGCMC97051_RS07715	100	298	100.0	1.17e-103
+ctg47_15	SAGCMC97051_RS07720	100	417	100.0	8.4e-149
+ctg47_16	SAGCMC97051_RS07725	99	379	100.0	1.85e-132
+
+
+
+>>
+14. NZ_HG939456
+Source: Streptococcus agalactiae COH1 chromosome I, complete sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 14
+Cumulative BLAST score: 6816.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GBSCOH1_RS06215	GBSCOH1_RS06215	1231914	1232543	+	TetR/AcrR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	GBSCOH1_RS06195	100	147	100.0	2.64e-43
+ctg47_2	GBSCOH1_RS06200	99	860	100.0	5.38e-316
+ctg47_3	GBSCOH1_RS06205	99	438	100.0	4.21e-157
+ctg47_4	GBSCOH1_RS11300	100	219	100.0	1.22e-73
+ctg47_6	GBSCOH1_RS06215	99	359	100.0	8.06e-127
+ctg47_7	GBSCOH1_RS06220	100	397	100.0	3.11e-141
+ctg47_8	GBSCOH1_RS06225	100	780	100.0	1.08e-285
+ctg47_10	GBSCOH1_RS06235	100	340	100.0	6.08e-120
+ctg47_11	GBSCOH1_RS06240	100	578	100.0	3.5e-210
+ctg47_12	GBSCOH1_RS06245	100	798	100.0	9.55e-293
+ctg47_13	GBSCOH1_RS06250	100	806	100.0	1.45e-295
+ctg47_14	GBSCOH1_RS06255	99	297	100.0	1.66e-103
+ctg47_15	GBSCOH1_RS06260	100	417	100.0	8.4e-149
+ctg47_16	GBSCOH1_RS06265	100	380	100.0	4.56e-133
+
+
+
+>>
+15. NC_021486
+Source: Streptococcus agalactiae ILRI005 chromosome I, complete sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 14
+Cumulative BLAST score: 6790.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MSA_RS06875	MSA_RS06875	1300575	1300902	-	single-stranded_DNA-binding_protein
+MSA_RS11245	MSA_RS11245	1303120	1303278	+	transposase
+MSA_RS06895	MSA_RS06895	1303266	1303696	-	replication_initiator_protein_A
+MSA_RS06935	MSA_RS06935	1311544	1312173	+	TetR/AcrR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	MSA_RS06915	99	145	100.0	1.48e-42
+ctg47_2	MSA_RS06920	99	859	100.0	2.17e-315
+ctg47_3	MSA_RS06925	98	433	100.0	4.04e-155
+ctg47_4	MSA_RS11870	100	219	100.0	4.72e-74
+ctg47_6	MSA_RS06935	98	354	100.0	5.45e-125
+ctg47_7	MSA_RS06940	100	397	100.0	3.11e-141
+ctg47_8	MSA_RS06945	100	777	100.0	8.88e-285
+ctg47_10	MSA_RS06955	100	340	100.0	6.08e-120
+ctg47_11	MSA_RS06960	100	578	100.0	3.5e-210
+ctg47_12	MSA_RS06965	100	796	100.0	7.84e-292
+ctg47_13	MSA_RS06970	99	800	100.0	3.99e-293
+ctg47_14	MSA_RS06975	100	298	100.0	1.17e-103
+ctg47_15	MSA_RS06980	100	417	100.0	8.4e-149
+ctg47_16	MSA_RS06985	99	377	100.0	1.07e-131
+
+
+
+>>
+16. NZ_CP033822
+Source: Streptococcus agalactiae strain FDAARGOS_512 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 14
+Cumulative BLAST score: 6787.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+EGX82_RS11385	EGX82_RS11385	1944811	1945424	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	EGX82_RS10170	97	142	100.0	1.17e-41
+ctg47_2	EGX82_RS10165	99	855	100.0	5.09e-314
+ctg47_3	EGX82_RS10160	98	435	100.0	9.91e-156
+ctg47_4	EGX82_RS11380	100	219	100.0	4.72e-74
+ctg47_6	EGX82_RS10145	99	357	100.0	8.53e-126
+ctg47_7	EGX82_RS10140	100	397	100.0	3.11e-141
+ctg47_8	EGX82_RS10135	100	779	100.0	1.54e-285
+ctg47_10	EGX82_RS10125	100	340	100.0	6.08e-120
+ctg47_11	EGX82_RS10120	100	576	100.0	1.42e-209
+ctg47_12	EGX82_RS10115	100	798	100.0	1.36e-292
+ctg47_13	EGX82_RS10110	99	796	100.0	9.38e-292
+ctg47_14	EGX82_RS10105	99	297	100.0	2.36e-103
+ctg47_15	EGX82_RS10100	100	416	100.0	4.86e-148
+ctg47_16	EGX82_RS10095	100	380	100.0	6.47e-133
+
+
+
+>>
+17. NC_004368
+Source: Streptococcus agalactiae NEM316, complete sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 14
+Cumulative BLAST score: 6778.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	GBS_RS07245	97	142	100.0	1.17e-41
+ctg47_2	GBS_RS07250	99	851	100.0	2.42e-312
+ctg47_3	GBS_RS07255	98	435	100.0	9.91e-156
+ctg47_4	GBS_RS11855	100	219	100.0	4.72e-74
+ctg47_6	GBS_RS07265	99	357	100.0	8.53e-126
+ctg47_7	GBS_RS07270	100	395	100.0	1.27e-140
+ctg47_8	GBS_RS07275	100	779	100.0	1.54e-285
+ctg47_10	GBS_RS07285	100	340	100.0	6.08e-120
+ctg47_11	GBS_RS07290	100	576	100.0	1.42e-209
+ctg47_12	GBS_RS07295	100	798	100.0	1.36e-292
+ctg47_13	GBS_RS07300	99	793	100.0	3.13e-290
+ctg47_14	GBS_RS07305	99	297	100.0	2.36e-103
+ctg47_15	GBS_RS07310	100	416	100.0	4.86e-148
+ctg47_16	GBS_RS07315	100	380	100.0	6.47e-133
+
+
+
+>>
+18. NZ_CP007631
+Source: Streptococcus agalactiae strain NGBS061 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 14
+Cumulative BLAST score: 6774.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	EN71_RS07105	97	142	100.0	1.17e-41
+ctg47_2	EN71_RS07110	98	847	100.0	1.15e-310
+ctg47_3	EN71_RS07115	98	435	100.0	9.91e-156
+ctg47_4	EN71_RS12230	99	217	100.0	3.89e-73
+ctg47_6	EN71_RS07125	99	357	100.0	8.53e-126
+ctg47_7	EN71_RS07130	100	397	100.0	3.11e-141
+ctg47_8	EN71_RS07135	100	779	100.0	1.54e-285
+ctg47_10	EN71_RS07145	100	340	100.0	6.08e-120
+ctg47_11	EN71_RS07150	100	576	100.0	1.42e-209
+ctg47_12	EN71_RS07155	100	798	100.0	1.36e-292
+ctg47_13	EN71_RS07160	99	793	100.0	3.13e-290
+ctg47_14	EN71_RS07165	99	297	100.0	2.36e-103
+ctg47_15	EN71_RS07170	100	416	100.0	4.86e-148
+ctg47_16	EN71_RS07175	100	380	100.0	6.47e-133
+
+
+
+>>
+19. NC_007432
+Source: Streptococcus agalactiae A909, complete sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 14
+Cumulative BLAST score: 6747.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SAK_RS11680	SAK_RS11680	1311205	1311818	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	SAK_RS06730	96	140	100.0	1.3e-40
+ctg47_2	SAK_RS06735	99	855	100.0	5.09e-314
+ctg47_3	SAK_RS06740	98	433	100.0	4.04e-155
+ctg47_4	SAK_RS11685	100	219	100.0	4.72e-74
+ctg47_6	SAK_RS06750	99	357	100.0	8.53e-126
+ctg47_7	SAK_RS06755	100	397	100.0	3.11e-141
+ctg47_8	SAK_RS06760	100	779	100.0	1.54e-285
+ctg47_10	SAK_RS06770	100	340	100.0	6.08e-120
+ctg47_11	SAK_RS06775	100	576	100.0	1.42e-209
+ctg47_12	SAK_RS06780	100	762	95.82309582309583	3.8e-279
+ctg47_13	SAK_RS06785	99	796	100.0	9.38e-292
+ctg47_14	SAK_RS06790	99	297	100.0	2.36e-103
+ctg47_15	SAK_RS06795	100	416	100.0	4.86e-148
+ctg47_16	SAK_RS06800	100	380	100.0	6.47e-133
+
+
+
+>>
+20. NZ_CP013908
+Source: Streptococcus agalactiae strain GBS-M002 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 14
+Cumulative BLAST score: 6686.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AV644_RS10890	AV644_RS10890	1258785	1259806	+	IS3-like_element_ISSag2_family_transposase
+AV644_RS06750	AV644_RS06750	1292050	1294122	+	bifunctional_metallophosphatase/5'-nucleotidase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	AV644_RS06610	97	142	100.0	1.17e-41
+ctg47_2	AV644_RS06615	99	853	100.0	4.18e-313
+ctg47_3	AV644_RS06620	98	435	100.0	9.91e-156
+ctg47_4	AV644_RS11175	99	155	71.96261682242991	3.96e-49
+ctg47_6	AV644_RS06635	99	357	100.0	8.53e-126
+ctg47_7	AV644_RS06640	100	397	100.0	3.11e-141
+ctg47_8	AV644_RS06645	100	779	100.0	1.54e-285
+ctg47_10	AV644_RS06655	100	340	100.0	6.08e-120
+ctg47_11	AV644_RS06660	100	576	100.0	1.42e-209
+ctg47_12	AV644_RS06665	100	762	95.82309582309583	3.8e-279
+ctg47_13	AV644_RS06670	99	796	100.0	9.38e-292
+ctg47_14	AV644_RS06675	100	298	100.0	1.17e-103
+ctg47_15	AV644_RS06680	100	417	100.0	8.4e-149
+ctg47_16	AV644_RS06685	99	379	100.0	1.85e-132
+
+
+
+>>
+21. NZ_CP046628
+Source: Streptococcus equinus strain CNU 77-23 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4448.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	GO596_RS07305	70	109	100.0	7.09e-29
+ctg47_2	GO596_RS07300	90	795	100.0	6.01e-290
+ctg47_7	GO596_RS07295	93	374	98.48484848484848	4.23e-132
+ctg47_8	GO596_RS07290	91	719	100.24509803921569	6.62e-262
+ctg47_9	GO596_RS07285	63	73	100.0	1.77e-17
+ctg47_10	GO596_RS07280	72	264	100.0	6.61e-90
+ctg47_11	GO596_RS07275	84	508	100.0	1.37e-182
+ctg47_12	GO596_RS07270	70	555	95.82309582309583	2.42e-197
+ctg47_13	GO596_RS07265	66	530	97.89227166276346	1.76e-186
+ctg47_14	GO596_RS07260	66	186	94.63087248322147	2.42e-59
+ctg47_15	GO596_RS07255	76	335	100.0	4.86e-116
+
+
+
+>>
+22. NZ_FNJX01000001
+Source: Streptococcus equinus strain pGA-7, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4446.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BLR40_RS03830	BLR40_RS03830	799511	799693	+	ABC_transporter_permease
+BLR40_RS04020	BLR40_RS04020	835954	836202	+	ABC_transporter_permease_subunit
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	BLR40_RS03960	70	109	100.0	7.09e-29
+ctg47_2	BLR40_RS03955	90	795	100.0	4.23e-290
+ctg47_7	BLR40_RS03950	93	374	98.48484848484848	4.23e-132
+ctg47_8	BLR40_RS03945	91	719	100.24509803921569	6.62e-262
+ctg47_9	BLR40_RS08855	63	73	100.0	1.77e-17
+ctg47_10	BLR40_RS03940	72	265	100.0	3.27e-90
+ctg47_11	BLR40_RS03935	84	506	100.0	5.57e-182
+ctg47_12	BLR40_RS03930	70	555	95.82309582309583	2.42e-197
+ctg47_13	BLR40_RS03925	66	530	97.89227166276346	2.5e-186
+ctg47_14	BLR40_RS03920	67	185	93.28859060402685	4.88e-59
+ctg47_15	BLR40_RS03915	76	335	100.0	4.86e-116
+
+
+
+>>
+23. NZ_CP046629
+Source: Streptococcus equinus strain CNU G6 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4444.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GPA00_RS08180	GPA00_RS08180	1657840	1658085	-	ABC_transporter_permease_subunit
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	GPA00_RS08235	70	109	100.0	7.09e-29
+ctg47_2	GPA00_RS08240	90	793	100.0	3.47e-289
+ctg47_7	GPA00_RS08245	93	374	98.48484848484848	4.23e-132
+ctg47_8	GPA00_RS08250	91	718	100.24509803921569	1.9e-261
+ctg47_9	GPA00_RS08255	63	73	100.0	1.77e-17
+ctg47_10	GPA00_RS08260	73	265	100.0	2.31e-90
+ctg47_11	GPA00_RS08265	84	508	100.0	1.37e-182
+ctg47_12	GPA00_RS08270	70	557	95.82309582309583	5.96e-198
+ctg47_13	GPA00_RS08275	65	526	97.89227166276346	5.82e-185
+ctg47_14	GPA00_RS08280	67	185	93.28859060402685	4.88e-59
+ctg47_15	GPA00_RS08285	77	336	100.0	1.2e-116
+
+
+
+>>
+24. NZ_CP075172
+Source: Streptococcus equinus strain SheepZ001 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4444.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	KIP81_RS05475	70	109	100.0	7.09e-29
+ctg47_2	KIP81_RS05480	89	789	100.0	8.15e-288
+ctg47_7	KIP81_RS05485	93	374	98.48484848484848	4.23e-132
+ctg47_8	KIP81_RS05490	91	719	100.24509803921569	6.62e-262
+ctg47_9	KIP81_RS05495	63	73	100.0	1.77e-17
+ctg47_10	KIP81_RS05500	73	267	100.0	5.67e-91
+ctg47_11	KIP81_RS05505	84	508	100.0	1.37e-182
+ctg47_12	KIP81_RS05510	70	555	95.82309582309583	3.43e-197
+ctg47_13	KIP81_RS05515	65	529	97.89227166276346	5.03e-186
+ctg47_14	KIP81_RS05520	67	186	94.63087248322147	1.71e-59
+ctg47_15	KIP81_RS05525	77	335	100.0	2.41e-116
+
+
+
+>>
+25. NZ_FOYC01000003
+Source: Streptococcus equinus strain SI, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4439.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BMZ88_RS06080	BMZ88_RS06080	29644	29889	-	ABC_transporter_permease_subunit
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	BMZ88_RS06140	70	109	100.0	7.09e-29
+ctg47_2	BMZ88_RS06145	89	786	100.0	9.49e-287
+ctg47_7	BMZ88_RS06150	93	374	98.48484848484848	4.23e-132
+ctg47_8	BMZ88_RS06155	91	719	100.24509803921569	6.62e-262
+ctg47_9	BMZ88_RS09350	63	73	100.0	1.77e-17
+ctg47_10	BMZ88_RS06160	73	267	100.0	5.67e-91
+ctg47_11	BMZ88_RS06165	84	508	100.0	1.37e-182
+ctg47_12	BMZ88_RS06170	70	555	95.82309582309583	3.43e-197
+ctg47_13	BMZ88_RS06175	66	528	97.89227166276346	7.14e-186
+ctg47_14	BMZ88_RS06180	67	185	93.28859060402685	4.88e-59
+ctg47_15	BMZ88_RS06185	76	335	100.0	4.86e-116
+
+
+
+>>
+26. NZ_JPGC01000002
+Source: Streptococcus equinus strain HC5 scaffold2, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4438.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+EH70_RS01570	EH70_RS01570	129997	131221	+	ATP-binding_protein
+EH70_RS09065	EH70_RS09065	166998	167243	+	ABC_transporter_permease_subunit
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	EH70_RS01700	70	109	100.0	7.09e-29
+ctg47_2	EH70_RS01695	90	795	100.0	4.23e-290
+ctg47_7	EH70_RS01690	93	374	98.48484848484848	4.23e-132
+ctg47_8	EH70_RS01685	91	719	100.24509803921569	6.62e-262
+ctg47_9	EH70_RS09220	63	73	100.0	1.77e-17
+ctg47_10	EH70_RS01675	72	264	100.0	6.61e-90
+ctg47_11	EH70_RS01670	84	508	100.0	1.37e-182
+ctg47_12	EH70_RS01665	70	552	95.82309582309583	3.98e-196
+ctg47_13	EH70_RS01660	65	523	97.89227166276346	9.56e-184
+ctg47_14	EH70_RS01655	67	185	93.28859060402685	4.88e-59
+ctg47_15	EH70_RS01650	77	336	100.0	1.2e-116
+
+
+
+>>
+27. NZ_JAKUXY010000001
+Source: Streptococcus gallolyticus subsp. gallolyticus strain D16131892 D16131892_S15_contig_1_consensus, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4434.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	MK548_RS04765	71	108	100.0	1.42e-28
+ctg47_2	MK548_RS04760	90	798	100.0	2.56e-291
+ctg47_7	MK548_RS04755	92	372	98.48484848484848	1.21e-131
+ctg47_8	MK548_RS04750	92	723	100.24509803921569	2.82e-263
+ctg47_9	MK548_RS04745	73	64	100.0	5.72e-14
+ctg47_10	MK548_RS04740	70	254	100.0	8.59e-86
+ctg47_11	MK548_RS04735	84	505	100.0	2.27e-181
+ctg47_12	MK548_RS04730	72	561	95.57739557739558	1.8e-199
+ctg47_13	MK548_RS04725	66	525	98.36065573770492	1.85e-184
+ctg47_14	MK548_RS04720	69	192	93.95973154362416	4.41e-62
+ctg47_15	MK548_RS04715	76	332	100.0	5.66e-115
+
+
+
+>>
+28. NZ_JAKUYJ010000001
+Source: Streptococcus gallolyticus subsp. gallolyticus strain A13000320 A13000320_S22_contig_1_consensus, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4434.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	MK560_RS02540	71	108	100.0	1.42e-28
+ctg47_2	MK560_RS02535	90	798	100.0	2.56e-291
+ctg47_7	MK560_RS02530	92	372	98.48484848484848	1.21e-131
+ctg47_8	MK560_RS02525	92	723	100.24509803921569	2.82e-263
+ctg47_9	MK560_RS02520	73	64	100.0	5.72e-14
+ctg47_10	MK560_RS02515	70	256	100.0	1.05e-86
+ctg47_11	MK560_RS02510	84	503	100.0	9.23e-181
+ctg47_12	MK560_RS02505	72	561	95.57739557739558	8.91e-200
+ctg47_13	MK560_RS02500	66	525	98.12646370023418	1.3e-184
+ctg47_14	MK560_RS02495	69	192	93.95973154362416	4.41e-62
+ctg47_15	MK560_RS02490	76	332	100.0	5.66e-115
+
+
+
+>>
+29. NZ_JAKUYA010000001
+Source: Streptococcus gallolyticus subsp. gallolyticus strain B17912611 B17912611_S22_contig_1_consensus, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4427.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	MK541_RS00895	71	108	100.0	1.45e-28
+ctg47_2	MK541_RS00900	90	798	100.0	2.56e-291
+ctg47_7	MK541_RS00905	92	372	98.48484848484848	1.21e-131
+ctg47_8	MK541_RS00910	92	723	100.24509803921569	2.82e-263
+ctg47_9	MK541_RS00915	73	64	100.0	5.72e-14
+ctg47_10	MK541_RS00920	70	254	100.0	6.05e-86
+ctg47_11	MK541_RS00925	84	504	100.0	3.22e-181
+ctg47_12	MK541_RS00930	72	560	95.57739557739558	5.13e-199
+ctg47_13	MK541_RS00935	66	520	98.12646370023418	2.47e-182
+ctg47_14	MK541_RS00940	69	192	93.95973154362416	4.41e-62
+ctg47_15	MK541_RS00945	76	332	100.0	5.66e-115
+
+
+
+>>
+30. NC_015215
+Source: Streptococcus gallolyticus subsp. gallolyticus ATCC BAA-2069, complete sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4426.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SGGBAA2069_RS06425	SGGBAA2069_RS06425	1288801	1289672	-	EamA_family_transporter_RarD
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	SGGBAA2069_RS06490	71	108	100.0	1.45e-28
+ctg47_2	SGGBAA2069_RS06495	90	796	100.0	1.04e-290
+ctg47_7	SGGBAA2069_RS06500	92	372	98.48484848484848	1.21e-131
+ctg47_8	SGGBAA2069_RS06505	92	723	100.24509803921569	2.82e-263
+ctg47_9	SGGBAA2069_RS12155	73	64	100.0	5.72e-14
+ctg47_10	SGGBAA2069_RS06515	70	256	100.0	7.37e-87
+ctg47_11	SGGBAA2069_RS06520	84	503	100.0	9.23e-181
+ctg47_12	SGGBAA2069_RS06525	72	560	95.57739557739558	5.13e-199
+ctg47_13	SGGBAA2069_RS06530	65	521	98.12646370023418	8.67e-183
+ctg47_14	SGGBAA2069_RS06535	68	191	93.95973154362416	2.55e-61
+ctg47_15	SGGBAA2069_RS06540	76	332	100.0	5.66e-115
+
+
+
+>>
+31. NZ_CP113954
+Source: Streptococcus gallolyticus strain XH2168 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4425.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+OIY87_RS07020	OIY87_RS07020	1390357	1392717	-	phage_tail_tip_lysozyme
+OIY87_RS07025	OIY87_RS07025	1392717	1393253	-	DNA_(cytosine-5-)-methyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	OIY87_RS07065	71	108	100.0	1.45e-28
+ctg47_2	OIY87_RS07070	90	796	100.0	2.1e-290
+ctg47_7	OIY87_RS07075	92	372	98.48484848484848	1.21e-131
+ctg47_8	OIY87_RS07080	92	723	100.24509803921569	2.82e-263
+ctg47_9	OIY87_RS07085	73	64	100.0	5.72e-14
+ctg47_10	OIY87_RS07090	70	256	100.0	7.37e-87
+ctg47_11	OIY87_RS07095	84	503	100.0	9.23e-181
+ctg47_12	OIY87_RS07100	72	560	95.57739557739558	5.13e-199
+ctg47_13	OIY87_RS07105	65	520	98.12646370023418	1.74e-182
+ctg47_14	OIY87_RS07110	68	191	93.95973154362416	2.55e-61
+ctg47_15	OIY87_RS07115	76	332	100.0	5.66e-115
+
+
+
+>>
+32. NZ_CP054015
+Source: Streptococcus gallolyticus strain FDAARGOS_755 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4425.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	FOC63_RS10560	70	106	100.0	1.1e-27
+ctg47_2	FOC63_RS10565	90	798	100.0	1.8e-291
+ctg47_7	FOC63_RS10570	92	372	98.48484848484848	1.21e-131
+ctg47_8	FOC63_RS10575	91	717	100.24509803921569	5.43e-261
+ctg47_9	FOC63_RS10580	73	64	100.0	5.72e-14
+ctg47_10	FOC63_RS10585	70	255	100.0	3e-86
+ctg47_11	FOC63_RS10590	84	506	100.0	7.91e-182
+ctg47_12	FOC63_RS10595	72	560	95.57739557739558	5.13e-199
+ctg47_13	FOC63_RS10600	66	523	98.12646370023418	1.51e-183
+ctg47_14	FOC63_RS10605	69	192	93.95973154362416	4.41e-62
+ctg47_15	FOC63_RS10610	76	332	100.0	5.66e-115
+
+
+
+>>
+33. NZ_JAKUYH010000001
+Source: Streptococcus gallolyticus subsp. gallolyticus strain A14000041 A14000041_S2_contig_1_consensus, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4422.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MK529_RS03380	MK529_RS03380	693788	694467	+	amino_acid_ABC_transporter_permease
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	MK529_RS03485	70	106	100.0	1.09e-27
+ctg47_2	MK529_RS03480	90	792	100.0	4.93e-289
+ctg47_7	MK529_RS03475	92	372	98.48484848484848	1.21e-131
+ctg47_8	MK529_RS03470	92	723	100.24509803921569	2.82e-263
+ctg47_9	MK529_RS03465	73	64	100.0	5.72e-14
+ctg47_10	MK529_RS03460	70	254	100.0	4.26e-86
+ctg47_11	MK529_RS03455	84	506	100.0	1.12e-181
+ctg47_12	MK529_RS03450	72	560	95.57739557739558	2.55e-199
+ctg47_13	MK529_RS03445	66	521	98.36065573770492	4.31e-183
+ctg47_14	MK529_RS03440	69	192	93.95973154362416	4.41e-62
+ctg47_15	MK529_RS03435	76	332	100.0	5.66e-115
+
+
+
+>>
+34. NZ_CP018822
+Source: Streptococcus gallolyticus subsp. gallolyticus DSM 16831 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4422.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	BTR42_RS06865	70	106	100.0	1.1e-27
+ctg47_2	BTR42_RS06870	90	795	100.0	2.98e-290
+ctg47_7	BTR42_RS06875	92	372	98.48484848484848	1.21e-131
+ctg47_8	BTR42_RS06880	91	717	100.24509803921569	5.43e-261
+ctg47_9	BTR42_RS12520	73	64	100.0	5.72e-14
+ctg47_10	BTR42_RS06885	70	255	100.0	3e-86
+ctg47_11	BTR42_RS06890	84	506	100.0	7.91e-182
+ctg47_12	BTR42_RS06895	72	560	95.57739557739558	5.13e-199
+ctg47_13	BTR42_RS06900	66	523	98.12646370023418	1.51e-183
+ctg47_14	BTR42_RS06905	69	192	93.95973154362416	4.41e-62
+ctg47_15	BTR42_RS06910	76	332	100.0	5.66e-115
+
+
+
+>>
+35. NZ_CP013688
+Source: Streptococcus gallolyticus strain ICDDRB-NRC-S1 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4383.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AU077_RS11030	AU077_RS11030	763105	763383	+	hypothetical_protein
+AU077_RS03960	AU077_RS03960	787943	788610	-	YoaK_family_protein
+AU077_RS03965	AU077_RS03965	788719	789366	-	deoxyribonuclease_I
+AU077_RS03975	AU077_RS03975	792031	792453	-	helix-turn-helix_domain-containing_protein
+AU077_RS03995	AU077_RS03995	797778	798056	+	Rep_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	AU077_RS03955	70	106	100.0	1.09e-27
+ctg47_2	AU077_RS03950	87	765	100.0	2.26e-278
+ctg47_7	AU077_RS03945	90	364	98.48484848484848	1.93e-128
+ctg47_8	AU077_RS03940	92	723	100.24509803921569	2.82e-263
+ctg47_9	AU077_RS11035	73	64	100.0	5.72e-14
+ctg47_10	AU077_RS03935	69	251	100.0	7.05e-85
+ctg47_11	AU077_RS03930	84	508	100.0	1.37e-182
+ctg47_12	AU077_RS03925	72	563	95.57739557739558	2.2e-200
+ctg47_13	AU077_RS03920	66	519	98.12646370023418	4.98e-182
+ctg47_14	AU077_RS03915	69	192	93.95973154362416	4.41e-62
+ctg47_15	AU077_RS03910	76	328	100.0	1.33e-113
+
+
+
+>>
+36. NZ_CP113440
+Source: Streptococcus macedonicus strain E37 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4379.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+OQG81_RS06545	OQG81_RS06545	1225831	1226109	-	Rep_family_protein
+OQG81_RS06565	OQG81_RS06565	1231470	1231892	+	helix-turn-helix_domain-containing_protein
+OQG81_RS06580	OQG81_RS06580	1236132	1236779	+	deoxyribonuclease_I
+OQG81_RS06585	OQG81_RS06585	1236888	1237555	+	YoaK_family_protein
+OQG81_RS06735	OQG81_RS06735	1263262	1263387	+	helix-turn-helix_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	OQG81_RS06590	70	106	100.0	1.09e-27
+ctg47_2	OQG81_RS06595	87	765	100.0	2.26e-278
+ctg47_7	OQG81_RS06600	89	360	98.48484848484848	6.45e-127
+ctg47_8	OQG81_RS06605	92	723	100.24509803921569	2.82e-263
+ctg47_9	OQG81_RS06610	73	64	100.0	5.72e-14
+ctg47_10	OQG81_RS06615	69	251	100.0	7.05e-85
+ctg47_11	OQG81_RS06620	84	507	100.0	3.92e-182
+ctg47_12	OQG81_RS06625	72	563	95.57739557739558	1.55e-200
+ctg47_13	OQG81_RS06630	66	519	98.12646370023418	3.51e-182
+ctg47_14	OQG81_RS06635	69	192	93.95973154362416	4.41e-62
+ctg47_15	OQG81_RS06640	76	329	100.0	6.59e-114
+
+
+
+>>
+37. NZ_OU540594
+Source: Streptococcus salivarius isolate clinical strain from anonymous patient of Limoges Hospital, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4335.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	JQ844_RS03090	69	105	98.63013698630137	2.17e-27
+ctg47_2	JQ844_RS03085	89	790	100.0	2.85e-288
+ctg47_7	JQ844_RS03080	91	362	100.50505050505049	1.7e-127
+ctg47_8	JQ844_RS03075	90	709	100.24509803921569	1.18e-257
+ctg47_9	JQ844_RS03070	64	74	100.0	1.25e-17
+ctg47_10	JQ844_RS03065	54	202	100.0	3.38e-65
+ctg47_11	JQ844_RS03060	83	493	102.5089605734767	2.2e-176
+ctg47_12	JQ844_RS03055	71	555	94.84029484029483	2.97e-197
+ctg47_13	JQ844_RS03050	69	547	98.36065573770492	3.51e-193
+ctg47_14	JQ844_RS03045	59	170	98.65771812080537	4.45e-53
+ctg47_15	JQ844_RS03040	77	328	97.70642201834863	3.42e-113
+
+
+
+>>
+38. NZ_JAQCTQ010000001
+Source: Streptococcus salivarius strain AF11-2H AF11-2H.Scaf1, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4334.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	PGY86_RS00250	71	106	98.63013698630137	1.55e-27
+ctg47_2	PGY86_RS00255	88	790	100.0	5.74e-288
+ctg47_7	PGY86_RS00260	92	362	100.50505050505049	1.7e-127
+ctg47_8	PGY86_RS00265	90	709	100.24509803921569	1.18e-257
+ctg47_9	PGY86_RS00270	64	74	100.0	1.25e-17
+ctg47_10	PGY86_RS00275	55	203	100.0	8.32e-66
+ctg47_11	PGY86_RS00280	82	489	102.5089605734767	5.18e-175
+ctg47_12	PGY86_RS00285	70	553	94.84029484029483	1.71e-196
+ctg47_13	PGY86_RS00290	69	550	98.36065573770492	2.13e-194
+ctg47_14	PGY86_RS00295	59	170	98.65771812080537	4.45e-53
+ctg47_15	PGY86_RS00300	78	328	97.70642201834863	2.41e-113
+
+
+
+>>
+39. NZ_CAJHJS010000004
+Source: Streptococcus salivarius isolate AMBR074, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4333.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	JMX87_RS03775	68	104	98.63013698630137	5.99e-27
+ctg47_2	JMX87_RS03780	89	790	100.0	2.85e-288
+ctg47_7	JMX87_RS03785	91	362	100.50505050505049	1.7e-127
+ctg47_8	JMX87_RS03790	90	709	100.24509803921569	1.18e-257
+ctg47_9	JMX87_RS03795	64	74	100.0	1.25e-17
+ctg47_10	JMX87_RS03800	54	201	100.0	6.81e-65
+ctg47_11	JMX87_RS03805	82	490	102.5089605734767	1.81e-175
+ctg47_12	JMX87_RS03810	71	558	94.84029484029483	1.8e-198
+ctg47_13	JMX87_RS03815	69	547	98.36065573770492	3.51e-193
+ctg47_14	JMX87_RS03820	59	170	98.65771812080537	4.45e-53
+ctg47_15	JMX87_RS03825	77	328	97.70642201834863	3.42e-113
+
+
+
+>>
+40. NZ_CP015282
+Source: Streptococcus salivarius strain ATCC 27945 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4332.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	NX99_RS04090	67	103	98.63013698630137	1.65e-26
+ctg47_2	NX99_RS04095	89	790	100.0	2.85e-288
+ctg47_7	NX99_RS04100	91	362	100.50505050505049	1.7e-127
+ctg47_8	NX99_RS04105	90	709	100.24509803921569	1.18e-257
+ctg47_9	NX99_RS09870	64	74	100.0	1.25e-17
+ctg47_10	NX99_RS04110	55	203	100.0	1.18e-65
+ctg47_11	NX99_RS04115	83	493	102.5089605734767	2.2e-176
+ctg47_12	NX99_RS04120	71	554	94.84029484029483	5.98e-197
+ctg47_13	NX99_RS04125	68	546	98.36065573770492	4.98e-193
+ctg47_14	NX99_RS04130	59	170	98.65771812080537	3.13e-53
+ctg47_15	NX99_RS04135	77	328	97.70642201834863	3.42e-113
+
+
+
+>>
+41. NZ_LR793272
+Source: Streptococcus salivarius isolate clinical strain from anonymous patient of Nancy Hospital, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4332.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HV378_RS02870	HV378_RS02870	573827	574765	+	alpha/beta_hydrolase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	HV378_RS02935	67	103	98.63013698630137	1.65e-26
+ctg47_2	HV378_RS02930	89	790	100.0	2.85e-288
+ctg47_7	HV378_RS02925	91	362	100.50505050505049	1.7e-127
+ctg47_8	HV378_RS02920	90	709	100.24509803921569	1.18e-257
+ctg47_9	HV378_RS02915	64	74	100.0	1.25e-17
+ctg47_10	HV378_RS02910	55	203	100.0	1.18e-65
+ctg47_11	HV378_RS02905	83	493	102.5089605734767	2.2e-176
+ctg47_12	HV378_RS02900	71	554	94.84029484029483	5.98e-197
+ctg47_13	HV378_RS02895	68	546	98.36065573770492	4.98e-193
+ctg47_14	HV378_RS02890	59	170	98.65771812080537	4.45e-53
+ctg47_15	HV378_RS02885	77	328	97.70642201834863	3.42e-113
+
+
+
+>>
+42. NZ_LR793259
+Source: Streptococcus salivarius isolate clinical strain from anonymous patient at Besancon hospital, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4331.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	HV380_RS07120	68	104	98.63013698630137	5.99e-27
+ctg47_2	HV380_RS07125	88	787	100.0	6.68e-287
+ctg47_7	HV380_RS07130	92	363	100.50505050505049	5.93e-128
+ctg47_8	HV380_RS07135	90	709	100.24509803921569	1.18e-257
+ctg47_9	HV380_RS07140	64	74	100.0	1.25e-17
+ctg47_10	HV380_RS07145	55	203	100.0	1.18e-65
+ctg47_11	HV380_RS07150	83	492	102.5089605734767	3.13e-176
+ctg47_12	HV380_RS07155	71	554	94.84029484029483	5.98e-197
+ctg47_13	HV380_RS07160	68	547	99.29742388758783	3.64e-193
+ctg47_14	HV380_RS07165	59	170	98.65771812080537	4.45e-53
+ctg47_15	HV380_RS07170	77	328	97.70642201834863	3.42e-113
+
+
+
+>>
+43. NZ_JAQMJH010000001
+Source: Streptococcus salivarius strain D53st1_F1_D53t1_180928 NODE_1_length_367876_cov_9.009785, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4331.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	PNU48_RS01075	67	103	98.63013698630137	1.65e-26
+ctg47_2	PNU48_RS01070	89	790	100.0	2.85e-288
+ctg47_7	PNU48_RS01065	91	362	100.50505050505049	2.41e-127
+ctg47_8	PNU48_RS01060	90	708	100.24509803921569	1.67e-257
+ctg47_9	PNU48_RS01055	64	74	100.0	1.25e-17
+ctg47_10	PNU48_RS01050	55	203	100.0	1.18e-65
+ctg47_11	PNU48_RS01045	83	493	102.5089605734767	2.2e-176
+ctg47_12	PNU48_RS01040	71	554	94.84029484029483	5.98e-197
+ctg47_13	PNU48_RS01035	68	546	98.36065573770492	4.98e-193
+ctg47_14	PNU48_RS01030	59	170	98.65771812080537	4.45e-53
+ctg47_15	PNU48_RS01025	77	328	97.70642201834863	3.42e-113
+
+
+
+>>
+44. NZ_CP040804
+Source: Streptococcus salivarius strain LAB813 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4329.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	FHI56_RS05085	69	105	98.63013698630137	2.17e-27
+ctg47_2	FHI56_RS05080	88	787	100.0	6.68e-287
+ctg47_7	FHI56_RS05075	91	362	100.50505050505049	1.7e-127
+ctg47_8	FHI56_RS05070	90	709	100.24509803921569	1.18e-257
+ctg47_9	FHI56_RS05065	64	74	100.0	1.25e-17
+ctg47_10	FHI56_RS05060	54	200	100.0	1.37e-64
+ctg47_11	FHI56_RS05055	83	494	102.5089605734767	7.68e-177
+ctg47_12	FHI56_RS05050	70	553	94.84029484029483	1.71e-196
+ctg47_13	FHI56_RS05045	68	547	99.29742388758783	3.64e-193
+ctg47_14	FHI56_RS05040	59	170	98.65771812080537	4.45e-53
+ctg47_15	FHI56_RS05035	77	328	97.70642201834863	3.42e-113
+
+
+
+>>
+45. NZ_JAQDMG010000001
+Source: Streptococcus salivarius strain AM100_PB1_LT_1D_26A AM100_PB1_LT_1D_26A.Scaf1, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4329.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	PGP98_RS01690	68	104	98.63013698630137	6.09e-27
+ctg47_2	PGP98_RS01685	89	790	100.0	5.74e-288
+ctg47_7	PGP98_RS01680	91	362	100.50505050505049	2.41e-127
+ctg47_8	PGP98_RS01675	90	709	100.24509803921569	1.18e-257
+ctg47_9	PGP98_RS01670	64	74	100.0	1.25e-17
+ctg47_10	PGP98_RS01665	54	202	100.0	3.38e-65
+ctg47_11	PGP98_RS01660	83	494	102.5089605734767	5.41e-177
+ctg47_12	PGP98_RS01655	70	551	94.84029484029483	1.4e-195
+ctg47_13	PGP98_RS01650	68	545	98.36065573770492	2.86e-192
+ctg47_14	PGP98_RS01645	59	170	98.65771812080537	4.45e-53
+ctg47_15	PGP98_RS01640	77	328	97.70642201834863	3.42e-113
+
+
+
+>>
+46. NZ_JAQDVH010000001
+Source: Streptococcus salivarius strain AM113-115 MF3HH220010B.Scaf1, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4329.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	PGU04_RS00645	68	104	98.63013698630137	8.4e-27
+ctg47_2	PGU04_RS00640	88	788	100.0	2.33e-287
+ctg47_7	PGU04_RS00635	91	362	100.50505050505049	1.7e-127
+ctg47_8	PGU04_RS00630	90	709	100.24509803921569	1.18e-257
+ctg47_9	PGU04_RS00625	64	74	100.0	1.25e-17
+ctg47_10	PGU04_RS00620	54	197	100.0	2.26e-63
+ctg47_11	PGU04_RS00615	83	494	102.5089605734767	5.41e-177
+ctg47_12	PGU04_RS00610	71	557	94.84029484029483	5.16e-198
+ctg47_13	PGU04_RS00605	68	547	98.36065573770492	2.47e-193
+ctg47_14	PGU04_RS00600	59	170	98.65771812080537	4.45e-53
+ctg47_15	PGU04_RS00595	77	327	97.70642201834863	9.79e-113
+
+
+
+>>
+47. NZ_QRVC01000001
+Source: Streptococcus salivarius strain AF23-9AC AF23-9AC.Scaf1, whole genome shotgun sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4327.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	DWY09_RS00450	71	106	98.63013698630137	1.55e-27
+ctg47_2	DWY09_RS00455	88	790	100.0	5.74e-288
+ctg47_7	DWY09_RS00460	92	362	100.50505050505049	1.7e-127
+ctg47_8	DWY09_RS00465	90	709	100.24509803921569	1.18e-257
+ctg47_9	DWY09_RS00470	64	74	100.0	1.25e-17
+ctg47_10	DWY09_RS00475	55	203	100.0	8.32e-66
+ctg47_11	DWY09_RS00480	82	487	102.5089605734767	2.99e-174
+ctg47_12	DWY09_RS00485	70	553	94.84029484029483	1.71e-196
+ctg47_13	DWY09_RS00490	69	545	98.59484777517564	1.47e-192
+ctg47_14	DWY09_RS00495	59	170	98.65771812080537	4.45e-53
+ctg47_15	DWY09_RS00500	78	328	97.70642201834863	2.41e-113
+
+
+
+>>
+48. NZ_CP015283
+Source: Streptococcus salivarius strain ATCC 25975 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4327.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+V471_RS09940	V471_RS09940	2109219	2110468	+	ISL3_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	V471_RS10020	69	105	98.63013698630137	2.17e-27
+ctg47_2	V471_RS10025	88	787	100.0	6.68e-287
+ctg47_7	V471_RS10030	91	362	100.50505050505049	1.7e-127
+ctg47_8	V471_RS10035	90	709	100.24509803921569	1.18e-257
+ctg47_9	V471_RS10995	64	74	100.0	1.25e-17
+ctg47_10	V471_RS10040	54	200	100.0	1.37e-64
+ctg47_11	V471_RS10045	83	494	102.5089605734767	7.68e-177
+ctg47_12	V471_RS10050	70	553	94.84029484029483	1.21e-196
+ctg47_13	V471_RS10055	68	545	98.36065573770492	2.02e-192
+ctg47_14	V471_RS10060	59	170	98.65771812080537	4.45e-53
+ctg47_15	V471_RS10065	77	328	97.70642201834863	3.42e-113
+
+
+
+>>
+49. NZ_LS483366
+Source: Streptococcus salivarius strain NCTC7366 chromosome 1, complete sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4327.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	DQM60_RS07220	69	105	98.63013698630137	2.17e-27
+ctg47_2	DQM60_RS07225	88	787	100.0	6.68e-287
+ctg47_7	DQM60_RS07230	91	362	100.50505050505049	1.7e-127
+ctg47_8	DQM60_RS07235	90	709	100.24509803921569	1.18e-257
+ctg47_9	DQM60_RS07240	64	74	100.0	1.25e-17
+ctg47_10	DQM60_RS07245	54	200	100.0	1.37e-64
+ctg47_11	DQM60_RS07250	83	494	102.5089605734767	7.68e-177
+ctg47_12	DQM60_RS07255	70	553	94.84029484029483	1.21e-196
+ctg47_13	DQM60_RS07260	68	545	98.36065573770492	2.02e-192
+ctg47_14	DQM60_RS07265	59	170	98.65771812080537	4.45e-53
+ctg47_15	DQM60_RS07270	77	328	97.70642201834863	3.42e-113
+
+
+
+>>
+50. NC_015760
+Source: Streptococcus salivarius CCHSS3, complete sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4327.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SALIVB_RS07305	SALIVB_RS07305	1610820	1612069	+	ISL3_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg47_1	SALIVB_RS07210	67	103	98.63013698630137	1.65e-26
+ctg47_2	SALIVB_RS07215	88	790	100.0	4.04e-288
+ctg47_7	SALIVB_RS07220	91	362	100.50505050505049	1.7e-127
+ctg47_8	SALIVB_RS07225	90	709	100.24509803921569	1.18e-257
+ctg47_9	SALIVB_RS10795	64	74	100.0	1.25e-17
+ctg47_10	SALIVB_RS07235	54	201	100.0	6.81e-65
+ctg47_11	SALIVB_RS07240	83	490	102.5089605734767	2.57e-175
+ctg47_12	SALIVB_RS07245	70	553	94.84029484029483	2.43e-196
+ctg47_13	SALIVB_RS07250	68	546	98.36065573770492	4.98e-193
+ctg47_14	SALIVB_RS07255	59	171	98.65771812080537	2.21e-53
+ctg47_15	SALIVB_RS07260	77	328	97.70642201834863	3.42e-113
+

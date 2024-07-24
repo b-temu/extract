@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="300" width="800" viewBox="0 0 800 300" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="63,35 68,30 71,30 71,40 68,40 63,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_1&lt;/b&gt;&lt;br&gt;ctg15 1&lt;br&gt;Location: 294 - 414" locus_tag="ctg15_1" class="clusterblast-orf" id="knownclusterblast-1_q0_0_all"  />
+<polygon points="75,35 80,30 91,30 91,40 80,40 75,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_2&lt;/b&gt;&lt;br&gt;ctg15 2&lt;br&gt;Location: 473 - 734" locus_tag="ctg15_2" class="clusterblast-orf" id="knownclusterblast-1_q1_0_all"  />
+<polygon points="95,35 100,30 111,30 111,40 100,40 95,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_3&lt;/b&gt;&lt;br&gt;ctg15 3&lt;br&gt;Location: 801 - 1068" locus_tag="ctg15_3" class="clusterblast-orf" id="knownclusterblast-1_q2_0_all"  />
+<polygon points="181,35 186,30 235,30 235,40 186,40 181,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_4&lt;/b&gt;&lt;br&gt;ctg15 4&lt;br&gt;Location: 2192 - 3056" locus_tag="ctg15_4" class="clusterblast-orf" id="knownclusterblast-1_q3_0_all"  />
+<polygon points="254,35 259,30 300,30 300,40 259,40 254,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_5&lt;/b&gt;&lt;br&gt;ctg15 5&lt;br&gt;Location: 3369 - 4116" locus_tag="ctg15_5" class="clusterblast-orf" id="knownclusterblast-1_q4_0_all"  />
+<polygon points="300,35 305,30 346,30 346,40 305,40 300,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_6&lt;/b&gt;&lt;br&gt;ctg15 6&lt;br&gt;Location: 4108 - 4849" locus_tag="ctg15_6" class="clusterblast-orf" id="knownclusterblast-1_q5_0_all"  />
+<polygon points="346,35 351,30 402,30 402,40 351,40 346,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_7&lt;/b&gt;&lt;br&gt;ctg15 7&lt;br&gt;Location: 4855 - 5761" locus_tag="ctg15_7" class="clusterblast-orf" id="knownclusterblast-1_q6_0_all"  />
+<polygon points="402,35 407,30 532,30 532,40 407,40 402,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_8&lt;/b&gt;&lt;br&gt;ctg15 8&lt;br&gt;Location: 5753 - 7850" locus_tag="ctg15_8" class="clusterblast-orf" id="knownclusterblast-1_q7_0_all"  />
+<polygon points="535,35 540,30 703,30 703,40 540,40 535,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_9&lt;/b&gt;&lt;br&gt;ctg15 9&lt;br&gt;Location: 7905 - 10614" locus_tag="ctg15_9" class="clusterblast-orf" id="knownclusterblast-1_q8_0_all"  />
+<polygon points="707,35 712,30 717,30 717,40 712,40 707,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_10&lt;/b&gt;&lt;br&gt;ctg15 10&lt;br&gt;Location: 10667 - 10829" locus_tag="ctg15_10" class="clusterblast-orf" id="knownclusterblast-1_q9_0_all"  />
+</g>
+<g label="BGC0000532" description="BGC0000532_c1: mutacin II (100% of genes show similarity), RiPP:Lanthipeptide" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://mibig.secondarymetabolites.org/go/BGC0000532/1" target="_blank">BGC0000532</a>: mutacin II                                                                       (100% of genes show similarity), RiPP:Lanthipeptide</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="299,85 304,80 466,80 466,90 304,90 299,85 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC38145.1&lt;/b&gt;&lt;br&gt;&lt;br&gt;Location: 3422 - 726&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_9&lt;/b&gt;&lt;br&gt;Percentage identity: 75&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 1360&lt;br&gt;E-value: 0.0" locus_tag="AAC38145.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_1_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="470,85 475,80 480,80 480,90 475,90 470,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC38144.1&lt;/b&gt;&lt;br&gt;mutacin II&lt;br&gt;Location: 657 - 496&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_10&lt;/b&gt;&lt;br&gt;Percentage identity: 85&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 101&lt;br&gt;E-value: 1.01e-30" locus_tag="AAC38144.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_1_1"  />
+</g>
+<g label="BGC0000545" description="BGC0000545_c1: ruminococcin A (28% of genes show similarity), RiPP:Lanthipeptide" class="clusterblast-cluster"  >
+<text x="5" y="120" class="clusterblast-acc"  >
+<a xlink:href="https://mibig.secondarymetabolites.org/go/BGC0000545/1" target="_blank">BGC0000545</a>: ruminococcin A                                                                   (28% of genes show similarity), RiPP:Lanthipeptide</text>
+<line x1="10" y1="135" x2="778.0" y2="135" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,135 5,130 42,130 42,140 5,140 0,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAC60278.1&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 12578 - 11898" locus_tag="CAC60278.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_2_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="74,135 79,130 202,130 202,140 79,140 74,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAC60277.1&lt;/b&gt;&lt;br&gt;RumT protein&lt;br&gt;Location: 11380 - 9314" locus_tag="CAC60277.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_2_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="203,135 208,130 373,130 373,140 208,140 203,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAB93674.2&lt;/b&gt;&lt;br&gt;RumM protein&lt;br&gt;Location: 9295 - 6551" locus_tag="CAB93674.2" class="clusterblast-orf" id="knownclusterblast-1_all_1_2_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="383,135 388,130 392,130 392,140 388,140 383,135 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CAB93673.1&lt;/b&gt;&lt;br&gt;pre-RumA&lt;br&gt;Location: 6392 - 6249&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_10&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 94&lt;br&gt;BLAST bit score: 52&lt;br&gt;E-value: 4.34e-11" locus_tag="CAB93673.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_2_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="393,135 398,130 402,130 402,140 398,140 393,135 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CAB93672.1&lt;/b&gt;&lt;br&gt;pre-RumA&lt;br&gt;Location: 6230 - 6087&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_10&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 94&lt;br&gt;BLAST bit score: 52&lt;br&gt;E-value: 4.34e-11" locus_tag="CAB93672.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_2_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="403,135 408,130 412,130 412,140 408,140 403,135 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CAB93671.1&lt;/b&gt;&lt;br&gt;pre-RumA&lt;br&gt;Location: 6069 - 5926&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_10&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 94&lt;br&gt;BLAST bit score: 52&lt;br&gt;E-value: 4.34e-11" locus_tag="CAB93671.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_2_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="422,135 427,130 508,130 508,140 427,140 422,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAB93670.1&lt;/b&gt;&lt;br&gt;RumK protein&lt;br&gt;Location: 5759 - 4380" locus_tag="CAB93670.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_2_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="508,135 513,130 552,130 552,140 513,140 508,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAB93669.1&lt;/b&gt;&lt;br&gt;RumR protein&lt;br&gt;Location: 4375 - 3674" locus_tag="CAB93669.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_2_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="561,140 603,140 608,135 603,130 561,130 561,140 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CAB93668.2&lt;/b&gt;&lt;br&gt;RumF protein&lt;br&gt;Location: 3525 - 2761&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_7&lt;/b&gt;&lt;br&gt;Percentage identity: 50&lt;br&gt;Percentage coverage: 72&lt;br&gt;BLAST bit score: 215&lt;br&gt;E-value: 7.22e-69" locus_tag="CAB93668.2" class="clusterblast-orf" id="knownclusterblast-1_all_1_2_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="608,140 645,140 650,135 645,130 608,130 608,140 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAC60276.1&lt;/b&gt;&lt;br&gt;RumE protein&lt;br&gt;Location: 2764 - 2096" locus_tag="CAC60276.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_2_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="654,140 696,140 701,135 696,130 654,130 654,140 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAC60275.1&lt;/b&gt;&lt;br&gt;RumG protein&lt;br&gt;Location: 2025 - 1261" locus_tag="CAC60275.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_2_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="702,140 715,140 720,135 715,130 702,130 702,140 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAC60274.1&lt;/b&gt;&lt;br&gt;RumH protein&lt;br&gt;Location: 1254 - 958" locus_tag="CAC60274.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_2_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="723,140 740,140 745,135 740,130 723,130 723,140 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAC60273.1&lt;/b&gt;&lt;br&gt;RumR2 protein&lt;br&gt;Location: 911 - 561" locus_tag="CAC60273.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_2_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="761,135 766,130 780,130 780,140 766,140 761,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAC60272.1&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 297 - 1" locus_tag="CAC60272.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_2_13"  />
+</g>
+<g label="BGC0000521" description="BGC0000521_c1: lacticin 481 (20% of genes show similarity), RiPP:Lanthipeptide" class="clusterblast-cluster"  >
+<text x="5" y="170" class="clusterblast-acc"  >
+<a xlink:href="https://mibig.secondarymetabolites.org/go/BGC0000521/1" target="_blank">BGC0000521</a>: lacticin 481                                                                     (20% of genes show similarity), RiPP:Lanthipeptide</text>
+<line x1="10" y1="185" x2="778.0" y2="185" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="13,185 18,180 20,180 20,190 18,190 13,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72262.1&lt;/b&gt;&lt;br&gt;unknown&lt;br&gt;Location: 12132 - 12029" locus_tag="AAC72262.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_3_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="40,185 45,180 121,180 121,190 45,190 40,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72256.1&lt;/b&gt;&lt;br&gt;putative transposase&lt;br&gt;Location: 11707 - 10388" locus_tag="AAC72256.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_3_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="140,185 145,180 186,180 186,190 145,190 140,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72255.1&lt;/b&gt;&lt;br&gt;LctG&lt;br&gt;Location: 10087 - 9350" locus_tag="AAC72255.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_3_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="185,185 190,180 232,180 232,190 190,190 185,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72254.1&lt;/b&gt;&lt;br&gt;LctE&lt;br&gt;Location: 9356 - 8604" locus_tag="AAC72254.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_3_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="232,185 237,180 289,180 289,190 237,190 232,185 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72253.1&lt;/b&gt;&lt;br&gt;LctF&lt;br&gt;Location: 8604 - 7684&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_7&lt;/b&gt;&lt;br&gt;Percentage identity: 49&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 283&lt;br&gt;E-value: 9.8e-95" locus_tag="AAC72253.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_3_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="293,185 298,180 421,180 421,190 298,190 293,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72259.1&lt;/b&gt;&lt;br&gt;LctT&lt;br&gt;Location: 7626 - 5551" locus_tag="AAC72259.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_3_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="423,185 428,180 594,180 594,190 428,190 423,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72258.1&lt;/b&gt;&lt;br&gt;LctM&lt;br&gt;Location: 5532 - 2764" locus_tag="AAC72258.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_3_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="603,185 608,180 612,180 612,190 608,190 603,185 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72257.1&lt;/b&gt;&lt;br&gt;preprolacticin 481&lt;br&gt;Location: 2626 - 2471&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_10&lt;/b&gt;&lt;br&gt;Percentage identity: 55&lt;br&gt;Percentage coverage: 89&lt;br&gt;BLAST bit score: 56&lt;br&gt;E-value: 1.41e-12" locus_tag="AAC72257.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_3_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="638,185 643,180 720,180 720,190 643,190 638,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72261.1&lt;/b&gt;&lt;br&gt;putative transposase&lt;br&gt;Location: 2056 - 737" locus_tag="AAC72261.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_3_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="735,190 761,190 766,185 761,180 735,180 735,190 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAC72260.1&lt;/b&gt;&lt;br&gt;unknown&lt;br&gt;Location: 498 - 1" locus_tag="AAC72260.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_3_9"  />
+</g>
+<g label="BGC0000539" description="BGC0000539_c1: nukacin ISK-1 (18% of genes show similarity), RiPP:Lanthipeptide" class="clusterblast-cluster"  >
+<text x="5" y="220" class="clusterblast-acc"  >
+<a xlink:href="https://mibig.secondarymetabolites.org/go/BGC0000539/1" target="_blank">BGC0000539</a>: nukacin ISK-1                                                                    (18% of genes show similarity), RiPP:Lanthipeptide</text>
+<line x1="10" y1="235" x2="778.0" y2="235" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="30,235 35,230 76,230 76,240 35,240 30,235 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BAC98758.1&lt;/b&gt;&lt;br&gt;putative response regulator&lt;br&gt;Location: 156 - 899" locus_tag="BAC98758.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_4_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="103,235 108,230 114,230 114,240 108,240 103,235 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BAC98759.1&lt;/b&gt;&lt;br&gt;NukA&lt;br&gt;Location: 1326 - 1499&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_10&lt;/b&gt;&lt;br&gt;Percentage identity: 57&lt;br&gt;Percentage coverage: 79&lt;br&gt;BLAST bit score: 55&lt;br&gt;E-value: 3.26e-12" locus_tag="BAC98759.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_4_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="138,240 304,240 309,235 304,230 138,230 138,240 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BAC98760.2&lt;/b&gt;&lt;br&gt;NukM&lt;br&gt;Location: 1901 - 4654" locus_tag="BAC98760.2" class="clusterblast-orf" id="knownclusterblast-1_all_1_4_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="311,240 435,240 440,235 435,230 311,230 311,240 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BAC98761.2&lt;/b&gt;&lt;br&gt;NukT&lt;br&gt;Location: 4676 - 6760" locus_tag="BAC98761.2" class="clusterblast-orf" id="knownclusterblast-1_all_1_4_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="441,240 490,240 495,235 490,230 441,230 441,240 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BAC98762.1&lt;/b&gt;&lt;br&gt;NukF&lt;br&gt;Location: 6773 - 7648&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_7&lt;/b&gt;&lt;br&gt;Percentage identity: 49&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 281&lt;br&gt;E-value: 1.71e-94" locus_tag="BAC98762.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_4_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="497,240 539,240 544,235 539,230 497,230 497,240 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BAC98763.1&lt;/b&gt;&lt;br&gt;NukE&lt;br&gt;Location: 7681 - 8433" locus_tag="BAC98763.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_4_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="543,240 584,240 589,235 584,230 543,230 543,240 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BAC98764.1&lt;/b&gt;&lt;br&gt;NukG&lt;br&gt;Location: 8430 - 9167" locus_tag="BAC98764.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_4_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="590,240 602,240 607,235 602,230 590,230 590,240 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BAC98765.2&lt;/b&gt;&lt;br&gt;NukH&lt;br&gt;Location: 9174 - 9452" locus_tag="BAC98765.2" class="clusterblast-orf" id="knownclusterblast-1_all_1_4_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="614,235 619,230 626,230 626,240 619,240 614,235 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BAC98766.1&lt;/b&gt;&lt;br&gt;putative plasmid replication-associated protein&lt;br&gt;Location: 9561 - 9761" locus_tag="BAC98766.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_4_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="626,235 631,230 667,230 667,240 631,240 626,235 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BAC98767.1&lt;/b&gt;&lt;br&gt;putative plasmid replication-associated protein&lt;br&gt;Location: 9767 - 10417" locus_tag="BAC98767.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_4_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="715,240 744,240 749,235 744,230 715,230 715,240 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BAC98768.1&lt;/b&gt;&lt;br&gt;replication protein&lt;br&gt;Location: 11192 - 11740" locus_tag="BAC98768.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_4_10"  />
+</g>
+<g label="BGC0000562" description="BGC0000562_c1: variacin (100% of genes show similarity), RiPP:Lanthipeptide" class="clusterblast-cluster"  >
+<text x="5" y="270" class="clusterblast-acc"  >
+<a xlink:href="https://mibig.secondarymetabolites.org/go/BGC0000562/1" target="_blank">BGC0000562</a>: variacin                                                                         (100% of genes show similarity), RiPP:Lanthipeptide</text>
+<line x1="10" y1="285" x2="778.0" y2="285" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="385,285 390,280 394,280 394,290 390,290 385,285 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CAA63706.1&lt;/b&gt;&lt;br&gt;bacteriocin&lt;br&gt;Location: 231 - 88&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_10&lt;/b&gt;&lt;br&gt;Percentage identity: 64&lt;br&gt;Percentage coverage: 89&lt;br&gt;BLAST bit score: 66&lt;br&gt;E-value: 9.79e-17" locus_tag="CAA63706.1" class="clusterblast-orf" id="knownclusterblast-1_all_1_5_0"  />
+</g>
+</svg>

@@ -1,0 +1,854 @@
+ClusterBlast scores for NODE_110_length_7016_cov_6.405832
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg82_1	520	1279	-		
+ctg82_2	1280	2594	-		
+ctg82_3	2682	4854	-		
+ctg82_4	5685	6258	+		
+ctg82_5	6338	6875	+		
+
+
+Significant hits: 
+1. NZ_KB946108	Enterococcus faecium EnGen0263 strain UAA1280 acvJW-supercont1.3, whole genome shotgun sequence
+2. NZ_NGLI01000002	Enterococcus sp. 3G1_DIV0629 scaffold00002, whole genome shotgun sequence
+3. NZ_CP078505	Enterococcus gallinarum strain fecal_iso1 chromosome, complete genome
+4. NZ_KZ846093	Enterococcus faecium strain 131EA1 aekeh-supercont1.2, whole genome shotgun sequence
+5. NZ_KZ846230	Enterococcus faecium strain 235EA1 aekdA-supercont1.3, whole genome shotgun sequence
+6. NZ_KB946310	Enterococcus pallens ATCC BAA-351 acvKb-supercont1.6, whole genome shotgun sequence
+7. NZ_SPHN01000003	Enterococcus sp. BSD2780061688st2 D3 strain BSD2780061688st2_D3 NODE_3_length_220574_cov_62.96, whole genome shotgun sequence
+8. NZ_CP116581	Enterococcus durans strain R59-1 chromosome, complete genome
+9. NZ_CP065535	Enterococcus durans strain KCTC 13289 chromosome, complete genome
+10. NZ_LR607372	Enterococcus durans strain 4928STDY7387704 chromosome 1
+11. NZ_LR607335	Enterococcus durans strain 4928STDY7071430 chromosome 1
+12. NZ_CP031003	Latilactobacillus curvatus strain TMW 1.1928 chromosome, complete genome
+13. NZ_CP022930	Enterococcus durans strain BDGP3 chromosome, complete genome
+14. NZ_CABGKH010000008	Enterococcus durans strain 4928STDY7071647, whole genome shotgun sequence
+15. NZ_CABGOW010000003	Enterococcus durans strain 4928STDY7071468, whole genome shotgun sequence
+16. NZ_CP013655	Enterococcus rotai strain LMG 26678 chromosome
+17. NZ_KB946310	Enterococcus pallens ATCC BAA-351 acvKb-supercont1.6, whole genome shotgun sequence
+18. NZ_VBTH01000008	Pediococcus stilesii strain FAM 18815 FAM18815_scf0008, whole genome shotgun sequence
+19. NC_008525	Pediococcus pentosaceus ATCC 25745, complete sequence
+20. NZ_CP085178	Pediococcus pentosaceus strain MGB0941 chromosome, complete genome
+21. NZ_LT907930	Latilactobacillus sakei strain J18 chromosome LSAJ18, whole genome shotgun sequence
+22. NZ_CP025991	Lactiplantibacillus plantarum subsp. plantarum strain LB1-2 chromosome, complete genome
+23. NZ_CP112872	Clostridium pasteurianum strain UCM B-7570 chromosome, complete genome
+24. NZ_ATVP01000007	Streptococcus hyovaginalis DSM 12219 G574DRAFT_scaffold00007.7_C, whole genome shotgun sequence
+25. NZ_LT907929	Latilactobacillus sakei strain J156 chromosome LSAJ156, whole genome shotgun sequence
+26. NZ_LR590481	Hathewaya histolytica strain NCTC503 chromosome 1
+27. NZ_CM003135	Streptococcus thermophilus TH1477 chromosome, whole genome shotgun sequence
+28. NZ_CP063766	Enterococcus lactis strain IDCC 2105 chromosome, complete genome
+29. NZ_LN999844	Enterococcus faecium isolate EFE10021 chromosome chr, complete sequence
+30. NZ_CP040410	Dolosigranulum pigrum strain KPL3264 chromosome
+31. NZ_CP040418	Dolosigranulum pigrum strain KPL3070 chromosome, complete genome
+32. NZ_CAJHJL010000003	Dolosigranulum pigrum isolate AMBR12, whole genome shotgun sequence
+33. NZ_CP064761	Companilactobacillus futsaii strain Chongqingii CQ16Z1 chromosome, complete genome
+34. NZ_CP040736	Companilactobacillus futsaii strain Y97 chromosome, complete genome
+35. NZ_CP016468	Latilactobacillus curvatus strain TMW 1.27 plasmid pL127-1, complete sequence
+36. NZ_CP031003	Latilactobacillus curvatus strain TMW 1.1928 chromosome, complete genome
+37. NZ_CP018324	Lactiplantibacillus plantarum subsp. plantarum strain TS12 chromosome, complete genome
+38. NZ_CP068448	Lactiplantibacillus plantarum strain XJ25 chromosome, complete genome
+39. NZ_CP040374	Lactiplantibacillus plantarum subsp. plantarum strain SKO-001 chromosome, complete genome
+40. NZ_CP032744	Lactiplantibacillus paraplantarum strain DSM 10667 chromosome, complete genome
+41. NZ_CP021528	Lactiplantibacillus plantarum subsp. plantarum isolate SRCM100434 chromosome, complete genome
+42. NZ_CP028229	Lactiplantibacillus plantarum strain SRCM101222 chromosome, complete genome
+43. NZ_CP069168	Lactiplantibacillus plantarum strain CXG9 chromosome, complete genome
+44. NZ_CP028423	Lactiplantibacillus paraplantarum strain AS-7 chromosome
+45. NZ_CP045596	Streptococcus thermophilus strain TK-P3A chromosome, complete genome
+46. NZ_CP031545	Streptococcus thermophilus strain ST109 chromosome, complete genome
+47. NZ_CP065495	Streptococcus thermophilus strain CNRZ385 chromosome, complete genome
+48. NZ_LR822023	Streptococcus thermophilus isolate STH_CIRM_368 chromosome STHERMO, complete sequence
+49. NZ_CP035223	Lactiplantibacillus plantarum strain SRCM103472 chromosome, complete genome
+50. NZ_CP101640	Lactiplantibacillus plantarum strain LpYC41 chromosome, complete genome
+
+
+Details:
+
+>>
+1. NZ_KB946108
+Source: Enterococcus faecium EnGen0263 strain UAA1280 acvJW-supercont1.3, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2436.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+UA3_RS15980	UA3_RS15980	82283	82604	-	tyrosine-type_recombinase/integrase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	UA3_RS14275	93	460	98.80952380952381	1.94e-164
+ctg82_2	UA3_RS14270	87	713	100.0	2.31e-258
+ctg82_3	UA3_RS14265	91	1263	100.0	0.0
+
+
+
+>>
+2. NZ_NGLI01000002
+Source: Enterococcus sp. 3G1_DIV0629 scaffold00002, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2250.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+A5816_RS11455	A5816_RS11455	559279	559600	-	tyrosine-type_recombinase/integrase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	A5816_RS11485	93	460	98.80952380952381	1.94e-164
+ctg82_2	A5816_RS11480	88	527	72.31121281464532	6.04e-187
+ctg82_3	A5816_RS11475	91	1263	100.0	0.0
+
+
+
+>>
+3. NZ_CP078505
+Source: Enterococcus gallinarum strain fecal_iso1 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1932.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+KW861_RS14675	KW861_RS14675	3150710	3150802	+	type_I_toxin-antitoxin_system_Fst_family_toxin
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	KW861_RS14660	69	350	95.23809523809523	2.72e-121
+ctg82_2	KW861_RS14665	52	420	100.0	9.81e-143
+ctg82_3	KW861_RS14670	83	1162	100.0	0.0
+
+
+
+>>
+4. NZ_KZ846093
+Source: Enterococcus faecium strain 131EA1 aekeh-supercont1.2, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1932.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	EB12_RS07190	69	350	95.23809523809523	2.72e-121
+ctg82_2	EB12_RS07185	52	420	100.0	9.81e-143
+ctg82_3	EB12_RS07180	83	1162	100.0	0.0
+
+
+
+>>
+5. NZ_KZ846230
+Source: Enterococcus faecium strain 235EA1 aekdA-supercont1.3, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1932.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	EB33_RS09800	69	350	95.23809523809523	2.72e-121
+ctg82_2	EB33_RS09795	52	420	100.0	9.81e-143
+ctg82_3	EB33_RS09790	83	1162	100.0	0.0
+
+
+
+>>
+6. NZ_KB946310
+Source: Enterococcus pallens ATCC BAA-351 acvKb-supercont1.6, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1781.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	UAU_RS17150	75	392	99.20634920634922	1.14e-137
+ctg82_2	UAU_RS17155	52	423	97.48283752860412	3.6e-144
+ctg82_3	UAU_RS17160	69	966	100.0	0.0
+
+
+
+>>
+7. NZ_SPHN01000003
+Source: Enterococcus sp. BSD2780061688st2 D3 strain BSD2780061688st2_D3 NODE_3_length_220574_cov_62.96, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1670.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	FGQ66_RS03785	68	345	97.22222222222221	5.22e-119
+ctg82_2	FGQ66_RS03780	52	403	100.68649885583525	4.81e-136
+ctg82_3	FGQ66_RS03775	67	922	100.0	0.0
+
+
+
+>>
+8. NZ_CP116581
+Source: Enterococcus durans strain R59-1 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1667.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	PML98_RS11570	68	345	97.22222222222221	5.22e-119
+ctg82_2	PML98_RS11565	51	400	100.68649885583525	5.5e-135
+ctg82_3	PML98_RS11560	67	922	100.0	0.0
+
+
+
+>>
+9. NZ_CP065535
+Source: Enterococcus durans strain KCTC 13289 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1661.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	I4Q39_RS11260	68	345	97.22222222222221	3.68e-119
+ctg82_2	I4Q39_RS11255	51	398	100.68649885583525	6.29e-134
+ctg82_3	I4Q39_RS11250	69	715	76.62517289073307	1.29e-252
+ctg82_3	I4Q39_RS11245	57	203	22.40663900414938	2.12e-59
+
+
+
+>>
+10. NZ_LR607372
+Source: Enterococcus durans strain 4928STDY7387704 chromosome 1
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1653.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	FN740_RS05200	68	345	97.22222222222221	3.68e-119
+ctg82_2	FN740_RS05205	51	398	100.68649885583525	6.29e-134
+ctg82_3	FN740_RS05210	66	910	100.0	0.0
+
+
+
+>>
+11. NZ_LR607335
+Source: Enterococcus durans strain 4928STDY7071430 chromosome 1
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1634.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+FN576_RS13310	FN576_RS13310	2663442	2663972	-	ribonuclease_M5
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	FN576_RS11565	68	345	97.22222222222221	3.68e-119
+ctg82_2	FN576_RS11560	51	374	94.50800915331807	6.79e-125
+ctg82_3	FN576_RS11555	66	915	100.0	0.0
+
+
+
+>>
+12. NZ_CP031003
+Source: Latilactobacillus curvatus strain TMW 1.1928 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2260.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	DT351_RS09835	94	465	98.80952380952381	1.42e-166
+ctg82_2	DT351_RS09840	88	531	72.31121281464532	2.59e-188
+ctg82_3	DT351_RS09855	91	1264	100.0	0.0
+
+
+
+>>
+13. NZ_CP022930
+Source: Enterococcus durans strain BDGP3 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1595.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	CJZ72_RS02455	69	346	97.22222222222221	1.82e-119
+ctg82_2	CJZ72_RS02450	60	327	64.98855835240275	3.57e-108
+ctg82_3	CJZ72_RS02445	66	922	100.0	0.0
+
+
+
+>>
+14. NZ_CABGKH010000008
+Source: Enterococcus durans strain 4928STDY7071647, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1576.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	FN062_RS07755	65	323	97.22222222222221	2.45e-110
+ctg82_2	FN062_RS07750	60	326	64.98855835240275	5.06e-108
+ctg82_3	FN062_RS07745	67	927	100.0	0.0
+
+
+
+>>
+15. NZ_CABGOW010000003
+Source: Enterococcus durans strain 4928STDY7071468, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1500.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	FN167_RS05460	65	322	97.22222222222221	3.47e-110
+ctg82_2	FN167_RS15495	64	260	48.2837528604119	2.97e-83
+ctg82_3	FN167_RS05450	66	918	100.0	0.0
+
+
+
+>>
+16. NZ_CP013655
+Source: Enterococcus rotai strain LMG 26678 chromosome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1018.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	ATZ35_RS10635	37	176	98.80952380952381	2.07e-52
+ctg82_2	ATZ35_RS10630	33	120	55.60640732265446	1.09e-27
+ctg82_3	ATZ35_RS10640	52	722	99.72337482710927	5.7e-253
+
+
+
+>>
+17. NZ_KB946310
+Source: Enterococcus pallens ATCC BAA-351 acvKb-supercont1.6, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1016.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	UAU_RS18275	37	181	98.80952380952381	1.58e-54
+ctg82_2	UAU_RS18270	31	110	62.92906178489702	1.95e-24
+ctg82_3	UAU_RS18280	52	725	99.72337482710927	4.97e-254
+
+
+
+>>
+18. NZ_VBTH01000008
+Source: Pediococcus stilesii strain FAM 18815 FAM18815_scf0008, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 867.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	FEZ51_RS05585	37	156	96.42857142857143	9e-45
+ctg82_2	FEZ51_RS05580	32	124	61.556064073226544	2.62e-29
+ctg82_3	FEZ51_RS05555	46	587	99.44674965421854	7.43e-200
+
+
+
+>>
+19. NC_008525
+Source: Pediococcus pentosaceus ATCC 25745, complete sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 855.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	PEPE_RS00420	36	157	97.22222222222221	4.39e-45
+ctg82_2	PEPE_RS00415	36	138	57.43707093821511	2.61e-34
+ctg82_3	PEPE_RS00425	45	560	98.47856154910097	2.67e-189
+
+
+
+>>
+20. NZ_CP085178
+Source: Pediococcus pentosaceus strain MGB0941 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 848.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	Ped0941_RS00450	36	157	97.22222222222221	2.2e-45
+ctg82_2	Ped0941_RS00445	37	132	50.57208237986271	9.33e-34
+ctg82_3	Ped0941_RS00455	45	559	98.47856154910097	5.35e-189
+
+
+
+>>
+21. NZ_LT907930
+Source: Latilactobacillus sakei strain J18 chromosome LSAJ18, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 837.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	LSAJ18_RS02180	36	128	98.01587301587301	4.67e-34
+ctg82_2	LSAJ18_RS02175	33	108	45.08009153318078	9.98e-25
+ctg82_3	LSAJ18_RS02195	46	601	98.61687413554634	1.69e-205
+
+
+
+>>
+22. NZ_CP025991
+Source: Lactiplantibacillus plantarum subsp. plantarum strain LB1-2 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 767.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	C1940_RS09845	38	141	97.22222222222221	5.69e-39
+ctg82_2	C1940_RS17820	37	52	17.162471395881006	5.03e-06
+ctg82_3	C1940_RS09820	44	574	98.47856154910097	5.59e-195
+
+
+
+>>
+23. NZ_CP112872
+Source: Clostridium pasteurianum strain UCM B-7570 chromosome, complete genome
+Type: RiPP-like,cyclic-lactone-autoinducer
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 694.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+OSC52_RS06995	OSC52_RS06995	1486879	1487055	-	IS66_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	OSC52_RS07005	37	147	97.61904761904762	3.77e-41
+ctg82_2	OSC52_RS07000	33	108	47.59725400457666	1.4e-23
+ctg82_3	OSC52_RS06945	36	439	98.89349930843707	4.94e-142
+
+
+
+>>
+24. NZ_ATVP01000007
+Source: Streptococcus hyovaginalis DSM 12219 G574DRAFT_scaffold00007.7_C, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 678.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+G574_RS10870	G574_RS10870	53451	54187	+	response_regulator_transcription_factor
+G574_RS10875	G574_RS10875	58073	58861	+	ParA_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_2	G574_RS0106275	34	117	51.94508009153318	1.55e-26
+ctg82_3	G574_RS0106285	43	561	99.1701244813278	7.56e-190
+
+
+
+>>
+25. NZ_LT907929
+Source: Latilactobacillus sakei strain J156 chromosome LSAJ156, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 547.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+LSAJ156_RS02720	LSAJ156_RS02720	540910	542037	+	peptide_cleavage/export_ABC_transporter
+LSAJ156_RS02725	LSAJ156_RS02725	542426	542804	+	VOC_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	LSAJ156_RS02700	36	128	98.01587301587301	4.67e-34
+ctg82_2	LSAJ156_RS02695	32	108	44.62242562929062	3.31e-25
+ctg82_3	LSAJ156_RS02720	46	311	50.76071922544951	1.2e-97
+
+
+
+>>
+26. NZ_LR590481
+Source: Hathewaya histolytica strain NCTC503 chromosome 1
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 539.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_2	FGL08_RS02190	31	75	48.74141876430206	1.82e-12
+ctg82_3	FGL08_RS02200	38	464	98.7551867219917	1.52e-151
+
+
+
+>>
+27. NZ_CM003135
+Source: Streptococcus thermophilus TH1477 chromosome, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 884.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+Y022_RS08225	Y022_RS08225	1534144	1535031	-	ABC_transporter_ATP-binding_protein/permease
+Y022_RS08230	Y022_RS08230	1535382	1536245	-	ABC_transporter_ATP-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_2	Y022_RS11125	31	100	49.19908466819222	5.63e-22
+ctg82_3	Y022_RS08215	47	609	98.7551867219917	1.12e-208
+ctg82_3	Y022_RS08225	39	175	32.6417704011065	2.14e-47
+
+
+
+>>
+28. NZ_CP063766
+Source: Enterococcus lactis strain IDCC 2105 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 833.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_2	IPZ63_RS11435	31	112	58.35240274599543	4.5e-25
+ctg82_3	IPZ63_RS11405	53	721	99.44674965421854	1.19e-252
+
+
+
+>>
+29. NZ_LN999844
+Source: Enterococcus faecium isolate EFE10021 chromosome chr, complete sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 825.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+EFE1002_RS10740	EFE1002_RS10740	2228010	2229257	-	GHKL_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_2	EFE1002_RS10740	32	100	47.139588100686495	2.91e-21
+ctg82_3	EFE1002_RS10720	53	725	99.44674965421854	5.15e-254
+
+
+
+>>
+30. NZ_CP040410
+Source: Dolosigranulum pigrum strain KPL3264 chromosome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 813.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_2	FE335_RS05630	31	107	57.43707093821511	1.19e-23
+ctg82_3	FE335_RS05620	51	706	98.61687413554634	1.9e-246
+
+
+
+>>
+31. NZ_CP040418
+Source: Dolosigranulum pigrum strain KPL3070 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 811.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_2	FE327_RS00490	31	105	57.89473684210527	1.04e-22
+ctg82_3	FE327_RS00480	51	706	98.7551867219917	1.34e-246
+
+
+
+>>
+32. NZ_CAJHJL010000003
+Source: Dolosigranulum pigrum isolate AMBR12, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 808.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_2	JMZ69_RS04010	32	102	43.93592677345538	1.23e-21
+ctg82_3	JMZ69_RS04000	51	706	98.7551867219917	1.34e-246
+
+
+
+>>
+33. NZ_CP064761
+Source: Companilactobacillus futsaii strain Chongqingii CQ16Z1 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 778.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	IT773_RS11525	33	145	94.04761904761905	1.34e-40
+ctg82_3	IT773_RS11500	48	633	98.3402489626556	7.23e-218
+
+
+
+>>
+34. NZ_CP040736
+Source: Companilactobacillus futsaii strain Y97 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 775.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	FG051_RS11430	33	145	94.04761904761905	1.34e-40
+ctg82_3	FG051_RS11410	48	630	98.3402489626556	5.81e-217
+
+
+
+>>
+35. NZ_CP016468
+Source: Latilactobacillus curvatus strain TMW 1.27 plasmid pL127-1, complete sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 730.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	A4W75_RS09645	36	128	98.01587301587301	4.67e-34
+ctg82_3	A4W75_RS09625	46	602	98.61687413554634	8.46e-206
+
+
+
+>>
+36. NZ_CP031003
+Source: Latilactobacillus curvatus strain TMW 1.1928 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 730.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	DT351_RS07895	37	128	96.82539682539682	6.74e-34
+ctg82_3	DT351_RS07870	46	602	98.61687413554634	1.24e-205
+
+
+
+>>
+37. NZ_CP018324
+Source: Lactiplantibacillus plantarum subsp. plantarum strain TS12 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 716.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	BSG92_RS11705	37	141	97.22222222222221	4.04e-39
+ctg82_3	BSG92_RS11730	44	575	98.47856154910097	2.79e-195
+
+
+
+>>
+38. NZ_CP068448
+Source: Lactiplantibacillus plantarum strain XJ25 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 715.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	JKL54_RS01730	38	141	97.22222222222221	5.69e-39
+ctg82_3	JKL54_RS01755	44	574	98.47856154910097	5.59e-195
+
+
+
+>>
+39. NZ_CP040374
+Source: Lactiplantibacillus plantarum subsp. plantarum strain SKO-001 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 715.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	FEM46_RS01855	38	140	97.22222222222221	8.01e-39
+ctg82_3	FEM46_RS01880	44	575	98.47856154910097	3.95e-195
+
+
+
+>>
+40. NZ_CP032744
+Source: Lactiplantibacillus paraplantarum strain DSM 10667 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 715.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	LP667_RS01735	37	139	97.22222222222221	2.24e-38
+ctg82_3	LP667_RS01760	44	576	98.47856154910097	1.4e-195
+
+
+
+>>
+41. NZ_CP021528
+Source: Lactiplantibacillus plantarum subsp. plantarum isolate SRCM100434 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 714.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	S100434_RS13545	38	140	97.22222222222221	8.01e-39
+ctg82_3	S100434_RS13520	44	574	98.47856154910097	5.59e-195
+
+
+
+>>
+42. NZ_CP028229
+Source: Lactiplantibacillus plantarum strain SRCM101222 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 714.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	C7M38_RS03310	38	140	97.22222222222221	8.01e-39
+ctg82_3	C7M38_RS03285	44	574	98.47856154910097	5.59e-195
+
+
+
+>>
+43. NZ_CP069168
+Source: Lactiplantibacillus plantarum strain CXG9 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 714.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+JNO58_RS01760	JNO58_RS01760	376050	376219	-	two-peptide_bacteriocin_plantaricin_EF_subunit_PlnE
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	JNO58_RS01740	38	140	97.22222222222221	8.01e-39
+ctg82_3	JNO58_RS01765	44	574	98.47856154910097	5.59e-195
+
+
+
+>>
+44. NZ_CP028423
+Source: Lactiplantibacillus paraplantarum strain AS-7 chromosome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 714.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	DA077_RS01765	37	139	97.22222222222221	4.45e-38
+ctg82_3	DA077_RS01790	44	575	98.47856154910097	3.95e-195
+
+
+
+>>
+45. NZ_CP045596
+Source: Streptococcus thermophilus strain TK-P3A chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 714.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GFB63_RS02500	GFB63_RS02500	496889	497071	+	IS3_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_2	GFB63_RS10445	31	101	49.19908466819222	2.99e-22
+ctg82_3	GFB63_RS02550	47	613	98.7551867219917	3.47e-210
+
+
+
+>>
+46. NZ_CP031545
+Source: Streptococcus thermophilus strain ST109 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 714.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_2	DV947_RS10330	31	101	49.19908466819222	4.1e-22
+ctg82_3	DV947_RS07880	47	613	98.7551867219917	2.45e-210
+
+
+
+>>
+47. NZ_CP065495
+Source: Streptococcus thermophilus strain CNRZ385 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 714.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_2	STCNRZ385_RS08140	31	101	49.19908466819222	4.1e-22
+ctg82_3	STCNRZ385_RS08155	47	613	98.7551867219917	3.47e-210
+
+
+
+>>
+48. NZ_LR822023
+Source: Streptococcus thermophilus isolate STH_CIRM_368 chromosome STHERMO, complete sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 714.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+H0513_RS08565	H0513_RS08565	1634526	1636272	-	ABC_transporter_ATP-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_2	H0513_RS11165	31	100	49.19908466819222	1.45e-21
+ctg82_3	H0513_RS08560	47	614	98.7551867219917	1.22e-210
+
+
+
+>>
+49. NZ_CP035223
+Source: Lactiplantibacillus plantarum strain SRCM103472 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 713.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	EQW06_RS13945	38	141	97.22222222222221	5.69e-39
+ctg82_3	EQW06_RS13920	44	572	98.47856154910097	3.16e-194
+
+
+
+>>
+50. NZ_CP101640
+Source: Lactiplantibacillus plantarum strain LpYC41 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 713.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ctg82_1	NOF67_RS01880	38	141	97.22222222222221	5.69e-39
+ctg82_3	NOF67_RS01905	44	572	98.47856154910097	6.32e-194
+

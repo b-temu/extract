@@ -1,0 +1,16 @@
+ClusterBlast scores for NODE_83_length_8923_cov_7.096640
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg59_1	603	801	+		
+ctg59_2	813	996	+		
+ctg59_3	1736	1877	+		
+ctg59_4	2811	3564	+		
+ctg59_5	3628	4309	+		
+ctg59_6	4317	5208	+		
+ctg59_7	5209	5377	+		
+
+
+Significant hits: 
+
+
+Details:

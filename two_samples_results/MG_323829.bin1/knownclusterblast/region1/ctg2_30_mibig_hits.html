@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ANY57966.1</td>
+              <td>MtcG_beta-hydroxyacyl-ACP_dehydratase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001369/1">BGC0001369</a></td>
+              <td>Polyketide</td>
+              <td>40.0</td>
+              <td>84.8</td>
+              <td>101.0</td>
+              <td>1.3e-21</td>
+          </tr>
+    
+          <tr>
+              <td>ERG36778.1</td>
+              <td>3-hydroxyacyl-ACP_dehydratase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000299/1">BGC0000299</a></td>
+              <td>NRP</td>
+              <td>33.0</td>
+              <td>83.5</td>
+              <td>68.0</td>
+              <td>9.6e-12</td>
+          </tr>
+    
+          <tr>
+              <td>WP_010369411.1</td>
+              <td>3-hydroxyacyl-ACP_dehydratase_FabZ</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000314/1">BGC0000314</a></td>
+              <td>Polyketide + NRP:Cyclic depsipeptide + Other:Aminocoumarin</td>
+              <td>33.0</td>
+              <td>83.5</td>
+              <td>68.0</td>
+              <td>9.6e-12</td>
+          </tr>
+    
+          <tr>
+              <td>ADQ74612.1</td>
+              <td>beta-hydroxymyristoyl-acyl_carrier_protein_dehydratase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000921/1">BGC0000921</a></td>
+              <td>Polyketide + NRP + Other:Shikimate-derived</td>
+              <td>34.0</td>
+              <td>81.0</td>
+              <td>64.0</td>
+              <td>2.4e-10</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

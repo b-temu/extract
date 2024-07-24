@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="63,35 68,30 71,30 71,40 68,40 63,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_1&lt;/b&gt;&lt;br&gt;ctg15 1&lt;br&gt;Location: 294 - 414" locus_tag="ctg15_1" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="75,35 80,30 91,30 91,40 80,40 75,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_2&lt;/b&gt;&lt;br&gt;ctg15 2&lt;br&gt;Location: 473 - 734" locus_tag="ctg15_2" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="95,35 100,30 111,30 111,40 100,40 95,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_3&lt;/b&gt;&lt;br&gt;ctg15 3&lt;br&gt;Location: 801 - 1068" locus_tag="ctg15_3" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="181,35 186,30 235,30 235,40 186,40 181,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_4&lt;/b&gt;&lt;br&gt;ctg15 4&lt;br&gt;Location: 2192 - 3056" locus_tag="ctg15_4" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="254,35 259,30 300,30 300,40 259,40 254,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_5&lt;/b&gt;&lt;br&gt;ctg15 5&lt;br&gt;Location: 3369 - 4116" locus_tag="ctg15_5" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="300,35 305,30 346,30 346,40 305,40 300,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_6&lt;/b&gt;&lt;br&gt;ctg15 6&lt;br&gt;Location: 4108 - 4849" locus_tag="ctg15_6" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="346,35 351,30 402,30 402,40 351,40 346,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_7&lt;/b&gt;&lt;br&gt;ctg15 7&lt;br&gt;Location: 4855 - 5761" locus_tag="ctg15_7" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="402,35 407,30 532,30 532,40 407,40 402,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_8&lt;/b&gt;&lt;br&gt;ctg15 8&lt;br&gt;Location: 5753 - 7850" locus_tag="ctg15_8" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="535,35 540,30 703,30 703,40 540,40 535,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_9&lt;/b&gt;&lt;br&gt;ctg15 9&lt;br&gt;Location: 7905 - 10614" locus_tag="ctg15_9" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="707,35 712,30 717,30 717,40 712,40 707,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ctg15_10&lt;/b&gt;&lt;br&gt;ctg15 10&lt;br&gt;Location: 10667 - 10829" locus_tag="ctg15_10" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+</g>
+<g label="BGC0000545" description="BGC0000545_c1: ruminococcin A (28% of genes show similarity), RiPP:Lanthipeptide" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://mibig.secondarymetabolites.org/go/BGC0000545/1" target="_blank">BGC0000545</a>: ruminococcin A                                                                   (28% of genes show similarity), RiPP:Lanthipeptide</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 42,80 42,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAC60278.1&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 12578 - 11898" locus_tag="CAC60278.1" class="clusterblast-orf" id="dummy-1_h1_2_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="74,85 79,80 202,80 202,90 79,90 74,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAC60277.1&lt;/b&gt;&lt;br&gt;RumT protein&lt;br&gt;Location: 11380 - 9314" locus_tag="CAC60277.1" class="clusterblast-orf" id="dummy-1_h1_2_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="203,85 208,80 373,80 373,90 208,90 203,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAB93674.2&lt;/b&gt;&lt;br&gt;RumM protein&lt;br&gt;Location: 9295 - 6551" locus_tag="CAB93674.2" class="clusterblast-orf" id="dummy-1_h1_2_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="383,85 388,80 392,80 392,90 388,90 383,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CAB93673.1&lt;/b&gt;&lt;br&gt;pre-RumA&lt;br&gt;Location: 6392 - 6249&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_10&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 94&lt;br&gt;BLAST bit score: 52&lt;br&gt;E-value: 4.34e-11" locus_tag="CAB93673.1" class="clusterblast-orf" id="dummy-1_h1_2_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="393,85 398,80 402,80 402,90 398,90 393,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CAB93672.1&lt;/b&gt;&lt;br&gt;pre-RumA&lt;br&gt;Location: 6230 - 6087&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_10&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 94&lt;br&gt;BLAST bit score: 52&lt;br&gt;E-value: 4.34e-11" locus_tag="CAB93672.1" class="clusterblast-orf" id="dummy-1_h1_2_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="403,85 408,80 412,80 412,90 408,90 403,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CAB93671.1&lt;/b&gt;&lt;br&gt;pre-RumA&lt;br&gt;Location: 6069 - 5926&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_10&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 94&lt;br&gt;BLAST bit score: 52&lt;br&gt;E-value: 4.34e-11" locus_tag="CAB93671.1" class="clusterblast-orf" id="dummy-1_h1_2_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="422,85 427,80 508,80 508,90 427,90 422,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAB93670.1&lt;/b&gt;&lt;br&gt;RumK protein&lt;br&gt;Location: 5759 - 4380" locus_tag="CAB93670.1" class="clusterblast-orf" id="dummy-1_h1_2_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="508,85 513,80 552,80 552,90 513,90 508,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAB93669.1&lt;/b&gt;&lt;br&gt;RumR protein&lt;br&gt;Location: 4375 - 3674" locus_tag="CAB93669.1" class="clusterblast-orf" id="dummy-1_h1_2_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="561,90 603,90 608,85 603,80 561,80 561,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CAB93668.2&lt;/b&gt;&lt;br&gt;RumF protein&lt;br&gt;Location: 3525 - 2761&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with ctg15_7&lt;/b&gt;&lt;br&gt;Percentage identity: 50&lt;br&gt;Percentage coverage: 72&lt;br&gt;BLAST bit score: 215&lt;br&gt;E-value: 7.22e-69" locus_tag="CAB93668.2" class="clusterblast-orf" id="dummy-1_h1_2_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="608,90 645,90 650,85 645,80 608,80 608,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAC60276.1&lt;/b&gt;&lt;br&gt;RumE protein&lt;br&gt;Location: 2764 - 2096" locus_tag="CAC60276.1" class="clusterblast-orf" id="dummy-1_h1_2_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="654,90 696,90 701,85 696,80 654,80 654,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAC60275.1&lt;/b&gt;&lt;br&gt;RumG protein&lt;br&gt;Location: 2025 - 1261" locus_tag="CAC60275.1" class="clusterblast-orf" id="dummy-1_h1_2_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="702,90 715,90 720,85 715,80 702,80 702,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAC60274.1&lt;/b&gt;&lt;br&gt;RumH protein&lt;br&gt;Location: 1254 - 958" locus_tag="CAC60274.1" class="clusterblast-orf" id="dummy-1_h1_2_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="723,90 740,90 745,85 740,80 723,80 723,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAC60273.1&lt;/b&gt;&lt;br&gt;RumR2 protein&lt;br&gt;Location: 911 - 561" locus_tag="CAC60273.1" class="clusterblast-orf" id="dummy-1_h1_2_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="761,85 766,80 780,80 780,90 766,90 761,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CAC60272.1&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 297 - 1" locus_tag="CAC60272.1" class="clusterblast-orf" id="dummy-1_h1_2_13"  />
+</g>
+</svg>

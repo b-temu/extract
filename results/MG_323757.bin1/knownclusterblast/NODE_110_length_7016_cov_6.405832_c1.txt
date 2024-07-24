@@ -1,0 +1,14 @@
+ClusterBlast scores for NODE_110_length_7016_cov_6.405832
+
+Table of genes, locations, strands and annotations of query cluster:
+ctg82_1	520	1279	-		
+ctg82_2	1280	2594	-		
+ctg82_3	2682	4854	-		
+ctg82_4	5685	6258	+		
+ctg82_5	6338	6875	+		
+
+
+Significant hits: 
+
+
+Details:
