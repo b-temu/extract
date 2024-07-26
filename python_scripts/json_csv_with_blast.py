@@ -3,6 +3,17 @@ import csv
 import os
 import argparse
 
+def above_two(data_records):
+    index=[]
+    for i in range(len(data_records)):
+        modules = data_records[i]["modules"].keys()
+        if len(modules) > 2:
+            # print(i, len(modules))
+            index.append(i)
+        else:
+            continue
+    return index
+
 # Reads all of the json files in the dir
 def list_json_files(directory):
     json_files = []
@@ -11,16 +22,6 @@ def list_json_files(directory):
             if file.endswith('.json'):
                 json_files.append(os.path.join(root, file))
     return json_files
-
-def above_two(data_records):
-    index=[]
-    for i in range(len(data_records)):
-        modules = data_records[i]["modules"].keys()
-        if len(modules) > 2:
-            index.append(i)
-        else:
-            continue
-    return index
 
 def process_files(file_paths, csv_filename):
     
@@ -34,10 +35,11 @@ def process_files(file_paths, csv_filename):
             writer.writerow(["Bin_ID", "Contig_ID", "Gene_Coordinates", "Ctg_Number", "Ctg_Tag_Id", "Mibig_biosynthetic_gene_cluster", "Mibig_Product", "Blast_name", "Blast_genecluster","Blast_annotation","Blast_perc_coverage", "Blast_perc_ident", "Blast_blastscore", "Blast_evalue", "Blast_locus_tag" ])
         
         for file_path in file_paths:
+
             with open(file_path, 'r') as files:
                 data = json.load(files)
                 index_ = above_two(data["records"])
-
+                
                 for i in index_:
                     bin_id = data["input_file"]
                     contig_id = data["records"][i]["modules"]["antismash.modules.clusterblast"]["record_id"]
@@ -48,7 +50,6 @@ def process_files(file_paths, csv_filename):
                     blast_ = {}
                     for blast in blast_info:
                         ctg_name = blast[0].split("|")[4]
-                        # ctg_cordinates = blast[0].split("|")[2]
                         blast_["ctg_cordinates"] = blast[0].split("|")[2]
                         blast_name, blast_genecluster, blast_start, blast_end, blast_strand, blast_annotation, blast_perc_ident, blast_blastscore, blast_perc_coverage, blast_evalue, blast_locus_tag  = blast[2].values()
                         blast_[ctg_name] = {"blast_name" : blast_name, 
@@ -60,6 +61,46 @@ def process_files(file_paths, csv_filename):
                                             "blast_evalue": blast_evalue,
                                             "blast_locus_tag": blast_locus_tag,
                                             "cordinates": blast[0].split("|")[2] }
+
+                    blast_keys = list(blast_.keys())[1:]
+                    mibig_entries_keys = [ ctg_tagid for ctg_tagid in mibig_entries.keys()]
+        
+
+                    for ix, vl in  enumerate(blast_keys):
+                        ctg_id = vl.split("_")[0]
+                        ctg_tagid = vl
+                        ctg_cordinates = blast_[vl]["cordinates"]
+                        blast_name = blast_[vl]["blast_name"]
+                        blast_genecluster= blast_[vl]["blast_genecluster"]
+                        blast_annotation = blast_[vl]["blast_annotation"]
+                        blast_perc_coverage = blast_[vl]["blast_perc_coverage"]
+                        blast_perc_ident = blast_[vl]["blast_perc_ident"]
+                        blast_blastscore = blast_[vl]["blast_blastscore"]
+                        blast_evalue = blast_[vl]["blast_evalue"]
+                        blast_locus_tag = blast_[vl]["blast_locus_tag"]
+                        biosynthetic_gene_cluster_id=None 
+                        mibig_entries_product=None
+
+                        if vl not in mibig_entries_keys:
+                            writer.writerow([
+                                    bin_id, 
+                                    contig_id,
+                                    ctg_cordinates, 
+                                    ctg_id, 
+                                    ctg_tagid, 
+                                    biosynthetic_gene_cluster_id, 
+                                    mibig_entries_product, 
+                                    blast_name,
+                                    blast_genecluster,
+                                    blast_annotation,
+                                    blast_perc_coverage,
+                                    blast_perc_ident,
+                                    blast_blastscore,
+                                    blast_evalue,
+                                    blast_locus_tag
+                                ])
+
+
 
                     for ctg_tagid, vl in mibig_entries.items():
                         ctg_id = ctg_tagid.split("_")[0]
@@ -107,11 +148,11 @@ def process_files(file_paths, csv_filename):
                             blast_evalue,
                             blast_locus_tag
                         ])
-            
+
 def main():
     parser = argparse.ArgumentParser(description="Process JSON files and output combined results to a CSV file. Please note dont run with the same output filename it will add the same results in the file.")
     parser.add_argument('--result_dir',"-r", help='JSON files to process')
-    parser.add_argument('-o', '--output', default='output.csv', help='Output CSV file name (default: combined_output.csv)')
+    parser.add_argument('-o', '--output', default='combined_output.csv', help='Output CSV file name (default: combined_output.csv)')
     
     args = parser.parse_args()
     
